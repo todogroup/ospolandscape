@@ -1,0 +1,23 @@
+landscape:
+  - category:
+    name: TODO Group Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Airbnb (member)
+            homepage_url: https://www.airbnb.com
+            logo: airbnb.svg
+            crunchbase: https://www.crunchbase.com/organization/airbnb
+  - category:
+    name: OSPO Adopter
+    subcategories:
+      - subcategory:
+        name: OSPO Adopter
+        items:
+          - item:
+            name: 1stdibs (adopter)
+            homepage_url: https://www.1stdibs.com
+            logo: 1stdibs.svg
+            crunchbase: https://www.crunchbase.com/organization/1stdibs

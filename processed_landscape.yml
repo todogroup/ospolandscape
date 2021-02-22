@@ -1,0 +1,125 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
+landscape:
+  - category:
+    name: TODO Group Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Airbnb (member)
+            homepage_url: https://www.airbnb.com
+            logo: airbnb.svg
+            crunchbase: https://www.crunchbase.com/organization/airbnb
+            crunchbase_data:
+              name: Airbnb
+              description: Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://airbnb.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/airbnb
+              linkedin: https://www.linkedin.com/company/airbnb
+              acquisitions:
+                - date: '2011-06-01'
+                  acquiree: Accoleo
+                - date: '2012-03-20'
+                  acquiree: Crashpadder
+                - date: '2012-07-01'
+                  acquiree: NabeWise
+                - date: '2012-07-24'
+                  acquiree: DailyBooth
+                - date: '2012-10-03'
+                  acquiree: Fondu
+                - date: '2012-12-01'
+                  acquiree: Localmind
+                - date: '2014-12-02'
+                  acquiree: Pencil Labs
+                - date: '2015-09-11'
+                  acquiree: Vamo
+                - date: '2015-09-29'
+                  acquiree: Lapka
+                - date: '2016-01-01'
+                  acquiree: Bold Financial Technologies
+                - date: '2016-04-13'
+                  acquiree: ChangeCoin
+                - date: '2016-09-19'
+                  acquiree: Trip4real
+                - date: '2017-02-10'
+                  acquiree: Luxury Retreats
+                  price: 200000000
+                - date: '2017-02-23'
+                  acquiree: Tilt
+                - date: '2017-05-02'
+                  acquiree: Deco Software
+                - date: '2017-06-16'
+                  acquiree: Trooly
+                - date: '2017-11-16'
+                  acquiree: Accomable
+                - date: '2017-11-16'
+                  acquiree: AdBasis
+                - date: '2018-12-11'
+                  acquiree: Luckey
+                - date: '2019-01-25'
+                  acquiree: Gaest.com
+                - date: '2019-03-07'
+                  acquiree: HotelTonight
+                - date: '2019-08-05'
+                  acquiree: Urbandoor
+              parents: []
+              ticker: ABNB
+              funding: 5950282100
+              stockExchange: nasdaq
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 120128872448
+              effective_ticker: ABNB
+            image_data:
+              fileName: airbnb-member.svg
+              hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-02-17T23:51:06.000Z
+  - category:
+    name: OSPO Adopter
+    subcategories:
+      - subcategory:
+        name: OSPO Adopter
+        items:
+          - item:
+            name: 1stdibs (adopter)
+            homepage_url: https://www.1stdibs.com
+            logo: 1stdibs.svg
+            crunchbase: https://www.crunchbase.com/organization/1stdibs
+            crunchbase_data:
+              name: 1stdibs
+              description: 1stdibs is an internet company that offers a marketplace for rare and desirable objects in furniture, fashion, fine art, and jewelry.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://www.1stdibs.com
+              city: New York
+              region: New York
+              country: United States
+              twitter: http://twitter.com/1stdibs
+              linkedin: https://www.linkedin.com/company/1stdibs-com/
+              acquisitions:
+                - date: '2012-09-18'
+                  acquiree: Online Galleries
+                - date: '2019-05-07'
+                  acquiree: Design Manager
+              parents: []
+              funding: 253000000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: 1stdibs-adopter.svg
+              hash: 6lR4gG6HBPVIJqArifzYTnMLY/C8fall8FkRRYYyDGw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-02-22T02:05:02.000Z

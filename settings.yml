@@ -28,24 +28,10 @@ relation:
   label: TODO Group Relation
   url: todo
   values:
-    - id: hosted
-      label: GraphQL Foundation Projects
-      children:
-        - id: foundationproject
-          label: GraphQL Foundation Projects
-          prefix: GraphQL
-          tag: Foundation Project
-          color: '#3570af'
-          big_picture_order: 1
-          big_picture_label: GraphQL Foundation Project
-          big_picture_color: rgb(24,54,114)
-    - id: company
-      label: TODO Group Member
-      tag: Company
-      big_picture_order: 3
     - id: member
       label: TODO Group Member Products/Projects
       tag: TODO Group Member
+      children: []
     - id: false
       label: Non-TODO Group Member Products/Projects
       url: 'no'

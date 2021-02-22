@@ -1,0 +1,154 @@
+global:
+  name: OSPO Landscape
+  short_name: OSPO
+  repo: cncf/ospolandscape
+  website: https://ospolandscape.todogroup.org
+  short_domain: l.todogroup.org
+  company_url: https://todogroup.org
+  email: info@todogroup.org
+  self: https://www.crunchbase.com/organization/todo-group
+  slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
+  meta:
+    title: OSPO Landscape
+    fb_admin: alex.contini.94
+    description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
+    twitter: '@todogroup'
+    google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
+    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+  membership: TODO Group Member
+  flags:
+    hide_license_for_categories:
+      - OSPO Adopter
+      - TODO Group Member
+twitter:
+  search: ospolandscape.todogroup.org
+  url: https://ospolandscape.todogroup.org
+  text: OSPO Landscape
+relation:
+  label: TODO Group Relation
+  url: todo
+  values:
+    - id: hosted
+      label: GraphQL Foundation Projects
+      children:
+        - id: foundationproject
+          label: GraphQL Foundation Projects
+          prefix: GraphQL
+          tag: Foundation Project
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: GraphQL Foundation Project
+          big_picture_color: rgb(24,54,114)
+    - id: company
+      label: TODO Group Member
+      tag: Company
+      big_picture_order: 3
+    - id: member
+      label: TODO Group Member Products/Projects
+      tag: TODO Group Member
+    - id: false
+      label: Non-TODO Group Member Products/Projects
+      url: 'no'
+membership:
+  General:
+    name: TODO Group
+    label: Member
+    funding: General
+  linux_foundation:
+    name: LF
+    label: Project
+    funding: Linux Foundation
+    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
+  'false':
+    funding: 'No'
+home:
+  header: >
+    <h1>OSPO Landscape</h1> The OSPO landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
+    on the same open source code.
+  footer: |
+    Crunchbase data is used under license from Crunchbase to CNCF.
+ads:
+  - url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=ospo_landscape&utm_medium=web&utm_campaign=kccnceu20
+    image: /images/info1.jpg
+    title: Kubecon + CloudNativeCon Europe 2020
+presets:
+  - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
+    label: Open source cards by age
+  - url: /license=apache-license-2-0
+    label: Apache-2.0 landscape
+  - url: /format=card-mode&grouping=category
+    label: Cards in categories
+  - url: /format=card-mode&grouping=no&sort=stars
+    label: Cards by stars
+  - url: /format=card-mode&grouping=headquarters
+    label: Group by location
+  - url: /format=card-mode&grouping=no&sort=amount
+    label: Cards by MCap/Funding
+big_picture:
+  main:
+    tab_index: -1
+    url: landscape
+    name: Landscape
+    title: OSPO Landscape
+    fullscreen_header: See the interactive landscape at l.todogroup.org
+    elements:
+      - type: HorizontalCategory
+        category: OSPO Adopter
+        rows: 6
+        width: 970
+        height: 195
+        top: 0
+        left: 0
+        color: rgb(126,115,14)
+        fit_width: true
+      - type: HorizontalCategory
+        category: TODO Group Member
+        rows: 4
+        width: 650
+        height: 150
+        top: 210
+        left: 0
+        color: rgb(103,66,18)
+        fit_width: true
+      - type: LandscapeInfo
+        width: 310
+        height: 150
+        top: 210
+        left: 665
+        children:
+          - type: text
+            text: |
+              This landscape is intended as a map to explore the OSPO community, and also shows the member organizations of the TODO Group.
+            top: 45
+            left: 140
+            right: 10
+            font_size: 10
+          - type: image
+            image: qr.svg
+            top: 10
+            left: 20
+            width: 90
+            height: 90
+            title: QR Code
+          - type: title
+            title: l.todogroup.org
+            top: 95
+            left: 10
+            font_size: 18
+          - type: image
+            image: left-logo.svg
+            width: 90
+            right: 105
+            top: 10
+            title: Landscape Logo
+          - type: image
+            image: right-logo.svg
+            width: 90
+            right: 10
+            top: 10
+            title: TODO Group Logo
+test:
+  header: OSPO Landscape
+  section: TODO Group Member
+  logo: airbnb-member.svg

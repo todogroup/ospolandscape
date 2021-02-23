@@ -83,7 +83,7 @@ big_picture:
         category: OSPO Adopter
         rows: 6
         width: 970
-        height: 195
+        height: 285
         top: 0
         left: 0
         color: rgb(126,115,14)
@@ -93,14 +93,14 @@ big_picture:
         rows: 4
         width: 650
         height: 200
-        top: 210
+        top: 300
         left: 0
         color: rgb(103,66,18)
         fit_width: true
       - type: LandscapeInfo
         width: 310
         height: 200
-        top: 210
+        top: 300
         left: 665
         children:
           - type: text

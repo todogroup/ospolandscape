@@ -322,7 +322,312 @@ landscape:
         name: OSPO Adopter
         items:
           - item:
-            name: 1stdibs (adopter)
-            homepage_url: https://www.1stdibs.com
-            logo: 1stdibs.svg
-            crunchbase: https://www.crunchbase.com/organization/1stdibs
+            name: Adobe (Adopter)
+            homepage_url: https://www.adobe.com/
+            logo: adobe.svg
+            crunchbase: https://www.crunchbase.com/organization/adobe
+          - item:
+            name: ARM (Adopter)
+            homepage_url: https://developer.arm.com/open-source
+            logo: arm.svg
+            crunchbase: https://www.crunchbase.com/organization/arm
+          - item:
+            name: Autodesk (Adopter)
+            homepage_url: http://www.autodesk.com
+            logo: autodesk.svg
+            crunchbase: https://www.crunchbase.com/organization/autodesk
+          - item:
+            name: AWS (Adopter)
+            homepage_url: https://twitter.com/AWSOpen
+            logo: aws.svg
+            crunchbase: https://www.crunchbase.com/organization/aws
+          - item:
+            name: Baidu (Adopter)
+            homepage_url: https://github.com/baidu
+            logo: baidu.svg
+            crunchbase: https://www.crunchbase.com/organization/baidu
+          - item:
+            name: BlackRock (Adopter)
+            homepage_url: https://github.com/blackrock
+            logo: blackrock.svg
+            crunchbase: https://www.crunchbase.com/organization/blackrock
+          - item:
+            name: Bloomberg (Adopter)
+            homepage_url: https://github.com/bloomberg
+            logo: bloomberg.svg
+            crunchbase: https://www.crunchbase.com/organization/bloomberg
+          - item:
+            name: Bosch (Adopter)
+            homepage_url: https://www.bosch.com/
+            logo: bosch.svg
+            crunchbase: https://www.crunchbase.com/organization/bosch
+          - item:
+            name: Box (Adopter)
+            homepage_url: http://opensource.box.com/
+            logo: box.svg
+            crunchbase: https://www.crunchbase.com/organization/box
+          - item:
+            name: Capital One (Adopter)
+            homepage_url: http://www.capitalone.io/
+            logo: capital-one.svg
+            crunchbase: https://www.crunchbase.com/organization/capital-one
+          - item:
+            name: Change Healthcare (Adopter)
+            homepage_url: https://www.changehealthcare.com/
+            logo: change-healthcare.svg
+            crunchbase: https://www.crunchbase.com/organization/change-healthcare
+          - item:
+            name: Comcast (Adopter)
+            homepage_url: https://comcast.github.io/
+            logo: comcast.svg
+            crunchbase: https://www.crunchbase.com/organization/comcast
+          - item:
+            name: Datadog (Adopter)
+            homepage_url: https://github.com/DataDog
+            logo: datadog.svg
+            crunchbase: https://www.crunchbase.com/organization/datadog
+          - item:
+            name: Dell Technologies (Adopter)
+            homepage_url: https://github.com/dell
+            logo: dell-technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/dell-technologies
+          - item:
+            name: Didi (Adopter)
+            homepage_url: https://github.com/didi
+            logo: didi.svg
+            crunchbase: https://www.crunchbase.com/organization/didi
+          - item:
+            name: DigitalOcean (Adopter)
+            homepage_url: https://www.digitalocean.com/
+            logo: digitalocean.svg
+            crunchbase: https://www.crunchbase.com/organization/digitalocean
+          - item:
+            name: Dropbox (Adopter)
+            homepage_url: https://opensource.dropbox.com/
+            logo: dropbox.svg
+            crunchbase: https://www.crunchbase.com/organization/dropbox
+          - item:
+            name: Deutsche Bahn (Adopter)
+            homepage_url: https://www.dbsystel.de/dbsystel-en
+            logo: deutsche-bahn.svg
+            crunchbase: https://www.crunchbase.com/organization/deutsche-bahn
+          - item:
+            name: eBay (Adopter)
+            homepage_url: http://ebay.github.io/
+            logo: ebay.svg
+            crunchbase: https://www.crunchbase.com/organization/ebay
+          - item:
+            name: Elastic (Adopter)
+            homepage_url: http://elastic.co
+            logo: elastic.svg
+            crunchbase: https://www.crunchbase.com/organization/elastic
+          - item:
+            name: Facebook (Adopter)
+            homepage_url: https://code.facebook.com/projects/
+            logo: facebook.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+          - item:
+            name: Freddie Mac (Adopter)
+            homepage_url: http://www.freddiemac.com
+            logo: freddie-mac.svg
+            crunchbase: https://www.crunchbase.com/organization/freddie-mac
+          - item:
+            name: GitHub (Adopter)
+            homepage_url: https://github.com/github
+            logo: github.svg
+            crunchbase: https://www.crunchbase.com/organization/github
+          - item:
+            name: Google (Adopter)
+            homepage_url: https://opensource.google.com/
+            logo: google.svg
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: Here Technologies (Adopter)
+            homepage_url: https://github.com/heremaps
+            logo: here-technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/here-technologies
+          - item:
+            name: HPE (Adopter)
+            homepage_url: https://github.com/HewlettPackard
+            logo: hewlett-packard-enterprise.svg
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+          - item:
+            name: Huawei (Adopter)
+            homepage_url: http://www1.huawei.com/en/about-huawei/Partner/openathuawei/index.htm
+            logo: huawei.svg
+            crunchbase: https://www.crunchbase.com/organization/huawei
+          - item:
+            name: Khan Academy (Adopter)
+            homepage_url: https://www.khanacademy.org/
+            logo: khan-academy.svg
+            crunchbase: https://www.crunchbase.com/organization/khan-academy
+          - item:
+            name: IBM (Adopter)
+            homepage_url: http://ibm.github.io/
+            logo: ibm.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: Indeed (Adopter)
+            homepage_url: https://github.com/indeedeng
+            logo: indeed.svg
+            crunchbase: https://www.crunchbase.com/organization/indeed
+          - item:
+            name: Intel (Adopter)
+            homepage_url: https://01.org/
+            logo: intel.svg
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Juniper (Adopter)
+            homepage_url: https://github.com/juniper
+            logo: juniper.svg
+            crunchbase: https://www.crunchbase.com/organization/juniper
+          - item:
+            name: Microsoft (Adopter)
+            homepage_url: https://www.microsoft.com/en-us/openness
+            logo: microsoft.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: National Instruments (Adopter)
+            homepage_url: https://github.com/ni
+            logo: national-instruments.svg
+            crunchbase: https://www.crunchbase.com/organization/national-instruments
+          - item:
+            name: Netapp (Adopter)
+            homepage_url: https://netapp.com
+            logo: netapp.svg
+            crunchbase: https://www.crunchbase.com/organization/netapp
+          - item:
+            name: Netflix (Adopter)
+            homepage_url: https://netflix.github.io/
+            logo: netflix.svg
+            crunchbase: https://www.crunchbase.com/organization/netflix
+          - item:
+            name: Paypal (Adopter)
+            homepage_url: http://paypal.github.io/
+            logo: paypal.svg
+            crunchbase: https://www.crunchbase.com/organization/paypal
+          - item:
+            name: Pinterest (Adopter)
+            homepage_url: https://github.com/pinterest
+            logo: pinterest.svg
+            crunchbase: https://www.crunchbase.com/organization/pinterest
+          - item:
+            name: Porsche (Adopter)
+            homepage_url: https://www.porsche.com/
+            logo: porsche.svg
+            crunchbase: https://www.crunchbase.com/organization/porsche
+          - item:
+            name: Qualcomm (Adopter)
+            homepage_url: https://www.codeaurora.org/
+            logo: qualcomm.svg
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+          - item:
+            name: Red Hat (Adopter)
+            homepage_url: https://community.redhat.com/
+            logo: red-hat.svg
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
+            name: Rochester Institute of Technology (Adopter)
+            homepage_url: https://www.rit.edu/about-rit
+            logo: rochester-institute-of-technology.svg
+            crunchbase: https://www.crunchbase.com/organization/rochester-institute-of-technology
+          - item:
+            name: Salesforce (Adopter)
+            homepage_url: https://opensource.salesforce.com/
+            logo: salesforce.svg
+            crunchbase: https://www.crunchbase.com/organization/salesforce
+          - item:
+            name: Samsung (Adopter)
+            homepage_url: https://blogs.s-osg.org/
+            logo: samsung.svg
+            crunchbase: https://www.crunchbase.com/organization/samsung
+          - item:
+            name: Sandisk (Adopter)
+            homepage_url: https://www.sandisk.com/business/datacenter/products/flash-software/open-source
+            logo: sandisk.svg
+            crunchbase: https://www.crunchbase.com/organization/sandisk
+          - item:
+            name: SAP (Adopter)
+            homepage_url: https://github.com/sap
+            logo: sap.svg
+            crunchbase: https://www.crunchbase.com/organization/sap
+          - item:
+            name: Sauce Labs (Adopter)
+            homepage_url: https://github.com/saucelabs
+            logo: sauce-labs.svg
+            crunchbase: https://www.crunchbase.com/organization/sauce-labs
+          - item:
+            name: Scania (Adopter)
+            homepage_url: https://github.com/scania
+            logo: scania.svg
+            crunchbase: https://www.crunchbase.com/organization/scania
+          - item:
+            name: Seagate (Adopter)
+            homepage_url: https://github.com/seagate
+            logo: seagate.svg
+            crunchbase: https://www.crunchbase.com/organization/seagate
+          - item:
+            name: Spotify (Adopter)
+            homepage_url: https://github.com/spotify
+            logo: spotify.svg
+            crunchbase: https://www.crunchbase.com/organization/spotify
+          - item:
+            name: Square (Adopter)
+            homepage_url: http://corner.squareup.com
+            logo: square.svg
+            crunchbase: https://www.crunchbase.com/organization/square
+          - item:
+            name: Stripe (Adopter)
+            homepage_url: https://github.com/stripe
+            logo: stripe.svg
+            crunchbase: https://www.crunchbase.com/organization/stripe
+          - item:
+            name: Target (Adopter)
+            homepage_url: https://github.com/target
+            logo: target.svg
+            crunchbase: https://www.crunchbase.com/organization/target
+          - item:
+            name: Tencent (Adopter)
+            homepage_url: https://github.com/tencent
+            logo: tencent.svg
+            crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: Toyota (Adopter)
+            homepage_url: https://www.toyota.com
+            logo: toyota.svg
+            crunchbase: https://www.crunchbase.com/organization/toyota
+          - item:
+            name: Twitter (Adopter)
+            homepage_url: https://engineering.twitter.com/opensource
+            logo: twitter.svg
+            crunchbase: https://www.crunchbase.com/organization/twitter
+          - item:
+            name: Uber (Adopter)
+            homepage_url: https://opensource.uber.com
+            logo: uber.svg
+            crunchbase: https://www.crunchbase.com/organization/uber
+          - item:
+            name: Verizon Media (Adopter)
+            homepage_url: https://opensource.yahoo.com/
+            logo: verizon-media.svg
+            crunchbase: https://www.crunchbase.com/organization/verizon-media
+          - item:
+            name: VMWare (Adopter)
+            homepage_url: https://github.com/vmware
+            logo: vmware.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+          - item:
+            name: WalmartLabs (Adopter)
+            homepage_url: https://code.walmartlabs.com
+            logo: walmart-labs.svg
+            crunchbase: https://www.crunchbase.com/organization/walmart-labs
+          - item:
+            name: Wipro (Adopter)
+            homepage_url: https://github.com/WiproOpenSourcePractice
+            logo: wipro.svg
+            crunchbase: https://www.crunchbase.com/organization/wipro
+          - item:
+            name: Xilinx (Adopter)
+            homepage_url: https://www.xilinx.com/
+            logo: xilinx.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx

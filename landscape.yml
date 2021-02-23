@@ -327,6 +327,11 @@ landscape:
             logo: adobe.svg
             crunchbase: https://www.crunchbase.com/organization/adobe
           - item:
+            name: Apple (Adopter)
+            homepage_url: https://opensource.apple.com/
+            logo: apple.svg
+            crunchbase: https://www.crunchbase.com/organization/apple
+          - item:
             name: ARM (Adopter)
             homepage_url: https://developer.arm.com/open-source
             logo: arm.svg

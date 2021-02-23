@@ -2,7 +2,7 @@ global:
   name: OSPO Landscape
   short_name: OSPO
   repo: todogroup/ospolandscape
-  website: https://ospolandscape.todogroup.org
+  website: https://landscape.todogroup.org
   short_domain: l.todogroup.org
   company_url: https://todogroup.org
   email: info@todogroup.org
@@ -21,8 +21,8 @@ global:
       - OSPO Adopter
       - TODO Group Member
 twitter:
-  search: ospolandscape.todogroup.org
-  url: https://ospolandscape.todogroup.org
+  search: landscape.todogroup.org
+  url: https://landscape.todogroup.org
   text: OSPO Landscape
 relation:
   label: TODO Group Relation

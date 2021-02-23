@@ -2,7 +2,7 @@
 
 # OSPO Landscape
 
-![OSPO Landscape Logo](https://ospolandscape.todogroup.org/images/left-logo.svg)
+![OSPO Landscape Logo](images/left-logo.svg)
 
 - [OSPO Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)

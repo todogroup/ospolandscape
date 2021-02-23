@@ -3,10 +3,10 @@
 ## Install on Mac
 1. Install [Homebrew](https://brew.sh/)
 2. `brew install node`
-3. `git clone git@github.com:cncf/ospolandscape.git`
+3. `git clone git@github.com:todogroup/ospolandscape.git`
 
 ## Install on Linux
-1. `git clone git@github.com:cncf/ospolandscape.git`
+1. `git clone git@github.com:todogroup/ospolandscape.git`
 2. Please follow [this script](https://github.com/cncf/landscapeapp/blob/master/update_server/setup.template) to install correct versions of `nodejs` and other packages on Linux.
 
 ## Local development

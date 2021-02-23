@@ -1,4 +1,4 @@
-[![Dependency Status](https://img.shields.io/david/cncf/ospolandscape.svg?style=flat-square)](https://david-dm.org/ospo/ospolandscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/60e4aab5-cea5-4d23-8015-454e420d78e0/deploy-status)](https://app.netlify.com/sites/ospolandscape/deploys)
+[![Dependency Status](https://img.shields.io/david/todogroup/ospolandscape.svg?style=flat-square)](https://david-dm.org/ospo/ospolandscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/60e4aab5-cea5-4d23-8015-454e420d78e0/deploy-status)](https://app.netlify.com/sites/ospolandscape/deploys)
 
 # OSPO Landscape
 

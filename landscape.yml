@@ -12,12 +12,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/adobe
           - item:
             name: ARM (Member)
-            homepage_url: https://developer.arm.com/open-source
+            homepage_url: https://developer.arm.com/tools-and-software/open-source-software
             logo: arm.svg
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
             name: Autodesk (Member)
-            homepage_url: http://www.autodesk.com
+            homepage_url: https://www.autodesk.com
             logo: autodesk.svg
             crunchbase: https://www.crunchbase.com/organization/autodesk
           - item:
@@ -76,6 +76,11 @@ landscape:
             logo: dell-technologies.svg
             crunchbase: https://www.crunchbase.com/organization/dell-technologies
           - item:
+            name: Deutsche Bahn (Member)
+            homepage_url: https://www.dbsystel.de/dbsystel-en
+            logo: deutsche-bahn.svg
+            crunchbase: https://www.crunchbase.com/organization/deutsche-bahn
+          - item:
             name: Didi (Member)
             homepage_url: https://github.com/didi
             logo: didi.svg
@@ -91,23 +96,18 @@ landscape:
             logo: dropbox.svg
             crunchbase: https://www.crunchbase.com/organization/dropbox
           - item:
-            name: Deutsche Bahn (Member)
-            homepage_url: https://www.dbsystel.de/dbsystel-en
-            logo: deutsche-bahn.svg
-            crunchbase: https://www.crunchbase.com/organization/deutsche-bahn
-          - item:
             name: eBay (Member)
-            homepage_url: http://ebay.github.io/
+            homepage_url: https://ebay.github.io
             logo: ebay.svg
             crunchbase: https://www.crunchbase.com/organization/ebay
           - item:
             name: Elastic (Member)
-            homepage_url: http://elastic.co
+            homepage_url: https://www.elastic.co
             logo: elastic.svg
             crunchbase: https://www.crunchbase.com/organization/elastic
           - item:
             name: Facebook (Member)
-            homepage_url: https://code.facebook.com/projects/
+            homepage_url: https://opensource.facebook.com
             logo: facebook.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
@@ -122,7 +122,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/github
           - item:
             name: Google (Member)
-            homepage_url: https://opensource.google.com/
+            homepage_url: https://opensource.google
             logo: google.svg
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
@@ -140,11 +140,6 @@ landscape:
             homepage_url: http://www1.huawei.com/en/about-huawei/Partner/openathuawei/index.htm
             logo: huawei.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
-          - item:
-            name: Khan Academy (Member)
-            homepage_url: https://www.khanacademy.org/
-            logo: khan-academy.svg
-            crunchbase: https://www.crunchbase.com/organization/khan-academy
           - item:
             name: IBM (Member)
             homepage_url: http://ibm.github.io/
@@ -166,8 +161,13 @@ landscape:
             logo: juniper.svg
             crunchbase: https://www.crunchbase.com/organization/juniper
           - item:
+            name: Khan Academy (Member)
+            homepage_url: https://www.khanacademy.org/
+            logo: khan-academy.svg
+            crunchbase: https://www.crunchbase.com/organization/khan-academy
+          - item:
             name: Microsoft (Member)
-            homepage_url: https://www.microsoft.com/en-us/openness
+            homepage_url: https://cloudblogs.microsoft.com/opensource
             logo: microsoft.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
@@ -207,7 +207,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/qualcomm
           - item:
             name: Red Hat (Member)
-            homepage_url: https://community.redhat.com/
+            homepage_url: https://www.redhat.com/en/about/our-community-contributions
             logo: red-hat.svg
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
@@ -227,7 +227,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/samsung
           - item:
             name: Sandisk (Member)
-            homepage_url: https://www.sandisk.com/business/datacenter/products/flash-software/open-source
+            homepage_url: https://www.westerndigital.com/support/activescale
             logo: sandisk.svg
             crunchbase: https://www.crunchbase.com/organization/sandisk
           - item:
@@ -282,17 +282,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/toyota
           - item:
             name: Twitter (Member)
-            homepage_url: https://engineering.twitter.com/opensource
+            homepage_url: https://blog.twitter.com/engineering/en_us.html
             logo: twitter.svg
             crunchbase: https://www.crunchbase.com/organization/twitter
           - item:
             name: Uber (Member)
-            homepage_url: https://opensource.uber.com
+            homepage_url: https://uber.github.io
             logo: uber.svg
             crunchbase: https://www.crunchbase.com/organization/uber
           - item:
             name: Verizon Media (Member)
-            homepage_url: https://opensource.yahoo.com/
+            homepage_url: https://developer.yahoo.com/opensource
             logo: verizon-media.svg
             crunchbase: https://www.crunchbase.com/organization/verizon-media
           - item:
@@ -333,12 +333,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
             name: ARM (Adopter)
-            homepage_url: https://developer.arm.com/open-source
+            homepage_url: https://developer.arm.com/tools-and-software/open-source-software
             logo: arm.svg
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
             name: Autodesk (Adopter)
-            homepage_url: http://www.autodesk.com
+            homepage_url: https://www.autodesk.com
             logo: autodesk.svg
             crunchbase: https://www.crunchbase.com/organization/autodesk
           - item:
@@ -397,6 +397,11 @@ landscape:
             logo: dell-technologies.svg
             crunchbase: https://www.crunchbase.com/organization/dell-technologies
           - item:
+            name: Deutsche Bahn (Adopter)
+            homepage_url: https://www.dbsystel.de/dbsystel-en
+            logo: deutsche-bahn.svg
+            crunchbase: https://www.crunchbase.com/organization/deutsche-bahn
+          - item:
             name: Didi (Adopter)
             homepage_url: https://github.com/didi
             logo: didi.svg
@@ -412,23 +417,18 @@ landscape:
             logo: dropbox.svg
             crunchbase: https://www.crunchbase.com/organization/dropbox
           - item:
-            name: Deutsche Bahn (Adopter)
-            homepage_url: https://www.dbsystel.de/dbsystel-en
-            logo: deutsche-bahn.svg
-            crunchbase: https://www.crunchbase.com/organization/deutsche-bahn
-          - item:
             name: eBay (Adopter)
-            homepage_url: http://ebay.github.io/
+            homepage_url: https://ebay.github.io
             logo: ebay.svg
             crunchbase: https://www.crunchbase.com/organization/ebay
           - item:
             name: Elastic (Adopter)
-            homepage_url: http://elastic.co
+            homepage_url: https://www.elastic.co
             logo: elastic.svg
             crunchbase: https://www.crunchbase.com/organization/elastic
           - item:
             name: Facebook (Adopter)
-            homepage_url: https://code.facebook.com/projects/
+            homepage_url: https://opensource.facebook.com
             logo: facebook.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
@@ -443,7 +443,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/github
           - item:
             name: Google (Adopter)
-            homepage_url: https://opensource.google.com/
+            homepage_url: https://opensource.google
             logo: google.svg
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
@@ -461,11 +461,6 @@ landscape:
             homepage_url: http://www1.huawei.com/en/about-huawei/Partner/openathuawei/index.htm
             logo: huawei.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
-          - item:
-            name: Khan Academy (Adopter)
-            homepage_url: https://www.khanacademy.org/
-            logo: khan-academy.svg
-            crunchbase: https://www.crunchbase.com/organization/khan-academy
           - item:
             name: IBM (Adopter)
             homepage_url: http://ibm.github.io/
@@ -487,8 +482,13 @@ landscape:
             logo: juniper.svg
             crunchbase: https://www.crunchbase.com/organization/juniper
           - item:
+            name: Khan Academy (Adopter)
+            homepage_url: https://www.khanacademy.org/
+            logo: khan-academy.svg
+            crunchbase: https://www.crunchbase.com/organization/khan-academy
+          - item:
             name: Microsoft (Adopter)
-            homepage_url: https://www.microsoft.com/en-us/openness
+            homepage_url: https://cloudblogs.microsoft.com/opensource
             logo: microsoft.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
@@ -528,7 +528,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/qualcomm
           - item:
             name: Red Hat (Adopter)
-            homepage_url: https://community.redhat.com/
+            homepage_url: https://www.redhat.com/en/about/our-community-contributions
             logo: red-hat.svg
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
@@ -548,7 +548,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/samsung
           - item:
             name: Sandisk (Adopter)
-            homepage_url: https://www.sandisk.com/business/datacenter/products/flash-software/open-source
+            homepage_url: https://www.westerndigital.com/support/activescale
             logo: sandisk.svg
             crunchbase: https://www.crunchbase.com/organization/sandisk
           - item:
@@ -603,17 +603,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/toyota
           - item:
             name: Twitter (Adopter)
-            homepage_url: https://engineering.twitter.com/opensource
+            homepage_url: https://blog.twitter.com/engineering/en_us.html
             logo: twitter.svg
             crunchbase: https://www.crunchbase.com/organization/twitter
           - item:
             name: Uber (Adopter)
-            homepage_url: https://opensource.uber.com
+            homepage_url: https://uber.github.io
             logo: uber.svg
             crunchbase: https://www.crunchbase.com/organization/uber
           - item:
             name: Verizon Media (Adopter)
-            homepage_url: https://opensource.yahoo.com/
+            homepage_url: https://developer.yahoo.com/opensource
             logo: verizon-media.svg
             crunchbase: https://www.crunchbase.com/organization/verizon-media
           - item:

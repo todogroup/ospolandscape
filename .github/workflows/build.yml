@@ -46,6 +46,6 @@ jobs:
           token: ${{ secrets.PAT }}
           branch-suffix: timestamp
           path: ./main
-          title: Member update
-          labels: member-update
-          commit-message: Member update
+          title: Update members
+          labels: automated-build
+          commit-message: Update members

@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: Amwam/issue-comment-action@v1.3.1
-        if: ${{ github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'member-update') }}
+        if: ${{ github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'automated-build') }}
         with:
           keywords: '["Deploy preview for *ospolandscape* ready"]'
           labels: '["automerge"]'

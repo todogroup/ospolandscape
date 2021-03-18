@@ -327,6 +327,11 @@ landscape:
             logo: adobe.svg
             crunchbase: https://www.crunchbase.com/organization/adobe
           - item:
+            name: Alibaba (Adopter)
+            homepage_url: https://www.alibaba.com/
+            logo: alibaba.svg
+            crunchbase: https://www.crunchbase.com/organization/alibaba
+          - item:
             name: Apple (Adopter)
             homepage_url: https://opensource.apple.com/
             logo: apple.svg
@@ -442,6 +447,11 @@ landscape:
             logo: github.svg
             crunchbase: https://www.crunchbase.com/organization/github
           - item:
+            name: GitLab (Adopter)
+            homepage_url: https://gitlab.com
+            logo: gitlab.svg
+            crunchbase: https://www.crunchbase.com/organization/gitlab-com
+          - item:
             name: Google (Adopter)
             homepage_url: https://opensource.google
             logo: google.svg
@@ -476,6 +486,11 @@ landscape:
             homepage_url: https://01.org/
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: John Hopkins University (Adopter)
+            homepage_url: https://www.jhu.edu
+            logo: jhu.svg
+            crunchbase: https://www.crunchbase.com/organization/johns-hopkins-applied-physics-lab
           - item:
             name: Juniper (Adopter)
             homepage_url: https://github.com/juniper

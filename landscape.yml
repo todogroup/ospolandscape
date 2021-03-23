@@ -186,6 +186,11 @@ landscape:
             logo: netflix.svg
             crunchbase: https://www.crunchbase.com/organization/netflix
           - item:
+            name: Nokia (Member)
+            homepage_url: https://www.nokia.com/
+            logo: nokia.svg
+            crunchbase: https://www.crunchbase.com/organization/nokia
+          - item:
             name: Paypal (Member)
             homepage_url: http://paypal.github.io/
             logo: paypal.svg
@@ -521,6 +526,11 @@ landscape:
             homepage_url: https://netflix.github.io/
             logo: netflix.svg
             crunchbase: https://www.crunchbase.com/organization/netflix
+          - item:
+            name: Nokia (Adopter)
+            homepage_url: https://www.nokia.com/
+            logo: nokia.svg
+            crunchbase: https://www.crunchbase.com/organization/nokia
           - item:
             name: Paypal (Adopter)
             homepage_url: http://paypal.github.io/

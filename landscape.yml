@@ -231,11 +231,6 @@ landscape:
             logo: samsung.svg
             crunchbase: https://www.crunchbase.com/organization/samsung
           - item:
-            name: Sandisk (Member)
-            homepage_url: https://www.westerndigital.com/support/activescale
-            logo: sandisk.svg
-            crunchbase: https://www.crunchbase.com/organization/sandisk
-          - item:
             name: SAP (Member)
             homepage_url: https://github.com/sap
             logo: sap.svg
@@ -310,6 +305,11 @@ landscape:
             homepage_url: https://code.walmartlabs.com
             logo: walmart-labs.svg
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
+          - item:
+            name: Western Digital (Member)
+            homepage_url: https://github.com/westerndigitalcorporation
+            logo: westerndigital.svg
+            crunchbase: https://www.crunchbase.com/organization/western-digital
           - item:
             name: Wipro (Member)
             homepage_url: https://github.com/WiproOpenSourcePractice
@@ -572,11 +572,6 @@ landscape:
             logo: samsung.svg
             crunchbase: https://www.crunchbase.com/organization/samsung
           - item:
-            name: Sandisk (Adopter)
-            homepage_url: https://www.westerndigital.com/support/activescale
-            logo: sandisk.svg
-            crunchbase: https://www.crunchbase.com/organization/sandisk
-          - item:
             name: SAP (Adopter)
             homepage_url: https://github.com/sap
             logo: sap.svg
@@ -596,6 +591,11 @@ landscape:
             homepage_url: https://github.com/seagate
             logo: seagate.svg
             crunchbase: https://www.crunchbase.com/organization/seagate
+          - item:
+            name: Slack (Adopter)
+            homepage_url: https://github.com/slackhq
+            logo: slack.svg
+            crunchbase: https://www.crunchbase.com/organization/slack
           - item:
             name: Spotify (Adopter)
             homepage_url: https://github.com/spotify
@@ -651,6 +651,11 @@ landscape:
             homepage_url: https://code.walmartlabs.com
             logo: walmart-labs.svg
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
+          - item:
+            name: Western Digital (Adopter)
+            homepage_url: https://github.com/westerndigitalcorporation
+            logo: westerndigital.svg
+            crunchbase: https://www.crunchbase.com/organization/western-digital
           - item:
             name: Wipro (Adopter)
             homepage_url: https://github.com/WiproOpenSourcePractice

@@ -32,6 +32,7 @@ Please see [landscape.todogroup.org](https://landscape.todogroup.org).
 
 ## New Entries
 
+* OSPOs must have a public facing site (e.g., https://opensource.microsoft.com or https://opensource.google or https://twitter.github.io)
 * Projects must be open source and hosted on or mirrored to GitHub.
 * Projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.

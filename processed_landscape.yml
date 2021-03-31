@@ -13264,6 +13264,1596 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-03-26T19:59:04.000Z
+  - category:
+    name: OSPO Tools
+    subcategories:
+      - subcategory:
+        name: Documentation projects
+        items:
+          - item:
+            name: Docusaurus
+            homepage_url: https://docusaurus.io/
+            logo: docusaurus.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            repo_url: https://github.com/facebook/docusaurus
+            twitter: https://twitter.com/docusaurus
+            crunchbase_data:
+              name: Facebook
+              description: Facebook is an online social networking service that enables its users to connect with friends and family.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.facebook.com
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: https://twitter.com/facebook
+              linkedin: https://www.linkedin.com/company/facebook
+              acquisitions:
+                - date: '2007-07-01'
+                  acquiree: Parakey
+                - date: '2009-08-10'
+                  acquiree: FriendFeed
+                  price: 50000000
+                - date: '2010-02-19'
+                  acquiree: Octazen Solutions
+                - date: '2010-04-02'
+                  acquiree: Divvyshot
+                - date: '2010-05-26'
+                  acquiree: ShareGrove
+                - date: '2010-07-28'
+                  acquiree: Hot Potato
+                  price: 10000000
+                - date: '2010-08-15'
+                  acquiree: Chai Labs
+                  price: 10000000
+                - date: '2010-09-25'
+                  acquiree: Nextstop
+                  price: 2500000
+                - date: '2010-10-29'
+                  acquiree: drop.io
+                - date: '2010-11-16'
+                  acquiree: Zenbe
+                - date: '2011-01-25'
+                  acquiree: Rel8tion
+                - date: '2011-02-25'
+                  acquiree: Pursuit
+                - date: '2011-03-01'
+                  acquiree: Beluga
+                - date: '2011-03-20'
+                  acquiree: Snaptu
+                  price: 70000000
+                - date: '2011-04-27'
+                  acquiree: Daytum
+                - date: '2011-06-09'
+                  acquiree: Sofa
+                - date: '2011-08-02'
+                  acquiree: Push Pop Press
+                - date: '2011-11-07'
+                  acquiree: Digital Staircase
+                - date: '2011-11-08'
+                  acquiree: Strobe
+                - date: '2011-11-15'
+                  acquiree: MailRank
+                - date: '2011-11-28'
+                  acquiree: WhoGlue
+                - date: '2011-12-02'
+                  acquiree: Gowalla (acquired by facebook)
+                  price: 3000000
+                - date: '2012-02-29'
+                  acquiree: Sendoid
+                - date: '2012-03-03'
+                  acquiree: Friend.ly
+                - date: '2012-03-10'
+                  acquiree: GazeHawk
+                - date: '2012-04-09'
+                  acquiree: Instagram
+                  price: 1010470000
+                - date: '2012-04-13'
+                  acquiree: Tagtile
+                - date: '2012-05-04'
+                  acquiree: Glancee
+                - date: '2012-05-15'
+                  acquiree: Lightbox
+                - date: '2012-05-18'
+                  acquiree: Karma
+                - date: '2012-06-11'
+                  acquiree: Pieceable
+                - date: '2012-06-18'
+                  acquiree: Face.com
+                - date: '2012-06-21'
+                  acquiree: Bolt | Peters
+                - date: '2012-07-14'
+                  acquiree: Spool
+                - date: '2012-07-20'
+                  acquiree: Acrylic Software
+                - date: '2012-08-24'
+                  acquiree: threadsy
+                - date: '2013-02-28'
+                  acquiree: Atlas Solutions
+                - date: '2013-03-08'
+                  acquiree: 'ซุ้มมือปืน Line id : mupuen'
+                - date: '2013-03-14'
+                  acquiree: Hot Studio
+                - date: '2013-04-11'
+                  acquiree: Osmeta
+                - date: '2013-04-23'
+                  acquiree: Spaceport.io
+                - date: '2013-04-25'
+                  acquiree: Parse
+                  price: 85000000
+                - date: '2013-07-18'
+                  acquiree: Monoidics
+                - date: '2013-08-12'
+                  acquiree: Jibbigo
+                - date: '2013-10-14'
+                  acquiree: Onavo
+                  price: 120000000
+                - date: '2013-12-17'
+                  acquiree: SportStream
+                - date: '2014-01-13'
+                  acquiree: Branch
+                  price: 15000000
+                - date: '2014-02-19'
+                  acquiree: WhatsApp
+                  price: 19000000000
+                - date: '2014-03-25'
+                  acquiree: Oculus
+                  price: 2000000000
+                - date: '2014-03-28'
+                  acquiree: Ascenta (UK)
+                  price: 20000000
+                - date: '2014-04-24'
+                  acquiree: Moves
+                - date: '2014-04-24'
+                  acquiree: ProtoGeo
+                - date: '2014-07-01'
+                  acquiree: Little Eye Labs
+                - date: '2014-08-07'
+                  acquiree: PrivateCore
+                - date: '2014-08-14'
+                  acquiree: LiveRail
+                  price: 500000000
+                - date: '2015-01-05'
+                  acquiree: Wit.ai
+                - date: '2015-01-08'
+                  acquiree: QuickFire Networks
+                - date: '2015-01-16'
+                  acquiree: Teehan+Lax
+                - date: '2015-03-13'
+                  acquiree: TheFind, Inc.
+                - date: '2015-05-20'
+                  acquiree: Tugboat Yards
+                - date: '2015-10-05'
+                  acquiree: Endaga
+                - date: '2016-03-09'
+                  acquiree: Masquerade
+                - date: '2016-05-23'
+                  acquiree: Two Big Ears Ltd
+                - date: '2016-08-08'
+                  acquiree: Eyegroove
+                - date: '2016-09-19'
+                  acquiree: Nascent Objects Inc
+                - date: '2016-11-11'
+                  acquiree: CrowdTangle
+                - date: '2017-07-24'
+                  acquiree: Source3
+                - date: '2017-07-31'
+                  acquiree: Ozlo
+                - date: '2017-08-11'
+                  acquiree: Fayteq AG
+                - date: '2017-10-16'
+                  acquiree: tbh
+                - date: '2018-01-23'
+                  acquiree: Confirm.io (Acquired by Facebook)
+                - date: '2018-07-02'
+                  acquiree: Bloomsbury AI
+                - date: '2018-07-26'
+                  acquiree: RedKix
+                - date: '2018-08-14'
+                  acquiree: Vidpresso
+                - date: '2018-10-01'
+                  acquiree: Refdash
+                - date: '2018-11-28'
+                  acquiree: Dreambit
+                - date: '2019-02-08'
+                  acquiree: Grokstyle
+                - date: '2019-03-13'
+                  acquiree: Sonics
+                - date: '2019-09-22'
+                  acquiree: Servicefriend
+                - date: '2019-09-23'
+                  acquiree: CTRL-labs
+                - date: '2019-12-13'
+                  acquiree: Atlas ML
+                - date: '2019-12-19'
+                  acquiree: PlayGiga
+                - date: '2019-12-20'
+                  acquiree: Packagd
+                - date: '2020-02-09'
+                  acquiree: Scape Technologies
+                - date: '2020-02-25'
+                  acquiree: Sanzaru Games
+                - date: '2020-05-15'
+                  acquiree: Giphy
+                  price: 400000000
+                - date: '2020-06-18'
+                  acquiree: Mapillary
+                - date: '2020-09-22'
+                  acquiree: Lemnis Technologies
+                - date: '2020-11-30'
+                  acquiree: Kustomer
+                  price: 1000000000
+              parents: []
+              ticker: FB
+              funding: 16122817488
+              stockExchange: nasdaq
+              kind: market_cap
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 960680
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 682290
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 86676
+                  color: '#563d7c'
+                - name: Shell
+                  value: 1543
+                  color: '#89e051'
+                - name: EJS
+                  value: 553
+                - name: Dockerfile
+                  value: 145
+                  color: '#384d54'
+                - name: HTML
+                  value: 53
+                  color: '#e34c26'
+              contributions: >-
+                62;30;9;44;11;5;40;46;40;41;20;23;18;6;10;13;31;23;27;23;11;24;13;12;4;20;18;16;20;21;16;20;33;23;30;17;16;11;12;16;13;19;8;31;27;11;36;18;39;33;36;14
+              firstWeek: 2020-04-05Z
+              stars: 22674
+              license: Other
+              description: Easy to maintain open source documentation websites.
+              latest_commit_date: '2021-03-31T13:51:13Z'
+              latest_commit_link: /facebook/docusaurus/commit/51a7988923b0d3744cdedb6a9abcb6766b8355b4
+              release_date: '2021-03-16T11:21:04Z'
+              release_link: https://github.com/facebook/docusaurus/releases
+              contributors_count: 568
+              contributors_link: https://github.com/facebook/docusaurus/graphs/contributors
+            repos:
+              - url: https://github.com/facebook/docusaurus
+                stars: 22674
+            github_start_commit_data:
+              start_commit_link: /facebook/docusaurus/commit/e3139eea2f8e59ffa9566ae8e9438500f9fbdfa1
+              start_date: '2017-07-07T17:28:29Z'
+            yahoo_finance_data:
+              market_cap: 820128972800
+              effective_ticker: FB
+            image_data:
+              fileName: docusaurus.svg
+              hash: o7a9PVqOsRNNckFBkoBu97FeXdGQbUUJVk7ZJOJ3pn4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-25T19:48:38.000Z
+          - item:
+            name: Docsy
+            homepage_url: https://www.docsy.dev/
+            logo: docsy.svg
+            crunchbase: https://www.crunchbase.com/organization/google
+            repo_url: https://github.com/google/docsy
+            twitter: https://twitter.com/docsydocs
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that specializes in Internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.google.com/
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: https://twitter.com/google
+              linkedin: https://www.linkedin.com/company/google
+              acquisitions:
+                - date: '2001-02-12'
+                  acquiree: Deja
+                - date: '2001-09-20'
+                  acquiree: Outride
+                - date: '2003-02-17'
+                  acquiree: Pyra Labs
+                - date: '2003-04-28'
+                  acquiree: Applied Semantics
+                  price: 102000000
+                - date: '2003-06-04'
+                  acquiree: Neotonic Software
+                - date: '2003-09-30'
+                  acquiree: Kaltix
+                - date: '2003-10-07'
+                  acquiree: Genius Labs
+                - date: '2003-10-23'
+                  acquiree: Sprinks
+                - date: '2004-05-10'
+                  acquiree: Ignite Logic
+                - date: '2004-09-10'
+                  acquiree: ZipDash
+                - date: '2004-10-09'
+                  acquiree: Where2
+                - date: '2004-10-27'
+                  acquiree: Keyhole Inc.
+                - date: '2005-01-01'
+                  acquiree: Reqwireless
+                - date: '2005-03-28'
+                  acquiree: Urchin Software
+                - date: '2005-05-12'
+                  acquiree: Dodgeball
+                - date: '2005-08-16'
+                  acquiree: Android
+                  price: 50000000
+                - date: '2005-11-09'
+                  acquiree: Skia
+                - date: '2005-11-17'
+                  acquiree: Akwan Information Technologies
+                - date: '2005-12-27'
+                  acquiree: Phatbits
+                - date: '2005-12-31'
+                  acquiree: allPAY
+                - date: '2005-12-31'
+                  acquiree: bruNET
+                - date: '2006-01-01'
+                  acquiree: dMarc Broadcasting
+                  price: 102000000
+                - date: '2006-02-14'
+                  acquiree: Measure Map
+                - date: '2006-03-09'
+                  acquiree: Upstartle
+                - date: '2006-03-14'
+                  acquiree: SketchUp
+                - date: '2006-04-09'
+                  acquiree: Orion
+                - date: '2006-06-06'
+                  acquiree: 2Web Technologies
+                - date: '2006-08-15'
+                  acquiree: Neven Vision
+                - date: '2006-10-01'
+                  acquiree: YouTube
+                  price: 1650000000
+                - date: '2006-10-31'
+                  acquiree: JotSpot
+                - date: '2006-12-18'
+                  acquiree: Endoxon
+                  price: 28000000
+                - date: '2007-02-16'
+                  acquiree: Adscape
+                  price: 23000000
+                - date: '2007-03-16'
+                  acquiree: Trendalyzer
+                - date: '2007-04-17'
+                  acquiree: Tonic Systems
+                - date: '2007-04-19'
+                  acquiree: Marratech
+                - date: '2007-05-23'
+                  acquiree: Kosiso - store
+                  price: 100000000
+                - date: '2007-05-29'
+                  acquiree: GreenBorder
+                - date: '2007-05-31'
+                  acquiree: Panoramio
+                - date: '2007-06-05'
+                  acquiree: PeakStream
+                  price: 20300000
+                - date: '2007-06-19'
+                  acquiree: Zenter
+                - date: '2007-07-01'
+                  acquiree: GrandCentral
+                  price: 60000000
+                - date: '2007-07-09'
+                  acquiree: Postini
+                - date: '2007-07-20'
+                  acquiree: Image America, Inc.
+                - date: '2007-08-20'
+                  acquiree: Tianya.cn
+                - date: '2007-09-27'
+                  acquiree: Zingku
+                - date: '2007-10-09'
+                  acquiree: Jaiku
+                  price: 12000000
+                - date: '2008-03-11'
+                  acquiree: DoubleClick
+                - date: '2008-07-18'
+                  acquiree: ZAO Begun
+                  price: 140000000
+                - date: '2008-07-30'
+                  acquiree: Omnisio
+                - date: '2008-09-12'
+                  acquiree: TNC
+                - date: '2009-02-19'
+                  acquiree: On2 Technologies
+                  price: 130000000
+                - date: '2009-09-16'
+                  acquiree: reCAPTCHA
+                - date: '2009-11-09'
+                  acquiree: AdMob
+                - date: '2009-11-09'
+                  acquiree: Gizmofive
+                  price: 30000000
+                - date: '2009-11-23'
+                  acquiree: Teracent
+                - date: '2009-12-04'
+                  acquiree: AppJet
+                - date: '2009-12-05'
+                  acquiree: DocVerse
+                - date: '2010-01-25'
+                  acquiree: SayNow
+                - date: '2010-02-11'
+                  acquiree: Aardvark
+                - date: '2010-02-17'
+                  acquiree: reMail
+                - date: '2010-03-01'
+                  acquiree: Picnik
+                - date: '2010-04-02'
+                  acquiree: Episodic
+                - date: '2010-04-12'
+                  acquiree: Plink Search
+                - date: '2010-04-12'
+                  acquiree: Plink Solutions
+                - date: '2010-04-20'
+                  acquiree: Agnilux
+                - date: '2010-04-27'
+                  acquiree: LabPixies
+                - date: '2010-05-02'
+                  acquiree: BumpTop
+                - date: '2010-05-18'
+                  acquiree: Global IP Solutions
+                - date: '2010-05-20'
+                  acquiree: Simplify Media
+                - date: '2010-05-21'
+                  acquiree: Ruba
+                - date: '2010-06-02'
+                  acquiree: Invite Media
+                  price: 81000000
+                - date: '2010-07-16'
+                  acquiree: Metaweb Technologies
+                - date: '2010-07-16'
+                  acquiree: john kenneth rosel
+                - date: '2010-08-04'
+                  acquiree: Instantiations
+                - date: '2010-08-06'
+                  acquiree: Slide
+                  price: 182000000
+                - date: '2010-08-09'
+                  acquiree: Jambool
+                - date: '2010-08-13'
+                  acquiree: Zetawire
+                - date: '2010-08-20'
+                  acquiree: Like.com
+                - date: '2010-08-27'
+                  acquiree: Angstro
+                - date: '2010-08-30'
+                  acquiree: SocialDeck
+                - date: '2010-09-12'
+                  acquiree: MentorWave Technologies
+                  price: 12000000
+                - date: '2010-09-14'
+                  acquiree: Quiksee
+                - date: '2010-09-28'
+                  acquiree: Plannr
+                - date: '2010-10-01'
+                  acquiree: BlindType
+                - date: '2010-12-03'
+                  acquiree: Phonetic Arts
+                - date: '2010-12-03'
+                  acquiree: Widevine Technologies
+                  price: 160000000
+                - date: '2011-01-12'
+                  acquiree: eBook Technologies
+                - date: '2011-01-25'
+                  acquiree: fflick
+                - date: '2011-03-01'
+                  acquiree: zynamics
+                - date: '2011-03-07'
+                  acquiree: BeatThatQuote.com
+                  price: 61208155
+                - date: '2011-03-15'
+                  acquiree: Green Parrot Pictures
+                - date: '2011-04-08'
+                  acquiree: PushLife
+                - date: '2011-04-13'
+                  acquiree: ITA Software
+                  price: 700000000
+                - date: '2011-04-25'
+                  acquiree: Numovis Inc
+                - date: '2011-04-25'
+                  acquiree: TalkBin
+                - date: '2011-05-20'
+                  acquiree: modu
+                  price: 4900000
+                - date: '2011-05-23'
+                  acquiree: Sparkbuy
+                - date: '2011-06-01'
+                  acquiree: Admeld
+                  price: 411556083
+                - date: '2011-06-03'
+                  acquiree: PostRank
+                - date: '2011-06-19'
+                  acquiree: SageTV
+                - date: '2011-07-11'
+                  acquiree: Punchd
+                - date: '2011-07-20'
+                  acquiree: JustSpotted
+                - date: '2011-07-21'
+                  acquiree: Fridge
+                - date: '2011-07-22'
+                  acquiree: PittPatt
+                - date: '2011-08-01'
+                  acquiree: The Dealmap
+                - date: '2011-09-02'
+                  acquiree: Zave Networks
+                - date: '2011-09-19'
+                  acquiree: DailyDeal
+                - date: '2011-10-10'
+                  acquiree: SocialGrapple
+                - date: '2011-10-26'
+                  acquiree: Zagat
+                  price: 151000000
+                - date: '2011-11-10'
+                  acquiree: Apture
+                - date: '2011-11-10'
+                  acquiree: Katango
+                - date: '2011-12-09'
+                  acquiree: RightsFlow
+                - date: '2011-12-13'
+                  acquiree: Clever Sense
+                - date: '2012-03-16'
+                  acquiree: Milk
+                - date: '2012-04-02'
+                  acquiree: TxVia
+                - date: '2012-05-22'
+                  acquiree: Motorola Mobility
+                  price: 12500000000
+                - date: '2012-06-01'
+                  acquiree: KikScore
+                - date: '2012-06-04'
+                  acquiree: Meebo
+                  price: 100000000
+                - date: '2012-06-05'
+                  acquiree: Quickoffice
+                - date: '2012-07-20'
+                  acquiree: Sparrow
+                - date: '2012-07-31'
+                  acquiree: Wildfire
+                  price: 350000000
+                - date: '2012-08-13'
+                  acquiree: Frommer's
+                - date: '2012-09-07'
+                  acquiree: VirusTotal
+                - date: '2012-09-17'
+                  acquiree: Nik Software, Inc.
+                - date: '2012-11-28'
+                  acquiree: Incentive Targeting
+                - date: '2012-11-30'
+                  acquiree: BufferBox
+                - date: '2012-12-01'
+                  acquiree: BufferBox
+                  price: 17000000
+                - date: '2013-02-06'
+                  acquiree: Channel Intelligence
+                - date: '2013-03-12'
+                  acquiree: DNNresearch
+                - date: '2013-03-15'
+                  acquiree: Talaria
+                - date: '2013-04-18'
+                  acquiree: Behavio
+                - date: '2013-04-24'
+                  acquiree: Wavii
+                  price: 30000000
+                - date: '2013-06-11'
+                  acquiree: Waze
+                  price: 1300000000
+                - date: '2013-08-31'
+                  acquiree: WIMM Labs
+                - date: '2013-09-16'
+                  acquiree: Bump Technologies
+                  price: 30000000
+                - date: '2013-10-02'
+                  acquiree: Flutter
+                - date: '2013-10-22'
+                  acquiree: FlexyCore
+                  price: 23000000
+                - date: '2013-12-02'
+                  acquiree: Schaft
+                  price: 20000000
+                - date: '2013-12-04'
+                  acquiree: Industrial Pereception Inc.
+                - date: '2013-12-04'
+                  acquiree: Redwood Robotics
+                - date: '2013-12-05'
+                  acquiree: Meka Robotics
+                - date: '2013-12-06'
+                  acquiree: Holomni
+                - date: '2013-12-07'
+                  acquiree: Bot & Dolly
+                - date: '2013-12-08'
+                  acquiree: Autofuss
+                - date: '2013-12-13'
+                  acquiree: Boston Dynamics
+                - date: '2014-01-01'
+                  acquiree: Gridcentric
+                - date: '2014-01-01'
+                  acquiree: Nest Labs
+                  price: 3200000000
+                - date: '2014-01-16'
+                  acquiree: Impermium
+                - date: '2014-01-26'
+                  acquiree: DeepMind
+                  price: 500000000
+                - date: '2014-02-16'
+                  acquiree: SlickLogin
+                - date: '2014-02-21'
+                  acquiree: Spider.io
+                - date: '2014-03-12'
+                  acquiree: Green Throttle Games
+                - date: '2014-04-14'
+                  acquiree: Titan Aerospace
+                - date: '2014-05-02'
+                  acquiree: Rangespan
+                - date: '2014-05-06'
+                  acquiree: Adometry By Google
+                - date: '2014-05-07'
+                  acquiree: Appetas
+                - date: '2014-05-07'
+                  acquiree: Stackdriver
+                - date: '2014-05-16'
+                  acquiree: Quest Visual
+                - date: '2014-05-20'
+                  acquiree: Divide
+                  price: 120000000
+                - date: '2014-06-10'
+                  acquiree: Terra Bella
+                  price: 500000000
+                - date: '2014-06-19'
+                  acquiree: Alpental Technologies
+                - date: '2014-06-19'
+                  acquiree: mDialog
+                - date: '2014-06-25'
+                  acquiree: Appurify
+                - date: '2014-07-02'
+                  acquiree: Songza
+                - date: '2014-07-14'
+                  acquiree: CiiNOW
+                - date: '2014-07-23'
+                  acquiree: drawElements
+                - date: '2014-08-01'
+                  acquiree: Directr
+                - date: '2014-08-06'
+                  acquiree: Emu Messenger
+                - date: '2014-08-15'
+                  acquiree: Jetpac
+                - date: '2014-08-22'
+                  acquiree: Gecko Design Inc.
+                - date: '2014-08-26'
+                  acquiree: Zync Render
+                - date: '2014-09-11'
+                  acquiree: Lift Labs
+                - date: '2014-09-11'
+                  acquiree: Polar
+                - date: '2014-09-11'
+                  acquiree: TaggPic (Acquired by Google)
+                - date: '2014-10-21'
+                  acquiree: Firebase
+                - date: '2014-10-23'
+                  acquiree: Dark Blue Labs
+                - date: '2014-10-23'
+                  acquiree: Vision Factory
+                - date: '2014-11-18'
+                  acquiree: RelativeWave
+                - date: '2015-01-23'
+                  acquiree: Granata Decision Systems
+                - date: '2015-02-03'
+                  acquiree: Launchpad Toys
+                - date: '2015-02-08'
+                  acquiree: Odysee
+                - date: '2015-02-24'
+                  acquiree: Toro
+                - date: '2015-03-01'
+                  acquiree: Apportable
+                - date: '2015-03-04'
+                  acquiree: Softcard
+                - date: '2015-04-16'
+                  acquiree: Skillman & Hackett
+                - date: '2015-04-16'
+                  acquiree: Thrive Audio
+                - date: '2015-05-04'
+                  acquiree: Timeful
+                - date: '2015-05-28'
+                  acquiree: Pulse.io
+                - date: '2015-06-18'
+                  acquiree: Agawi Inc
+                - date: '2015-07-21'
+                  acquiree: Pixate
+                - date: '2015-09-21'
+                  acquiree: Oyster
+                  price: 30000000
+                - date: '2015-09-30'
+                  acquiree: Jibe Mobile
+                - date: '2015-10-13'
+                  acquiree: Divshot
+                - date: '2015-10-17'
+                  acquiree: Digisfera
+                - date: '2015-11-06'
+                  acquiree: Fly Labs
+                - date: '2015-11-19'
+                  acquiree: Bebop
+                  price: 380200000
+                - date: '2016-02-18'
+                  acquiree: Pie
+                - date: '2016-05-01'
+                  acquiree: Synergyse
+                - date: '2016-06-22'
+                  acquiree: Webpass
+                - date: '2016-07-06'
+                  acquiree: Moodstocks
+                - date: '2016-07-07'
+                  acquiree: Anvato
+                - date: '2016-07-12'
+                  acquiree: Kifi
+                - date: '2016-07-27'
+                  acquiree: LaunchKit
+                - date: '2016-08-08'
+                  acquiree: Orbitera
+                - date: '2016-09-08'
+                  acquiree: Apigee
+                  price: 625000000
+                - date: '2016-09-15'
+                  acquiree: Urban Engines
+                - date: '2016-09-19'
+                  acquiree: Dialogflow
+                - date: '2016-10-01'
+                  acquiree: Undecidable Labs
+                - date: '2016-10-11'
+                  acquiree: FameBit
+                - date: '2016-10-24'
+                  acquiree: Eyefluence
+                - date: '2016-11-07'
+                  acquiree: LeapDroid
+                - date: '2016-11-21'
+                  acquiree: Qwiklabs
+                - date: '2016-12-12'
+                  acquiree: Cronologics Corporation
+                - date: '2017-01-06'
+                  acquiree: Limes Audio
+                - date: '2017-01-18'
+                  acquiree: Crashlytics
+                - date: '2017-01-18'
+                  acquiree: Fastlane
+                - date: '2017-03-07'
+                  acquiree: Kaggle
+                - date: '2017-03-09'
+                  acquiree: AppBridge
+                - date: '2017-05-10'
+                  acquiree: Owlchemy Labs
+                - date: '2017-07-12'
+                  acquiree: Halli Labs
+                - date: '2017-08-06'
+                  acquiree: Redux ST
+                - date: '2017-08-14'
+                  acquiree: Senosis Health
+                - date: '2017-08-16'
+                  acquiree: AIMatter
+                - date: '2017-09-21'
+                  acquiree: HTC - Pixel Phone Division
+                  price: 1100000000
+                - date: '2017-10-09'
+                  acquiree: Relay Media
+                - date: '2017-10-11'
+                  acquiree: 60dB
+                - date: '2018-02-15'
+                  acquiree: Xively
+                  price: 50000000
+                - date: '2018-03-27'
+                  acquiree: Tenor Inc
+                - date: '2018-05-09'
+                  acquiree: Velostrata
+                - date: '2018-05-15'
+                  acquiree: Cask
+                - date: '2018-08-06'
+                  acquiree: GraphicsFuzz
+                - date: '2018-10-02'
+                  acquiree: Onward
+                - date: '2018-11-28'
+                  acquiree: Workbench Platform
+                - date: '2018-12-10'
+                  acquiree: Where Is My Train
+                - date: '2018-12-20'
+                  acquiree: DevOps Research and Assessment
+                - date: '2019-02-19'
+                  acquiree: Alooma
+                - date: '2019-06-06'
+                  acquiree: Looker
+                  price: 2600000000
+                - date: '2019-07-09'
+                  acquiree: Elastifile
+                - date: '2019-08-17'
+                  acquiree: Socratic
+                - date: '2019-11-01'
+                  acquiree: Fitbit
+                  price: 2100000000
+                - date: '2019-12-12'
+                  acquiree: Typhoon Studios
+                - date: '2020-01-14'
+                  acquiree: Pointy
+                  price: 163000000
+                - date: '2020-01-15'
+                  acquiree: AppSheet
+                - date: '2020-06-29'
+                  acquiree: North
+                  price: 180000000
+                - date: '2020-12-15'
+                  acquiree: Neverware
+              parents:
+                - https://www.crunchbase.com/organization/alphabet
+              ticker: GOOG
+              funding: 36100000
+              stockExchange: nasdaq
+              kind: market_cap
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 79702
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 51066
+                  color: '#e34c26'
+                - name: SCSS
+                  value: 28581
+                - name: CSS
+                  value: 3889
+                  color: '#563d7c'
+                - name: Shell
+                  value: 727
+                  color: '#89e051'
+              contributions: 10;14;0;4;1;1;2;7;0;0;4;8;4;3;0;7;5;12;2;4;6;0;1;7;4;5;6;4;4;8;8;0;5;14;6;6;10;6;2;8;8;4;8;15;5;2;0;15;6;13;6;7
+              firstWeek: 2020-04-05Z
+              stars: 1105
+              license: Apache License 2.0
+              description: A set of Hugo doc templates for launching open source content.
+              latest_commit_date: '2021-03-30T19:11:28Z'
+              latest_commit_link: /google/docsy/commit/9bfc49d9d985a48a9af7ed0274ad65364c813f37
+              contributors_count: 93
+              contributors_link: https://github.com/google/docsy/graphs/contributors
+            repos:
+              - url: https://github.com/google/docsy
+                stars: 1105
+            github_start_commit_data:
+              start_commit_link: /google/docsy/commit/91dcacf6f187c2542c629aa946cad26a4d6ee40d
+              start_date: '2018-06-25T08:03:24Z'
+            yahoo_finance_data:
+              market_cap: 1382194479104
+              effective_ticker: GOOG
+            image_data:
+              fileName: docsy.svg
+              hash: BNx4GV1aumyYS8I/qZRdkwwGNTSdFTKlz8gBb7Bi+lE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-05T18:04:02.000Z
+      - subcategory:
+        name: Licensing
+        items:
+          - item:
+            name: SPDX
+            homepage_url: https://spdx.dev
+            repo_url: https://github.com/spdx/spdx-spec
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            logo: spdx.svg
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.linuxfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/linuxfoundation
+              linkedin: https://www.linkedin.com/company/the-linux-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: HTML
+                  value: 306097
+                  color: '#e34c26'
+                - name: CSS
+                  value: 6919
+                  color: '#563d7c'
+                - name: Python
+                  value: 5905
+                  color: '#3572A5'
+              contributions: 7;0;17;15;29;42;8;26;15;24;29;36;10;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-04-05Z
+              stars: 83
+              license: Other
+              description: The SPDX specification in MarkDown and HTML formats.
+              latest_commit_date: '2021-02-02T18:06:26Z'
+              latest_commit_link: /spdx/spdx-spec/commit/3dddfc34d7e770d4c17fc19f61be8554e3934c3d
+              release_date: '2020-06-04T12:32:25Z'
+              release_link: https://github.com/spdx/spdx-spec/releases
+              contributors_count: 17
+              contributors_link: https://github.com/spdx/spdx-spec/graphs/contributors
+            repos:
+              - url: https://github.com/spdx/spdx-spec
+                stars: 83
+            github_start_commit_data:
+              start_commit_link: /spdx/spdx-spec/commit/01597d36837bdcdf70f0501f50284eb7a94a6341
+              start_date: '2011-08-17T08:00:00Z'
+            image_data:
+              fileName: spdx.svg
+              hash: jjLwvdcKCxRHsDyY4kZa7o9LwNpBjZwz/lJoo4581o4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-31T16:06:11.000Z
+          - item:
+            name: OSS Review Toolkit
+            logo: missing.svg
+            homepage_url: https://github.com/oss-review-toolkit/ort
+            repo_url: https://github.com/oss-review-toolkit/ort
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.linuxfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/linuxfoundation
+              linkedin: https://www.linkedin.com/company/the-linux-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 2930640
+                  color: '#F18E33'
+                - name: JavaScript
+                  value: 337630
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 34185
+                  color: '#e34c26'
+                - name: CSS
+                  value: 24865
+                  color: '#563d7c'
+                - name: Python
+                  value: 21694
+                  color: '#3572A5'
+                - name: FreeMarker
+                  value: 13132
+                  color: '#0050b2'
+                - name: Shell
+                  value: 7793
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 7514
+                  color: '#384d54'
+                - name: Scala
+                  value: 6656
+                  color: '#c22d40'
+                - name: Ruby
+                  value: 3515
+                  color: '#701516'
+                - name: ANTLR
+                  value: 1877
+                  color: '#9DC3FF'
+                - name: Go
+                  value: 1071
+                  color: '#00ADD8'
+                - name: Rust
+                  value: 280
+                  color: '#dea584'
+              contributions: >-
+                51;35;57;67;37;55;53;35;40;58;54;66;67;44;30;18;39;35;23;43;72;56;68;63;60;61;35;32;19;22;46;46;31;45;68;57;41;25;1;17;37;18;27;41;71;39;57;74;58;56;70;38
+              firstWeek: 2020-04-05Z
+              stars: 455
+              license: Apache License 2.0
+              description: A suite of tools to assist with reviewing Open Source Software dependencies.
+              latest_commit_date: '2021-03-30T14:13:42Z'
+              latest_commit_link: /oss-review-toolkit/ort/commit/dee26a1e2d7e26ac448878a49f1becc4c5ccbb71
+              contributors_count: 45
+              contributors_link: https://github.com/oss-review-toolkit/ort/graphs/contributors
+            repos:
+              - url: https://github.com/oss-review-toolkit/ort
+                stars: 455
+            github_start_commit_data:
+              start_commit_link: /oss-review-toolkit/ort/commit/0b17041c9e6c38fb7af1d3d51232de2869610ac7
+              start_date: '2017-03-27T12:54:50Z'
+            image_data:
+              fileName: oss-review-toolkit.svg
+              hash: Zg/fAx2b+r/y+NIW4rv3MzHre/fZdycAbwdiF7AU69s=
+            best_practice_data:
+              badge: 4618
+              percentage: 73
+            twitter_data:
+              latest_tweet_date: 2021-03-31T16:06:11.000Z
+          - item:
+            name: FOSSA License Compliance
+            logo: fossa.svg
+            homepage_url: https://fossa.com/product/open-source-license-compliance
+            crunchbase: https://www.crunchbase.com/organization/fossa-2
+            crunchbase_data:
+              name: FOSSA
+              description: FOSSA provides a platform that helps enterprises manage and maximize open source use at scale.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://fossa.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/getfossa
+              linkedin: https://www.linkedin.com/company/fossa/
+              acquisitions: []
+              parents: []
+              funding: 33900000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: fossa-license-compliance.svg
+              hash: Yg4pXjWGsvLY0ODkrYT9QS3J96kQfEci0n1mgG21xSg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-26T23:45:37.000Z
+          - item:
+            name: FossID
+            logo: fossid.svg
+            homepage_url: https://fossid.com
+            crunchbase: https://www.crunchbase.com/organization/fossid
+            crunchbase_data:
+              name: FOSSID
+              description: FOSSID is a software solution that integrates in development process seamlessly and detects all footprints of free and open source software.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://fossid.com/
+              city: Stockholm
+              region: Stockholms Lan
+              country: Sweden
+              twitter: https://twitter.com/FOSSID_AB
+              linkedin: https://www.linkedin.com/company/fossid-ab
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: foss-id.svg
+              hash: Xld5RkdSpYK1LXANPge+GHZr2tAZmx0bWv7nVLbvhhU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-31T08:38:43.000Z
+          - item:
+            name: Snyk Open Source License Compliance Management
+            logo: snyk.svg
+            homepage_url: https://snyk.io/product/open-source-license-compliance
+            crunchbase: https://www.crunchbase.com/organization/snyk
+            crunchbase_data:
+              name: Snyk
+              description: Snyk is a cybersecurity company that develops security analysis tools used to identify open-source vulnerabilities.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://snyk.io
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: https://www.twitter.com/snyksec
+              linkedin: https://www.linkedin.com/company/snyk
+              acquisitions:
+                - date: '2019-07-24'
+                  acquiree: DevSecCon Limited
+                - date: '2020-09-23'
+                  acquiree: DeepCode
+                - date: '2021-01-27'
+                  acquiree: Manifold.co
+              parents: []
+              funding: 752000000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: snyk-open-source-license-compliance-management.svg
+              hash: 5sMEz73xp9ahm38rSnEiDsKm8Va65Upb7Rx6YrRAet8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-31T14:55:22.000Z
+      - subcategory:
+        name: Metrics
+        items:
+          - item:
+            name: Bitergia Analytics
+            homepage_url: https://bitergia.com/bitergia-analytics
+            crunchbase: https://www.crunchbase.com/organization/bitergia
+            logo: bitergia.svg
+            crunchbase_data:
+              name: Bitergia
+              description: Bitergia uses software development analytics to allow its clients to take decisions based on insights from collaborative development.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://bitergia.com
+              city: Alcorcón
+              region: Madrid
+              country: Spain
+              twitter: http://twitter.com/bitergia
+              linkedin: https://www.linkedin.com/company/bitergia
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: bitergia-analytics.svg
+              hash: 5qf5fbyE9MjZeL9zwu1+Ga6kUb/dfdwHNZUxWkS8gLk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-23T12:01:25.000Z
+          - item:
+            name: GrimoireLab
+            homepage_url: https://chaoss.github.io/grimoirelab
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            repo_url: https://github.com/chaoss/grimoirelab
+            logo: grimoirelab.svg
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.linuxfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/linuxfoundation
+              linkedin: https://www.linkedin.com/company/the-linux-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Python
+                  value: 56237
+                  color: '#3572A5'
+                - name: Roff
+                  value: 27169
+                  color: '#ecdebe'
+                - name: Shell
+                  value: 16136
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 1576
+                  color: '#384d54'
+              contributions: 0;0;0;1;2;1;0;1;0;0;3;1;0;4;2;2;3;0;0;0;0;0;0;1;0;2;0;5;0;0;1;0;0;2;0;0;0;0;0;0;1;2;2;0;0;2;0;0;0;1;0;2
+              firstWeek: 2020-04-05Z
+              stars: 238
+              license: GNU General Public License v3.0
+              description: 'GrimoireLab: toolset for software development analytics'
+              latest_commit_date: '2021-03-30T10:52:10Z'
+              latest_commit_link: /chaoss/grimoirelab/commit/fd7b2764c71c3f1d34625556dce9cf81a4269061
+              contributors_count: 31
+              contributors_link: https://github.com/chaoss/grimoirelab/graphs/contributors
+            repos:
+              - url: https://github.com/chaoss/grimoirelab
+                stars: 238
+            github_start_commit_data:
+              start_commit_link: /chaoss/grimoirelab/commit/793a565fe3c699da93aaef00193f1fb7b3dadc4a
+              start_date: '2016-01-20T13:55:06Z'
+            image_data:
+              fileName: grimoire-lab.svg
+              hash: XgenjsijOKCQ11hnJXGTtG20228ujXc8ssE0TSftqtY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-31T16:06:11.000Z
+          - item:
+            name: DevStats
+            homepage_url: https://devstats.cncf.io/
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            repo_url: https://github.com/cncf/devstats
+            logo: cncf.svg
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              kind: funding
+            github_data:
+              languages:
+                - name: Shell
+                  value: 806199
+                  color: '#89e051'
+                - name: HTML
+                  value: 208603
+                  color: '#e34c26'
+                - name: Go
+                  value: 33580
+                  color: '#00ADD8'
+                - name: PLpgSQL
+                  value: 27347
+                - name: Ruby
+                  value: 18496
+                  color: '#701516'
+                - name: Makefile
+                  value: 2244
+                  color: '#427819'
+                - name: Roff
+                  value: 512
+                  color: '#ecdebe'
+                - name: Vim script
+                  value: 456
+                  color: '#199f4b'
+              contributions: 30;9;13;4;6;6;15;1;5;5;10;2;44;7;29;25;6;17;13;3;24;8;44;43;13;24;14;4;1;4;0;4;28;20;3;30;10;42;1;3;10;8;10;54;7;4;5;3;12;21;37;26
+              firstWeek: 2020-04-05Z
+              stars: 311
+              license: Apache License 2.0
+              description: 📈CNCF-created tool for analyzing and graphing developer contributions
+              latest_commit_date: '2021-03-31T13:03:36Z'
+              latest_commit_link: /cncf/devstats/commit/0f2a179e79e923faaaf5fa9d4206d760c4f27459
+              release_date: '2019-05-13T13:36:12Z'
+              release_link: https://github.com/cncf/devstats/releases
+              contributors_count: 23
+              contributors_link: https://github.com/cncf/devstats/graphs/contributors
+            repos:
+              - url: https://github.com/cncf/devstats
+                stars: 311
+            github_start_commit_data:
+              start_commit_link: /cncf/devstats/commit/2d505a4549e54f16e8f80525aaed8c453cce0c98
+              start_date: '2017-07-30T05:59:47Z'
+            image_data:
+              fileName: dev-stats.svg
+              hash: acPV6jNTBNLb2IIWezN5Pr4HoiVduK89glCUgoEA/Qk=
+            best_practice_data:
+              badge: 1357
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2021-03-31T13:58:41.000Z
+          - item:
+            name: LFX Insights
+            homepage_url: https://lfx.linuxfoundation.org/tools/insights
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            logo: lfx-insights.svg
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.linuxfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/linuxfoundation
+              linkedin: https://www.linkedin.com/company/the-linux-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: lfx-insights.svg
+              hash: BCqiOyH4t3DCUGtjO6On7WKIRg1wlQ7o6m7G+G+bYEA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-31T16:06:11.000Z
+      - subcategory:
+        name: Project Quality
+        items:
+          - item:
+            name: CII Best Practices
+            homepage_url: https://bestpractices.coreinfrastructure.org
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            repo_url: https://github.com/coreinfrastructure/best-practices-badge
+            logo: cii.svg
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.linuxfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/linuxfoundation
+              linkedin: https://www.linkedin.com/company/the-linux-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Ruby
+                  value: 700142
+                  color: '#701516'
+                - name: HTML
+                  value: 139440
+                  color: '#e34c26'
+                - name: JavaScript
+                  value: 27242
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 22436
+                  color: '#89e051'
+                - name: SCSS
+                  value: 13096
+                - name: Dockerfile
+                  value: 1320
+                  color: '#384d54'
+                - name: Makefile
+                  value: 384
+                  color: '#427819'
+                - name: CSS
+                  value: 128
+                  color: '#563d7c'
+              contributions: 0;2;2;1;0;0;1;2;1;5;0;2;1;7;0;0;0;2;4;1;25;37;7;22;3;1;6;5;14;5;1;6;0;0;0;1;0;25;11;10;14;1;18;2;13;7;11;29;6;5;11;10
+              firstWeek: 2020-04-05Z
+              stars: 930
+              license: MIT License
+              description: 🏆Core Infrastructure Initiative Best Practices Badge
+              latest_commit_date: '2021-03-30T14:46:50Z'
+              latest_commit_link: /coreinfrastructure/best-practices-badge/commit/8139846f477c6e54bdde0e75b1c75f261739bfc3
+              contributors_count: 34
+              contributors_link: https://github.com/coreinfrastructure/best-practices-badge/graphs/contributors
+            repos:
+              - url: https://github.com/coreinfrastructure/best-practices-badge
+                stars: 930
+            github_start_commit_data:
+              start_commit_link: /coreinfrastructure/best-practices-badge/commit/89923bf2b7d554ae10f46e0c9bd7233ea88f2c10
+              start_date: '2015-07-22T20:14:25Z'
+            image_data:
+              fileName: cii-best-practices.svg
+              hash: i1UUCrzmVc2ikONAKQp6NasVNMMM1Oj0Wfc+OftI8PA=
+            best_practice_data:
+              badge: 1
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2021-03-31T16:06:11.000Z
+          - item:
+            name: Repo Linter
+            homepage_url: https://github.com/todogroup/repolinter
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            repo_url: https://github.com/todogroup/repolinter
+            logo: todo.svg
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.linuxfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/linuxfoundation
+              linkedin: https://www.linkedin.com/company/the-linux-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 231731
+                  color: '#f1e05a'
+                - name: Ruby
+                  value: 3258
+                  color: '#701516'
+                - name: Dockerfile
+                  value: 1448
+                  color: '#384d54'
+                - name: Batchfile
+                  value: 19
+                  color: '#C1F12E'
+              contributions: 1;13;0;0;0;0;5;0;0;0;0;0;0;7;16;18;5;16;2;0;21;30;6;0;0;0;16;1;4;0;0;0;0;11;1;28;5;2;1;2;0;0;0;0;1;0;0;0;0;1;1;3
+              firstWeek: 2020-04-05Z
+              stars: 275
+              license: Apache License 2.0
+              description: Repolinter, The Open Source Repository Linter
+              latest_commit_date: '2021-03-25T16:25:47Z'
+              latest_commit_link: /todogroup/repolinter/commit/450b7546a635b8941fd97968f4a74267281bf017
+              release_date: '2021-03-25T16:25:57Z'
+              release_link: https://github.com/todogroup/repolinter/releases
+              contributors_count: 43
+              contributors_link: https://github.com/todogroup/repolinter/graphs/contributors
+            repos:
+              - url: https://github.com/todogroup/repolinter
+                stars: 275
+            github_start_commit_data:
+              start_commit_link: /todogroup/repolinter/commit/5b22846ad59c215020e1df83f2d750ccadd8968e
+              start_date: '2017-06-12T20:40:16Z'
+            image_data:
+              fileName: repo-linter.svg
+              hash: AgEV5CBDHjyc1TTB82g8Hwk3V0UVC/Lnu+k5uQajRUs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-31T16:06:11.000Z
+      - subcategory:
+        name: Security
+        items:
+          - item:
+            name: FOSSA Security Management
+            logo: fossa.svg
+            homepage_url: https://fossa.com/product/open-source-security-management
+            crunchbase: https://www.crunchbase.com/organization/fossa-2
+            crunchbase_data:
+              name: FOSSA
+              description: FOSSA provides a platform that helps enterprises manage and maximize open source use at scale.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://fossa.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/getfossa
+              linkedin: https://www.linkedin.com/company/fossa/
+              acquisitions: []
+              parents: []
+              funding: 33900000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: fossa-security-management.svg
+              hash: Yg4pXjWGsvLY0ODkrYT9QS3J96kQfEci0n1mgG21xSg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-26T23:45:37.000Z
+          - item:
+            name: Snyk Open Source Security Management
+            logo: snyk.svg
+            homepage_url: https://snyk.io/product/open-source-security-management
+            crunchbase: https://www.crunchbase.com/organization/snyk
+            crunchbase_data:
+              name: Snyk
+              description: Snyk is a cybersecurity company that develops security analysis tools used to identify open-source vulnerabilities.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://snyk.io
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: https://www.twitter.com/snyksec
+              linkedin: https://www.linkedin.com/company/snyk
+              acquisitions:
+                - date: '2019-07-24'
+                  acquiree: DevSecCon Limited
+                - date: '2020-09-23'
+                  acquiree: DeepCode
+                - date: '2021-01-27'
+                  acquiree: Manifold.co
+              parents: []
+              funding: 752000000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: snyk-open-source-security-management.svg
+              hash: 5sMEz73xp9ahm38rSnEiDsKm8Va65Upb7Rx6YrRAet8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-31T14:55:22.000Z
+          - item:
+            name: GitHub Security
+            logo: github.svg
+            homepage_url: https://github.com/security
+            crunchbase: https://www.crunchbase.com/organization/github
+            crunchbase_data:
+              name: GitHub
+              description: GitHub provides code hosting services that allow developers/people to build software for open source and private projects in organizations.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://github.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/github
+              linkedin: https://www.linkedin.com/company/1418841
+              acquisitions:
+                - date: '2011-12-05'
+                  acquiree: Ordered List
+                - date: '2014-01-09'
+                  acquiree: Easel
+                - date: '2018-11-30'
+                  acquiree: Spectrum
+                - date: '2019-05-23'
+                  acquiree: Dependabot
+                - date: '2019-06-17'
+                  acquiree: Pull Panda
+                - date: '2019-09-18'
+                  acquiree: Semmle
+                - date: '2019-12-01'
+                  acquiree: Gitalytics
+                - date: '2020-03-16'
+                  acquiree: npm
+              parents:
+                - https://www.crunchbase.com/organization/microsoft
+                - https://www.crunchbase.com/organization/jnnc-technologies-pvt-ltd
+              ticker: MSFT
+              funding: 350000000
+              stockExchange: null
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1748663664640
+              effective_ticker: MSFT
+            image_data:
+              fileName: git-hub-security.svg
+              hash: aZAv51Mn59oWQP7VI8VCzpOEplog43Jkn4m8RhVJs/A=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-30T20:02:09.000Z
+          - item:
+            name: GitLab Secure
+            logo: gitlab.svg
+            homepage_url: https://about.gitlab.com/stages-devops-lifecycle/secure/
+            crunchbase: https://www.crunchbase.com/organization/gitlab-com
+            crunchbase_data:
+              name: GitLab
+              description: GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://about.gitlab.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/gitlab
+              linkedin: https://www.linkedin.com/company/gitlab-com/
+              acquisitions:
+                - date: '2015-05-03'
+                  acquiree: Gitorious
+                - date: '2017-03-15'
+                  acquiree: Gitter
+                - date: '2018-01-30'
+                  acquiree: Gemnasium (acquired by Gitlab)
+                - date: '2020-06-11'
+                  acquiree: Fuzzit
+                - date: '2020-06-11'
+                  acquiree: Peach Tech
+              parents: []
+              funding: 434200000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: git-lab-secure.svg
+              hash: 1GkNkq4eRIDd5CdPT7b66ishOQzqY4eyc8q5xZqRmiI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-30T21:08:02.000Z
 twitter_options:
   count: 3
   since_id: '1375707118104289283'

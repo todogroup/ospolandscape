@@ -715,109 +715,109 @@ landscape:
         name: Documentation projects
         items:
           - item:
-            name: Docusaurus
-            homepage_url: https://docusaurus.io/
-            logo: docusaurus.svg
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            repo_url: https://github.com/facebook/docusaurus
-            twitter: https://twitter.com/docusaurus
-          - item:
             name: Docsy
             homepage_url: https://www.docsy.dev/
-            logo: docsy.svg
-            crunchbase: https://www.crunchbase.com/organization/google
             repo_url: https://github.com/google/docsy
+            logo: docsy.svg
             twitter: https://twitter.com/docsydocs
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: Docusaurus
+            homepage_url: https://docusaurus.io/
+            repo_url: https://github.com/facebook/docusaurus
+            logo: docusaurus.svg
+            twitter: https://twitter.com/docusaurus
+            crunchbase: https://www.crunchbase.com/organization/facebook
       - subcategory:
         name: Licensing
         items:
           - item:
-            name: SPDX
-            homepage_url: https://spdx.dev
-            repo_url: https://github.com/spdx/spdx-spec
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            logo: spdx.svg
-          - item:
-            name: OSS Review Toolkit
-            logo: missing.svg
-            homepage_url: https://github.com/oss-review-toolkit/ort
-            repo_url: https://github.com/oss-review-toolkit/ort
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
             name: FOSSA License Compliance
-            logo: fossa.svg
             homepage_url: https://fossa.com/product/open-source-license-compliance
+            logo: fossa.svg
             crunchbase: https://www.crunchbase.com/organization/fossa-2
           - item:
             name: FossID
-            logo: fossid.svg
             homepage_url: https://fossid.com
+            logo: fossid.svg
             crunchbase: https://www.crunchbase.com/organization/fossid
           - item:
+            name: OSS Review Toolkit
+            homepage_url: https://github.com/oss-review-toolkit/ort
+            repo_url: https://github.com/oss-review-toolkit/ort
+            logo: missing.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
             name: Snyk Open Source License Compliance Management
-            logo: snyk.svg
             homepage_url: https://snyk.io/product/open-source-license-compliance
+            logo: snyk.svg
             crunchbase: https://www.crunchbase.com/organization/snyk
+          - item:
+            name: SPDX
+            homepage_url: https://spdx.dev
+            repo_url: https://github.com/spdx/spdx-spec
+            logo: spdx.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
       - subcategory:
         name: Metrics
         items:
           - item:
             name: Bitergia Analytics
             homepage_url: https://bitergia.com/bitergia-analytics
-            crunchbase: https://www.crunchbase.com/organization/bitergia
             logo: bitergia.svg
-          - item:
-            name: GrimoireLab
-            homepage_url: https://chaoss.github.io/grimoirelab
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            repo_url: https://github.com/chaoss/grimoirelab
-            logo: grimoirelab.svg
+            crunchbase: https://www.crunchbase.com/organization/bitergia
           - item:
             name: DevStats
             homepage_url: https://devstats.cncf.io/
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             repo_url: https://github.com/cncf/devstats
             logo: cncf.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
+            name: GrimoireLab
+            homepage_url: https://chaoss.github.io/grimoirelab
+            repo_url: https://github.com/chaoss/grimoirelab
+            logo: grimoirelab.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
             name: LFX Insights
             homepage_url: https://lfx.linuxfoundation.org/tools/insights
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
             logo: lfx-insights.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
       - subcategory:
         name: Project Quality
         items:
           - item:
             name: CII Best Practices
-            homepage_url: https://bestpractices.coreinfrastructure.org
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            homepage_url: https://bestpractices.coreinfrastructure.org/en
             repo_url: https://github.com/coreinfrastructure/best-practices-badge
             logo: cii.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
             name: Repo Linter
             homepage_url: https://github.com/todogroup/repolinter
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
             repo_url: https://github.com/todogroup/repolinter
             logo: todo.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
       - subcategory:
         name: Security
         items:
           - item:
             name: FOSSA Security Management
-            logo: fossa.svg
             homepage_url: https://fossa.com/product/open-source-security-management
+            logo: fossa.svg
             crunchbase: https://www.crunchbase.com/organization/fossa-2
           - item:
-            name: Snyk Open Source Security Management
-            logo: snyk.svg
-            homepage_url: https://snyk.io/product/open-source-security-management
-            crunchbase: https://www.crunchbase.com/organization/snyk
-          - item:
             name: GitHub Security
-            logo: github.svg
             homepage_url: https://github.com/security
+            logo: github.svg
             crunchbase: https://www.crunchbase.com/organization/github
           - item:
             name: GitLab Secure
-            logo: gitlab.svg
             homepage_url: https://about.gitlab.com/stages-devops-lifecycle/secure/
+            logo: gitlab.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
+          - item:
+            name: Snyk Open Source Security Management
+            homepage_url: https://snyk.io/product/open-source-security-management
+            logo: snyk.svg
+            crunchbase: https://www.crunchbase.com/organization/snyk

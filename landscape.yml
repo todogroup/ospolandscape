@@ -793,6 +793,12 @@ landscape:
             logo: cii.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
+            name: Code Climate
+            homepage_url: https://codeclimate.com
+            repo_url: https://github.com/codeclimate/codeclimate
+            logo: code-climate.svg
+            crunchbase: https://www.crunchbase.com/organization/code-climate
+          - item:
             name: Repo Linter
             homepage_url: https://github.com/todogroup/repolinter
             repo_url: https://github.com/todogroup/repolinter

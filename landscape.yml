@@ -758,6 +758,11 @@ landscape:
             repo_url: https://github.com/spdx/spdx-spec
             logo: spdx.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: WhiteSource
+            homepage_url: https://www.whitesourcesoftware.com
+            logo: white-source.svg
+            crunchbase: https://www.crunchbase.com/organization/white-source
       - subcategory:
         name: Metrics
         items:

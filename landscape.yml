@@ -459,7 +459,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Fannie Mae (Adopter)
-            homepage_url: https://github.com/FannieMaeOpenSource
+            homepage_url: https://www.fanniemae.com
+            repo_url: https://github.com/FannieMaeOpenSource
             logo: fannie-mae.svg
             crunchbase: https://www.crunchbase.com/organization/fannie-mae
           - item:
@@ -477,6 +478,12 @@ landscape:
             homepage_url: https://about.gitlab.com
             logo: gitlab.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
+          - item:
+            name: Goldman Sachs (Adopter)
+            homepage_url: https://www.goldmansachs.com/careers/blog/posts/open-source.html
+            repo_url: https://github.com/goldmansachs
+            logo: gs.svg
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
           - item:
             name: Google (Adopter)
             homepage_url: https://opensource.google
@@ -663,6 +670,12 @@ landscape:
             homepage_url: https://blog.twitter.com/engineering/en_us.html
             logo: twitter.svg
             crunchbase: https://www.crunchbase.com/organization/twitter
+          - item:
+            name: Two Sigma (Adopter)
+            homepage_url: https://opensource.twosigma.com
+            repo_url: https://github.com/twosigma
+            logo: two-sigma.svg
+            crunchbase: https://www.crunchbase.com/organization/two-sigma-investments
           - item:
             name: Uber (Adopter)
             homepage_url: https://uber.github.io

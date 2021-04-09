@@ -762,6 +762,15 @@ landscape:
         name: Licensing
         items:
           - item:
+            name: Black Duck
+            description: >-
+              Black Duck provides a comprehensive software composition analysis (SCA) solution for managing security, quality, and license compliance risk that
+              comes from the use of open source and third-party code in applications and containers.
+            homepage_url: https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html
+            logo: blackduck.svg
+            twitter: https://twitter.com/sw_integrity
+            crunchbase: https://www.crunchbase.com/organization/synopsys
+          - item:
             name: FOSSA License Compliance
             homepage_url: https://fossa.com/product/open-source-license-compliance
             logo: fossa.svg

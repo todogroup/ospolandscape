@@ -810,6 +810,12 @@ landscape:
             homepage_url: https://bitergia.com/bitergia-analytics
             logo: bitergia.svg
             crunchbase: https://www.crunchbase.com/organization/bitergia
+         - item:
+            name: CHAOSS Metrics
+            homepage_url: https://chaoss.community
+            repo_url: https://github.com/chaoss/metrics
+            logo: chaoss.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
             name: DevStats
             homepage_url: https://devstats.cncf.io/

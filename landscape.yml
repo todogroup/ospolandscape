@@ -61,6 +61,12 @@ landscape:
             logo: change-healthcare.svg
             crunchbase: https://www.crunchbase.com/organization/change-healthcare
           - item:
+            name: China  Mobile (Member)
+            homepage_url: https://www.chinamobileltd.com
+            logo: chinamobile.svg
+            crunchbase: https://www.crunchbase.com/organization/china-mobile
+            stock_ticker: 0941.HK
+          - item:
             name: Comcast (Member)
             homepage_url: https://comcast.github.io/
             logo: comcast.svg
@@ -397,6 +403,12 @@ landscape:
             homepage_url: https://www.changehealthcare.com/
             logo: change-healthcare.svg
             crunchbase: https://www.crunchbase.com/organization/change-healthcare
+          - item:
+            name: China  Mobile (Adopter)
+            homepage_url: https://www.chinamobileltd.com
+            logo: chinamobile.svg
+            crunchbase: https://www.crunchbase.com/organization/china-mobile
+            stock_ticker: 0941.HK
           - item:
             name: Chef (Adopter)
             homepage_url: https://chef.github.io

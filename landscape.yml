@@ -813,6 +813,12 @@ landscape:
             logo: fossid.svg
             crunchbase: https://www.crunchbase.com/organization/fossid
           - item:
+            name: FOSSLight
+            homepage_url: https://fosslight.org
+            repo_url: https://github.com/fosslight/fosslight
+            logo: fosslight.svg
+            crunchbase: https://www.crunchbase.com/organization/lg
+          - item:
             name: OSS Review Toolkit
             homepage_url: https://github.com/oss-review-toolkit/ort
             repo_url: https://github.com/oss-review-toolkit/ort

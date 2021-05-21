@@ -696,15 +696,15 @@ landscape:
             logo: tencent.svg
             crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
-            name: Trinity College Dublin (Adopter)
-            homepage_url: https://www.tcd.ie/innovation/OSPO/
-            logo: trinity.svg
-            crunchbase: https://www.crunchbase.com/organization/trinity-college-dublin          
-          - item:
             name: Toyota (Adopter)
             homepage_url: https://www.toyota.com
             logo: toyota.svg
             crunchbase: https://www.crunchbase.com/organization/toyota
+          - item:
+            name: Trinity College Dublin (Adopter)
+            homepage_url: https://www.tcd.ie/innovation/OSPO/
+            logo: trinity.svg
+            crunchbase: https://www.crunchbase.com/organization/trinity-college-dublin
           - item:
             name: Twitter (Adopter)
             homepage_url: https://blog.twitter.com/engineering/en_us.html

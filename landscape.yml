@@ -803,6 +803,15 @@ landscape:
             twitter: https://twitter.com/sw_integrity
             crunchbase: https://www.crunchbase.com/organization/synopsys
           - item:
+            name: Debricked License Compliance
+            description: >-
+              The Debricked SCA tool enables for increased use of Open Source while keeping vulnerable dependencies and non compliant licenses at bay. 
+              The service runs on state of the art machine learning allowing the data quality to be outstanding as well as instantly updated.
+            homepage_url: https://www.debricked.com/license-compliance/
+            logo: debricked.svg
+            twitter: https://twitter.com/debrickedab
+            crunchbase: https://www.crunchbase.com/organization/debricked
+          - item:
             name: FOSSA License Compliance
             homepage_url: https://fossa.com/product/open-source-license-compliance
             logo: fossa.svg
@@ -901,6 +910,11 @@ landscape:
       - subcategory:
         name: Security
         items:
+          - item:
+            name: Debricked Security
+            homepage_url: https://debricked.com/open-source-security
+            logo: debricked.svg
+            crunchbase: https://www.crunchbase.com/organization/debricked
           - item:
             name: FOSSA Security Management
             homepage_url: https://fossa.com/product/open-source-security-management

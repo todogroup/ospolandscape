@@ -117,6 +117,11 @@ landscape:
             logo: elastic.svg
             crunchbase: https://www.crunchbase.com/organization/elasticsearch
           - item:
+            name: F5 (Member)
+            homepage_url: https://devcentral.f5.com
+            logo: f5.svg
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
+          - item:
             name: Facebook (Member)
             homepage_url: https://opensource.facebook.com
             logo: facebook.svg
@@ -484,6 +489,11 @@ landscape:
             homepage_url: http://esri.github.io
             logo: esri.svg
             crunchbase: https://www.crunchbase.com/organization/esri
+          - item:
+            name: F5 (Adopter)
+            homepage_url: https://devcentral.f5.com
+            logo: f5.svg
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
           - item:
             name: Facebook (Adopter)
             homepage_url: https://opensource.facebook.com

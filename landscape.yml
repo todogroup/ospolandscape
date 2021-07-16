@@ -890,7 +890,14 @@ landscape:
           - item:
             name: Bitergia Analytics
             homepage_url: https://bitergia.com/bitergia-analytics
+            repo_url: https://github.com/chaoss/grimoirelab
             logo: bitergia.svg
+            crunchbase: https://www.crunchbase.com/organization/bitergia
+          - item:
+            name: Cauldron
+            homepage_url: https://cauldron.io/
+            repo_url: https://github.com/cauldronio/cauldron
+            logo: cauldron.svg
             crunchbase: https://www.crunchbase.com/organization/bitergia
           - item:
             name: CHAOSS Metrics

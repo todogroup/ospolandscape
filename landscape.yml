@@ -46,6 +46,11 @@ landscape:
             logo: bosch.svg
             crunchbase: https://www.crunchbase.com/organization/bosch
           - item:
+            name: BMW (Member)
+            homepage_url: https://github.com/bmwcarit
+            logo: bmw.svg
+            crunchbase: https://www.crunchbase.com/organization/bmw
+          - item:
             name: Box (Member)
             homepage_url: http://opensource.box.com/
             logo: box.svg
@@ -408,6 +413,11 @@ landscape:
             homepage_url: https://github.com/bloomberg
             logo: bloomberg.svg
             crunchbase: https://www.crunchbase.com/organization/bloomberg
+          - item:
+            name: BMW (Adopter)
+            homepage_url: https://github.com/bmwcarit
+            logo: bmw.svg
+            crunchbase: https://www.crunchbase.com/organization/bmw
           - item:
             name: Bosch (Adopter)
             homepage_url: https://www.bosch.com/

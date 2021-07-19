@@ -352,6 +352,11 @@ landscape:
             homepage_url: https://www.xilinx.com/
             logo: xilinx.svg
             crunchbase: https://www.crunchbase.com/organization/xilinx
+          - item:
+            name: BMW (Member)
+            homepage_url: https://github.com/bmwcarit
+            logo: bmw.svg
+            crunchbase: https://www.crunchbase.com/organization/bmw-com
   - category:
     name: OSPO Adopter
     subcategories:
@@ -805,6 +810,11 @@ landscape:
             homepage_url: https://www.itau.com/
             logo: banco-itau.svg
             crunchbase: https://www.crunchbase.com/organization/banco-itau
+          - item:
+            name: BMW (Adopter)
+            homepage_url: https://github.com/bmwcarit
+            logo: bmw.svg
+            crunchbase: https://www.crunchbase.com/organization/bmw-com
   - category:
     name: OSPO Tools
     subcategories:

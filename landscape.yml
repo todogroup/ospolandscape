@@ -41,15 +41,15 @@ landscape:
             logo: bloomberg.svg
             crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
-            name: Bosch (Member)
-            homepage_url: https://www.bosch.com/
-            logo: bosch.svg
-            crunchbase: https://www.crunchbase.com/organization/bosch
-          - item:
             name: BMW (Member)
             homepage_url: https://github.com/bmwcarit
             logo: bmw.svg
             crunchbase: https://www.crunchbase.com/organization/bmw
+          - item:
+            name: Bosch (Member)
+            homepage_url: https://www.bosch.com/
+            logo: bosch.svg
+            crunchbase: https://www.crunchbase.com/organization/bosch
           - item:
             name: Box (Member)
             homepage_url: http://opensource.box.com/

@@ -147,6 +147,11 @@ landscape:
             logo: github.svg
             crunchbase: https://www.crunchbase.com/organization/github
           - item:
+            name: GitLab (Member)
+            homepage_url: https://about.gitlab.com
+            logo: gitlab.svg
+            crunchbase: https://www.crunchbase.com/organization/gitlab-com
+          - item:
             name: Google (Member)
             homepage_url: https://opensource.google
             logo: google.svg

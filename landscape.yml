@@ -841,7 +841,7 @@ landscape:
             twitter: https://twitter.com/docusaurus
             crunchbase: https://www.crunchbase.com/organization/facebook
       - subcategory:
-        name: Licensing
+        name: SCA
         items:
           - item:
             name: Black Duck
@@ -904,6 +904,31 @@ landscape:
             homepage_url: https://www.whitesourcesoftware.com
             logo: white-source.svg
             crunchbase: https://www.crunchbase.com/organization/white-source
+          - item:
+            name: Debricked Security
+            homepage_url: https://debricked.com/open-source-security
+            logo: debricked.svg
+            crunchbase: https://www.crunchbase.com/organization/debricked
+          - item:
+            name: FOSSA Security Management
+            homepage_url: https://fossa.com/product/open-source-security-management
+            logo: fossa.svg
+            crunchbase: https://www.crunchbase.com/organization/fossa-2
+          - item:
+            name: GitHub Security
+            homepage_url: https://github.com/security
+            logo: github.svg
+            crunchbase: https://www.crunchbase.com/organization/github
+          - item:
+            name: GitLab Secure
+            homepage_url: https://about.gitlab.com/stages-devops-lifecycle/secure/
+            logo: gitlab.svg
+            crunchbase: https://www.crunchbase.com/organization/gitlab-com
+          - item:
+            name: Snyk Open Source Security Management
+            homepage_url: https://snyk.io/product/open-source-security-management
+            logo: snyk.svg
+            crunchbase: https://www.crunchbase.com/organization/snyk
       - subcategory:
         name: Metrics
         items:
@@ -962,31 +987,3 @@ landscape:
             repo_url: https://github.com/todogroup/repolinter
             logo: todo.svg
             crunchbase: https://www.crunchbase.com/organization/todo-group
-      - subcategory:
-        name: Security
-        items:
-          - item:
-            name: Debricked Security
-            homepage_url: https://debricked.com/open-source-security
-            logo: debricked.svg
-            crunchbase: https://www.crunchbase.com/organization/debricked
-          - item:
-            name: FOSSA Security Management
-            homepage_url: https://fossa.com/product/open-source-security-management
-            logo: fossa.svg
-            crunchbase: https://www.crunchbase.com/organization/fossa-2
-          - item:
-            name: GitHub Security
-            homepage_url: https://github.com/security
-            logo: github.svg
-            crunchbase: https://www.crunchbase.com/organization/github
-          - item:
-            name: GitLab Secure
-            homepage_url: https://about.gitlab.com/stages-devops-lifecycle/secure/
-            logo: gitlab.svg
-            crunchbase: https://www.crunchbase.com/organization/gitlab-com
-          - item:
-            name: Snyk Open Source Security Management
-            homepage_url: https://snyk.io/product/open-source-security-management
-            logo: snyk.svg
-            crunchbase: https://www.crunchbase.com/organization/snyk

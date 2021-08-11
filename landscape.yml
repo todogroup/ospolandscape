@@ -152,11 +152,6 @@ landscape:
             logo: gitlab.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
-            name: JiHu(GitLab) (Member)
-            homepage_url: https://about.gitlab.cn
-            logo: jihu-gitlab.svg
-            crunchbase: https://www.crunchbase.com/organization/gitlab-information-hubei-co-ltd
-          - item:
             name: Google (Member)
             homepage_url: https://opensource.google
             logo: google.svg
@@ -191,6 +186,11 @@ landscape:
             homepage_url: https://01.org/
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: JiHu(GitLab) (Member)
+            homepage_url: https://about.gitlab.cn
+            logo: jihu-gitlab.svg
+            crunchbase: https://www.crunchbase.com/organization/gitlab-information-hubei-co-ltd
           - item:
             name: Juniper (Member)
             homepage_url: https://github.com/juniper
@@ -555,11 +555,6 @@ landscape:
             logo: gitlab.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
-            name: JiHu(GitLab) (Adopter)
-            homepage_url: https://about.gitlab.cn
-            logo: jihu-gitlab.svg
-            crunchbase: https://www.crunchbase.com/organization/gitlab-information-hubei-co-ltd
-          - item:
             name: Goldman Sachs (Adopter)
             homepage_url: https://www.goldmansachs.com/careers/blog/posts/open-source.html
             logo: gs.svg
@@ -604,6 +599,11 @@ landscape:
             homepage_url: https://01.org/
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: JiHu(GitLab) (Adopter)
+            homepage_url: https://about.gitlab.cn
+            logo: jihu-gitlab.svg
+            crunchbase: https://www.crunchbase.com/organization/gitlab-information-hubei-co-ltd
           - item:
             name: John Hopkins University (Adopter)
             homepage_url: https://drcc.library.jhu.edu/open-source-programs-office/
@@ -907,6 +907,11 @@ landscape:
             logo: gitlab.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
           - item:
+            name: JiHu(GitLab) Secure
+            homepage_url: https://about.gitlab.cn/stages-devops-lifecycle/secure/
+            logo: jihu-gitlab.svg
+            crunchbase: https://www.crunchbase.com/organization/gitlab-information-hubei-co-ltd
+          - item:
             name: OSS Review Toolkit
             homepage_url: https://github.com/oss-review-toolkit/ort
             repo_url: https://github.com/oss-review-toolkit/ort
@@ -939,11 +944,6 @@ landscape:
             homepage_url: https://www.whitesourcesoftware.com
             logo: white-source.svg
             crunchbase: https://www.crunchbase.com/organization/white-source
-          - item:
-            name: JiHu(GitLab) Secure
-            homepage_url: https://about.gitlab.cn/stages-devops-lifecycle/secure/
-            logo: jihu-gitlab.svg
-            crunchbase: https://www.crunchbase.com/organization/gitlab-information-hubei-co-ltd
       - subcategory:
         name: Metrics
         items:

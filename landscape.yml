@@ -293,6 +293,11 @@ landscape:
             logo: seagate.svg
             crunchbase: https://www.crunchbase.com/organization/seagate
           - item:
+            name: Siemens (Member)
+            homepage_url: https://github.com/siemens
+            logo: siemens.svg
+            crunchbase: https://www.crunchbase.com/organization/siemens
+          - item:
             name: Spotify (Member)
             homepage_url: https://github.com/spotify
             logo: spotify.svg
@@ -720,6 +725,11 @@ landscape:
             homepage_url: https://github.com/seagate
             logo: seagate.svg
             crunchbase: https://www.crunchbase.com/organization/seagate
+          - item:
+            name: Siemens (Adopter)
+            homepage_url: https://github.com/siemens
+            logo: siemens.svg
+            crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
             name: Slack (Adopter)
             homepage_url: https://github.com/slackhq

@@ -847,6 +847,13 @@ landscape:
         name: Documentation projects
         items:
           - item:
+            name: Backstage
+            homepage_url: https://backstage.io/
+            repo_url: https://github.com/backstage/backstage
+            logo: backstage.svg
+            twitter: https://twitter.com/SpotifyEng
+            crunchbase: https://www.crunchbase.com/organization/spotify
+          - item:
             name: Docsy
             homepage_url: https://www.docsy.dev/
             repo_url: https://github.com/google/docsy

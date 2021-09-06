@@ -81,23 +81,23 @@ big_picture:
       - type: HorizontalCategory
         category: OSPO Adopter
         width: 735
-        height: 320
+        height: 350
         top: 0
         left: 0
         color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
         category: TODO Group Member
-        width: 650
+        width: 680
         height: 200
-        top: 330
+        top: 360
         left: 0
         color: rgb(103,66,18)
         fit_width: true
       - type: Vertical Category
         category: OSPO Tools
-        width: 220
-        height: 300
+        width: 250
+        height: 330
         top: 20
         left: 755
         color: rgb(103,66,18)
@@ -105,8 +105,8 @@ big_picture:
       - type: LandscapeInfo
         width: 310
         height: 200
-        top: 330
-        left: 665
+        top: 360
+        left: 695
         children:
           - type: text
             text: |

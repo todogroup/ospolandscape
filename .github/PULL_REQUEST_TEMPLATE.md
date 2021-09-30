@@ -4,6 +4,7 @@
 
 * [ ] Are you only including a `repo_url` if your project is 100% open source? If so, you need to pick the single best GitHub repository for your project, not a GitHub organization.
 * [ ] Have you picked the single best (existing) category for your project?
+* [ ] If submitting a tool, is your project closed source or, if it is open source, does your project have at least 100 GitHub stars?
 * [ ] Does it follow the other guidelines from the [new entries](https://github.com/cncf/landscape#new-entries) section?
 * [ ] Have you included a URL for your SVG or added it to `hosted_logos` and referenced it there?
 * [ ] Does your logo clearly state the name of the project/product and follow the other logo [guidelines](https://github.com/cncf/landscape#logos)?

@@ -376,6 +376,15 @@ landscape:
     name: OSPO Adopter
     subcategories:
       - subcategory:
+        name: TODO Associate
+        items:
+          - item:
+            name: chaoss (Associate)
+            homepage_url: https://github.com/chaoss/metrics
+            repo_url: https://github.com/chaoss/metrics
+            logo: chaoss.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+      - subcategory:
         name: OSPO Adopter
         items:
           - item:

@@ -384,6 +384,7 @@ landscape:
             repo_url: https://github.com/chaoss/metrics
             logo: chaoss.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
       - subcategory:
         name: OSPO Adopter
         items:
@@ -990,6 +991,7 @@ landscape:
             repo_url: https://github.com/chaoss/metrics
             logo: chaoss.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
           - item:
             name: DevStats
             homepage_url: https://devstats.cncf.io/

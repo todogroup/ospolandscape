@@ -31,6 +31,11 @@ landscape:
             logo: baidu.svg
             crunchbase: https://www.crunchbase.com/organization/baidu
           - item:
+            name: Banco Itaú (Member)
+            homepage_url: https://www.itau.com/
+            logo: banco-itau.svg
+            crunchbase: https://www.crunchbase.com/organization/banco-itau
+          - item:
             name: BlackRock (Member)
             homepage_url: https://github.com/blackrock
             logo: blackrock.svg
@@ -975,6 +980,12 @@ landscape:
         name: Metrics
         items:
           - item:
+            name: Augur
+            homepage_url: https://augurlabs.io
+            repo_url: https://github.com/chaoss/augur
+            logo: augur.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
             name: Bitergia Analytics
             homepage_url: https://bitergia.com/bitergia-analytics
             logo: bitergia.svg
@@ -1008,12 +1019,6 @@ landscape:
             name: LFX Insights
             homepage_url: https://lfx.linuxfoundation.org/tools/insights
             logo: lfx-insights.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item: 
-            name: Augur
-            homepage_url: https://augurlabs.io
-            repo_url: https://github.com/chaoss/augur
-            logo: augur.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
       - subcategory:
         name: Project Quality

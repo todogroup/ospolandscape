@@ -381,6 +381,28 @@ landscape:
     name: OSPO Adopter
     subcategories:
       - subcategory:
+        name: TODO Associate
+        items:
+          - item:
+            name: chaoss (Associate)
+            homepage_url: https://chaoss.community/
+            repo_url: https://github.com/chaoss/metrics
+            logo: chaoss.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
+          - item:
+            name: openchain (Associate)
+            homepage_url: https://www.openchainproject.org/
+            logo: openchain.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
+          - item:
+            name: finos (Associate)
+            homepage_url: https://www.finos.org/
+            logo: finos.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
+      - subcategory:
         name: OSPO Adopter
         items:
           - item:
@@ -992,6 +1014,7 @@ landscape:
             repo_url: https://github.com/chaoss/metrics
             logo: chaoss.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
           - item:
             name: DevStats
             homepage_url: https://devstats.cncf.io/

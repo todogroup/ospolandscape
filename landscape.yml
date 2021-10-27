@@ -393,14 +393,12 @@ landscape:
           - item:
             name: openchain (Associate)
             homepage_url: https://www.openchainproject.org/
-            repo_url: https://github.com/OpenChain-Project
             logo: openchain.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true
           - item:
             name: finos (Associate)
             homepage_url: https://www.finos.org/
-            repo_url: https://github.com/finos
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true

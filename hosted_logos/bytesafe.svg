@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="320" viewBox="0 0 28 32">
+    <defs>
+        <linearGradient id="atlxq55i0a" x1="100%" x2="7.458%" y1="75.978%" y2="37.691%">
+            <stop offset="0%" stop-color="#8907EB"/>
+            <stop offset="40.678%" stop-color="#0741E8"/>
+            <stop offset="41.776%" stop-color="#2125B4"/>
+            <stop offset="57.144%" stop-color="#0B3DE1"/>
+            <stop offset="57.88%" stop-color="#0A8FFF"/>
+            <stop offset="73.159%" stop-color="#0B8FFF"/>
+            <stop offset="100%" stop-color="#08C1EE"/>
+        </linearGradient>
+        <linearGradient id="qmlmvimorb" x1="100%" x2="0%" y1="83.237%" y2="32.207%">
+            <stop offset="0%" stop-color="#6735FF"/>
+            <stop offset="38.51%" stop-color="#0693FF"/>
+            <stop offset="38.809%" stop-color="#0D7FC4"/>
+            <stop offset="42.414%" stop-color="#0D7FC4"/>
+            <stop offset="42.668%" stop-color="#06CDE6"/>
+            <stop offset="100%" stop-color="#08C0EE"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <path fill="url(#atlxq55i0a)" d="M9.137 13.935l3.115 2.333-3.26 2.444-3.5 2.618c1.365.725 2.695 1.572 3.983 2.55 1.533 1.166 3.013 2.521 4.412 4.08 1.398-1.554 2.873-2.914 4.411-4.08.612-.466 1.239-.902 1.87-1.309l.271-.172 3.154 2.362c-3.018 1.654-5.611 3.93-8.095 7.043l-.155.196H12.43C8.87 27.491 5.118 24.703.195 23.017L0 22.95v-2.178l5.323-3.987L6.76 15.71l2.377-1.776z" transform="translate(-200 -8992) translate(0 8952) translate(200 40)"/>
+                    <path fill="url(#qmlmvimorb)" d="M28 0v22.902c-.654.22-1.29.453-1.91.71l-.308.13-3.316-2.456-2.037-1.51-1.488-1.106L6.817 9.695 3.76 7.43v8.078l-3.75 2.777V.01L3.01 2.234l6.06 4.488 2.868 2.123 5.213 3.86 1.585 1.173 2.456 1.82 3.059 2.263V7.44l-3.059 2.263-2.397 1.771-3.142-2.326 3.288-2.436 6.058-4.489L28 0z" transform="translate(-200 -8992) translate(0 8952) translate(200 40)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -917,6 +917,23 @@ landscape:
             twitter: https://twitter.com/sw_integrity
             crunchbase: https://www.crunchbase.com/organization/synopsys
           - item:
+            name: Bytesafe License Compliance
+            description: >-
+              Discover when new licenses are introduced in your codebase. Automatically track license compliance issues and restrict problematic or unlicensed packages with Bytesafe SaaS.
+            homepage_url: https://bytesafe.dev/open-source-security/
+            logo: bytesafe.svg
+            twitter: https://twitter.com/bytesafedev
+            crunchbase: https://www.crunchbase.com/organization/bytesafe
+          - item:
+            name: Bytesafe SaaS
+            description: >-
+              Bytesafe SaaS protects your organization and keep insecure 3rd party dependencies out of your supply chain.
+              Enforce your business rules using Bytesafe Dependency Firewall as the single source of truth for your developers,
+            homepage_url: https://bytesafe.dev/
+            logo: bytesafe.svg
+            twitter: https://twitter.com/bytesafedev
+            crunchbase: https://www.crunchbase.com/organization/bytesafe
+          - item:
             name: Debricked License Compliance
             description: >-
               The Debricked SCA tool enables for increased use of Open Source while keeping vulnerable dependencies and non compliant licenses at bay.  The

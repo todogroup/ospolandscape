@@ -930,6 +930,12 @@ landscape:
             logo: debricked.svg
             crunchbase: https://www.crunchbase.com/organization/debricked
           - item:
+            name: Eclipse Steady
+            homepage_url: https://projects.eclipse.org/projects/technology.steady
+            repo_url: https://github.com/eclipse/steady
+            logo: steady.svg
+            crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
+          - item:
             name: FOSSA License Compliance
             homepage_url: https://fossa.com/product/open-source-license-compliance
             logo: fossa.svg
@@ -998,12 +1004,6 @@ landscape:
             homepage_url: https://www.whitesourcesoftware.com
             logo: white-source.svg
             crunchbase: https://www.crunchbase.com/organization/white-source
-          - item:
-            name: Eclipse Steady
-            homepage_url: https://projects.eclipse.org/projects/technology.steady
-            repo_url: https://github.com/eclipse/steady
-            logo: steady.svg
-            crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
       - subcategory:
         name: Metrics
         items:

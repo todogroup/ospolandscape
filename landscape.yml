@@ -389,20 +389,27 @@ landscape:
         name: OSPO Associate
         items:
           - item:
-            name: chaoss (Associate)
+            name: CHAOSS (Associate)
             homepage_url: https://chaoss.community/
             repo_url: https://github.com/chaoss/metrics
             logo: chaoss.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true
           - item:
-            name: finos (Associate)
+            name: LF Energy (Associate)
+            homepage_url: https://www.lfenergy.org/projects/
+            repo_url: https://github.com/lf-energy/foundation
+            logo: lf-energy.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
+          - item:
+            name: FINOS (Associate)
             homepage_url: https://www.finos.org/
             logo: finos.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true
           - item:
-            name: openchain (Associate)
+            name: OpenChain (Associate)
             homepage_url: https://www.openchainproject.org/
             logo: openchain.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation

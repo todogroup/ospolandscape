@@ -394,13 +394,6 @@ landscape:
         name: OSPO Associate
         items:
           - item:
-            name: CHAOSS (Associate)
-            homepage_url: https://chaoss.community/
-            repo_url: https://github.com/chaoss/metrics
-            logo: chaoss.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            allow_duplicate_repo: true
-          - item:
             name: FINOS (Associate)
             homepage_url: https://www.finos.org/
             logo: finos.svg

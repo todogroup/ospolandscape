@@ -237,6 +237,11 @@ landscape:
             logo: netflix.svg
             crunchbase: https://www.crunchbase.com/organization/netflix
           - item:
+            name: NGINX (Member)
+            homepage_url: https://www.nginx.org
+            logo: nginx.svg
+            crunchbase: https://www.crunchbase.com/organization/nginx
+          - item:
             name: Nokia (Member)
             homepage_url: https://www.nokia.com/
             logo: nokia.svg
@@ -701,6 +706,11 @@ landscape:
             homepage_url: https://opensource.newrelic.com
             logo: newrelic.svg
             crunchbase: https://www.crunchbase.com/organization/new-relic
+          - item:
+            name: NGINX (Adopter)
+            homepage_url: https://www.nginx.org
+            logo: nginx.svg
+            crunchbase: https://www.crunchbase.com/organization/nginx
           - item:
             name: Nokia (Adopter)
             homepage_url: https://www.nokia.com/

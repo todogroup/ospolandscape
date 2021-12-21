@@ -15,19 +15,15 @@ Organizations who has a public OSPO or similar initiative that meets OSPO Defini
   
 </section>
 
-<section data-category="OSPO Tools">
+### OSPO Tools
 
 A set of packages and projects packages and projects that are helpful for managing open source projects and offices
 OSPO Associates
 Communities or projects that work closely with OSPOs orhelp the OSPO Movement with valuable resources and contributions. OSPO Associates work in collaboration with the TODO Community.
 
-</section>
-
-<section data-category="TODO Group Member">
+### TODO Member
 
 Organizations that are members of the TODO Group
-  
-</section>
 
 ### Adding Resources 
 

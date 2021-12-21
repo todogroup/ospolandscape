@@ -9,17 +9,25 @@ and responsibilities, as well as public use cases and learning resources in a co
 The OSPO landscape is intended as a map to explore the OSPO Ecosystem in terms of tooling, adopters and involved communities. It also shows current TODO members.
 It is modelled after the Cloud Native Computing Foundation (CNCF) landscape and based on the same open source code.
 
-### OSPO Adopters
-Organizations who has a public OSPO or similar initiative that meets OSPO Definition requirements
+<section data-subcategory="OSPO Adopter">
 
-### OSPO Tools
+Organizations who has a public OSPO or similar initiative that meets OSPO Definition requirements
+  
+</section>
+
+<section data-category="OSPO Tools">
+
 A set of packages and projects packages and projects that are helpful for managing open source projects and offices
 OSPO Associates
 Communities or projects that work closely with OSPOs orhelp the OSPO Movement with valuable resources and contributions. OSPO Associates work in collaboration with the TODO Community.
 
-### TODO Members
+</section>
+
+<section data-category="TODO Group Member">
 
 Organizations that are members of the TODO Group
+  
+</section>
 
 ### Adding Resources 
 

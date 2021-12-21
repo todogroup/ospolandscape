@@ -9,7 +9,7 @@ and responsibilities, as well as public use cases and learning resources in a co
 The OSPO landscape is intended as a map to explore the OSPO Ecosystem in terms of tooling, adopters and involved communities. It also shows current TODO members.
 It is modelled after the Cloud Native Computing Foundation (CNCF) landscape and based on the same open source code.
 
-### OTODO Members
+### OSPO Adopters
 
 Organizations who has a public OSPO or similar initiative that meets OSPO Definition requirements
   

@@ -4,6 +4,10 @@ There has been an OSPO terminology misalignment caused by The Open Source Progra
 The OSPO guide is an ongoing set of documents that provides a holistic view and alignment of Open Source Program Office terminology, tasks, 
 and responsibilities, as well as public use cases and learning resources in a cohesive application.
 
+### Contributing to this guide
+
+The OSPO Guide works using a markdown file called `guide.md`. If you would like to contribute, please open at PR in the [OSPO Landscape Repo](https://github.com/todogroup/ospolandscape).
+
 ## How to use the OSPO Landscape
 
 The OSPO landscape is intended as a map to explore the OSPO Ecosystem in terms of tooling, adopters and involved communities. It also shows current TODO members.
@@ -28,7 +32,7 @@ Organizations that are members of the TODO Group
 If you think your project should be included, please open a pull request to add it to landscape.yml. For the logo, you can either upload an SVG to the hosted_logos directory or put a URL as the value, and it will be fetched.
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add LGTM to the pull request confirming your review and requesting a merge.
 
-> Not sure how to start? Email ana@togroup.org for advice
+> Not sure how to start? Email ana@todogroup.org for advice
 
 ## OSPO Glossary
 

@@ -71,6 +71,11 @@ landscape:
             logo: box.svg
             crunchbase: https://www.crunchbase.com/organization/box
           - item:
+            name: Camunda (Member)
+            homepage_url: https://github.com/camunda
+            logo: camunda.svg
+            crunchbase: https://www.crunchbase.com/organization/camunda
+          - item:
             name: Capital One (Member)
             homepage_url: http://www.capitalone.io/
             logo: capital-one.svg
@@ -519,6 +524,11 @@ landscape:
             homepage_url: http://www.capitalone.io/
             logo: capital-one.svg
             crunchbase: https://www.crunchbase.com/organization/capital-one
+          - item:
+            name: Camunda (Adopter)
+            homepage_url: https://github.com/camunda
+            logo: camunda.svg
+            crunchbase: https://www.crunchbase.com/organization/camunda
           - item:
             name: Change Healthcare (Adopter)
             homepage_url: https://www.changehealthcare.com/

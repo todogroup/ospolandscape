@@ -1064,6 +1064,15 @@ landscape:
             logo: tern.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
+            name: Vigiles
+            description: >-
+              Vigiles enables you to detect, filter, triage, and remediate vulnerabilities with the industry’s first Software Composition Analysis (SCA) and
+              CVE monitoring tool optimized for embedded Linux and usable for all open source software.
+            homepage_url: https://timesys.com/solutions/vigiles-vulnerability-management/
+            repo_url: https://github.com/TimesysGit/meta-timesys
+            logo: vigiles.svg
+            crunchbase: https://www.crunchbase.com/organization/timesys-corporation           
+          - item:
             name: WhiteSource
             homepage_url: https://www.whitesourcesoftware.com
             logo: white-source.svg

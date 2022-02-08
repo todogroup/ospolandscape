@@ -216,6 +216,11 @@ landscape:
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
+            name: ITRenew (Member)
+            homepage_url: https://www.itrenew.com/
+            logo: itrenew.svg
+            crunchbase: https://www.crunchbase.com/organization/itrenew
+          - item:
             name: JiHu(GitLab) (Member)
             homepage_url: https://about.gitlab.cn
             logo: jihu-gitlab.svg
@@ -684,6 +689,11 @@ landscape:
             homepage_url: https://01.org/
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: ITRenew (Adopter)
+            homepage_url: https://www.itrenew.com/
+            logo: itrenew.svg
+            crunchbase: https://www.crunchbase.com/organization/itrenew
           - item:
             name: JiHu(GitLab) (Adopter)
             homepage_url: https://about.gitlab.cn

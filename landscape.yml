@@ -156,11 +156,6 @@ landscape:
             logo: f5.svg
             crunchbase: https://www.crunchbase.com/organization/f5-networks
           - item:
-            name: Facebook (Member)
-            homepage_url: https://opensource.fb.com
-            logo: facebook.svg
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
             name: Freddie Mac (Member)
             homepage_url: http://www.freddiemac.com
             logo: freddie-mac.svg
@@ -235,6 +230,11 @@ landscape:
             homepage_url: https://www.khanacademy.org/
             logo: khan-academy.svg
             crunchbase: https://www.crunchbase.com/organization/khan-academy
+          - item:
+            name: Meta (Member)
+            homepage_url: https://opensource.fb.com
+            logo: meta.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Microsoft (Member)
             homepage_url: https://cloudblogs.microsoft.com/opensource
@@ -620,11 +620,6 @@ landscape:
             logo: f5.svg
             crunchbase: https://www.crunchbase.com/organization/f5-networks
           - item:
-            name: Facebook (Adopter)
-            homepage_url: https://opensource.fb.com
-            logo: facebook.svg
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
             name: Fannie Mae (Adopter)
             homepage_url: https://www.fanniemae.com
             logo: fannie-mae.svg
@@ -714,6 +709,11 @@ landscape:
             homepage_url: https://www.khanacademy.org/
             logo: khan-academy.svg
             crunchbase: https://www.crunchbase.com/organization/khan-academy
+          - item:
+            name: Meta (Adopter)
+            homepage_url: https://opensource.fb.com
+            logo: meta.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Microsoft (Adopter)
             homepage_url: https://cloudblogs.microsoft.com/opensource

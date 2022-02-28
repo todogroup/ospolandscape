@@ -225,11 +225,11 @@ A nested inventory for software, a list of ingredients that make up software com
 > ##### INFOBOX
 > * [SBOM by NTIA](https://www.ntia.gov/sbom) 
 
-## OSPO 5-state Maturity Model
+## OSPO Five-Stage Maturity Model
 
 A set of patterns and directions as well as a checklist, to help implement an OSPO or an open source initiative within corporate environments. People can read and download the full whitepaper [here](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/)
 
-![LFResearch_OSPO_Report_Fig2](https://user-images.githubusercontent.com/43671777/155957845-35aa0bd2-bdd3-4134-b5e0-e97751e38b03.jpg)
+![OSPO Maturity Model](https://landscape.todogroup.org/images/LFResearch_OSPO_Report_Fig2.jpg)
 
 
 ### Stage 0: Adopting Open Source Ad Hoc

@@ -131,6 +131,11 @@ landscape:
             logo: dropbox.svg
             crunchbase: https://www.crunchbase.com/organization/dropbox
           - item:
+            name: Dynatrace (Member)
+            homepage_url: https://engineering.dynatrace.com/open-source/
+            logo: dynatrace.svg
+            crunchbase: https://www.crunchbase.com/organization/dynatrace-software
+          - item:
             name: eBay (Member)
             homepage_url: https://ebay.github.io
             logo: ebay.svg
@@ -589,6 +594,11 @@ landscape:
             homepage_url: https://opensource.dropbox.com/
             logo: dropbox.svg
             crunchbase: https://www.crunchbase.com/organization/dropbox
+          - item:
+            name: Dynatrace (Adopter)
+            homepage_url: https://engineering.dynatrace.com/open-source/
+            logo: dynatrace.svg
+            crunchbase: https://www.crunchbase.com/organization/dynatrace-software
           - item:
             name: eBay (Adopter)
             homepage_url: https://ebay.github.io

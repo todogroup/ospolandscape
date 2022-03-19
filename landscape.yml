@@ -1127,11 +1127,9 @@ landscape:
             logo: grimoirelab.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: CHAOSS Metrics
-            homepage_url: https://chaoss.community/metrics
-            repo_url: https://github.com/chaoss/metrics
-            logo: chaoss.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            name: LFX Insights
+            homepage_url: https://lfx.linuxfoundation.org/tools/insights
+            logo: lfx-insights.svg
           - item:
             name: Ovio
             homepage_url: https://ovio.org

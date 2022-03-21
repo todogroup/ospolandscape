@@ -468,6 +468,7 @@ landscape:
             name: Apple (Adopter)
             homepage_url: https://opensource.apple.com/
             logo: apple.svg
+            twitter: https://twitter.com/apple
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
             name: ARM (Adopter)
@@ -1141,6 +1142,11 @@ landscape:
             homepage_url: https://lfx.linuxfoundation.org/tools/insights
             logo: lfx-insights.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: Ovio
+            homepage_url: https://ovio.org
+            logo: ovio.svg
+            crunchbase: https://www.crunchbase.com/organization/ovio
       - subcategory:
         name: Project Quality
         items:

@@ -156,6 +156,11 @@ landscape:
             logo: epam.svg
             crunchbase: https://www.crunchbase.com/organization/epam-systems
           - item:
+            name: Equinix (Member)
+            homepage_url: https://www.equinix.nl/
+            logo: equinix.svg
+            crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
             name: Ericsson (Member)
             homepage_url: https://github.com/Ericsson
             logo: ericsson.svg
@@ -619,6 +624,11 @@ landscape:
             homepage_url: https://www.epam.com/
             logo: epam.svg
             crunchbase: https://www.crunchbase.com/organization/epam-systems
+          - item:
+            name: Equinix (Adopter)
+            homepage_url: https://www.equinix.nl/
+            logo: equinix.svg
+            crunchbase: https://www.crunchbase.com/organization/equinix
           - item:
             name: Ericsson (Adopter)
             homepage_url: https://github.com/Ericsson

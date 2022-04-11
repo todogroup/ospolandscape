@@ -175,7 +175,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T06:00:06.000Z
+              latest_tweet_date: 2022-04-10T23:00:52.000Z
           - item:
             name: Aiven (Member)
             homepage_url: https://github.com/aiven/
@@ -210,7 +210,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T12:20:00.000Z
+              latest_tweet_date: 2022-04-11T08:10:03.000Z
           - item:
             name: Apple (Member)
             homepage_url: https://opensource.apple.com/
@@ -602,7 +602,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-06T20:15:01.000Z
+              latest_tweet_date: 2022-04-11T09:12:42.000Z
           - item:
             name: Autodesk (Member)
             homepage_url: https://www.autodesk.com
@@ -961,7 +961,7 @@ landscape:
                 - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 47711929332
+              market_cap: 45211078123
               effective_ticker: 9888.HK
             image_data:
               fileName: baidu-member.svg
@@ -1180,7 +1180,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T09:30:02.000Z
+              latest_tweet_date: 2022-04-11T10:00:02.000Z
           - item:
             name: Bosch (Member)
             homepage_url: https://www.bosch.com/
@@ -1243,7 +1243,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T06:05:02.000Z
+              latest_tweet_date: 2022-04-11T08:45:30.000Z
           - item:
             name: Box (Member)
             homepage_url: http://opensource.box.com/
@@ -1347,7 +1347,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T15:10:02.000Z
+              latest_tweet_date: 2022-04-11T10:39:01.000Z
           - item:
             name: Capital One (Member)
             homepage_url: http://www.capitalone.io/
@@ -1531,7 +1531,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 151271541668
+              market_cap: 149569396190
               effective_ticker: 600941.SS
             image_data:
               fileName: china-mobile-member.svg
@@ -2185,7 +2185,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T17:08:13.000Z
+              latest_tweet_date: 2022-04-11T08:08:04.000Z
           - item:
             name: Comcast (Member)
             homepage_url: https://comcast.github.io/
@@ -2303,7 +2303,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T21:34:17.000Z
+              latest_tweet_date: 2022-04-10T16:27:57.000Z
           - item:
             name: Datadog (Member)
             homepage_url: https://github.com/DataDog
@@ -2431,7 +2431,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T11:11:44.000Z
+              latest_tweet_date: 2022-04-11T10:44:59.000Z
           - item:
             name: Didi (Member)
             homepage_url: https://github.com/didi
@@ -2504,7 +2504,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T14:47:18.000Z
+              latest_tweet_date: 2022-04-10T20:25:56.000Z
           - item:
             name: Dropbox (Member)
             homepage_url: https://opensource.dropbox.com/
@@ -2645,7 +2645,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T19:44:01.000Z
+              latest_tweet_date: 2022-04-11T07:15:01.000Z
           - item:
             name: eBay (Member)
             homepage_url: https://ebay.github.io
@@ -3122,7 +3122,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T15:37:58.000Z
+              latest_tweet_date: 2022-04-11T07:36:54.000Z
           - item:
             name: F5 (Member)
             homepage_url: https://devcentral.f5.com/s
@@ -3342,7 +3342,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T08:05:00.000Z
+              latest_tweet_date: 2022-04-10T21:06:00.000Z
           - item:
             name: Goldman Sachs (Member)
             homepage_url: https://www.goldmansachs.com/careers/blog/posts/open-source.html
@@ -3396,6 +3396,8 @@ landscape:
                   acquiree: Final
                 - date: '2018-03-12'
                   acquiree: Global Consumer Products
+                - date: '2018-04-15'
+                  acquiree: Clarity Money
                 - date: '2018-04-24'
                   acquiree: CityFibre
                   price: 752884541
@@ -3959,6 +3961,8 @@ landscape:
                 - date: '2018-02-15'
                   acquiree: Xively
                   price: 50000000
+                - date: '2018-03-10'
+                  acquiree: Banter
                 - date: '2018-03-27'
                   acquiree: Tenor Inc
                 - date: '2018-05-09'
@@ -4036,7 +4040,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T10:17:45.000Z
+              latest_tweet_date: 2022-04-11T11:00:08.000Z
           - item:
             name: Here Technologies (Member)
             homepage_url: https://github.com/heremaps
@@ -4082,7 +4086,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T00:20:00.000Z
+              latest_tweet_date: 2022-04-11T10:54:00.000Z
           - item:
             name: HPE (Member)
             homepage_url: https://github.com/HewlettPackard
@@ -4219,7 +4223,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T10:47:35.000Z
+              latest_tweet_date: 2022-04-11T09:29:57.000Z
           - item:
             name: IBM (Member)
             homepage_url: http://ibm.github.io/
@@ -4695,7 +4699,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T08:22:53.000Z
+              latest_tweet_date: 2022-04-11T10:39:49.000Z
           - item:
             name: Indeed (Member)
             homepage_url: https://github.com/indeedeng
@@ -6159,7 +6163,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T01:20:52.000Z
+              latest_tweet_date: 2022-04-10T19:18:41.000Z
           - item:
             name: Netflix (Member)
             homepage_url: https://netflix.github.io/
@@ -6213,7 +6217,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T19:01:10.000Z
+              latest_tweet_date: 2022-04-11T00:15:58.000Z
           - item:
             name: NGINX (Member)
             homepage_url: https://www.nginx.org
@@ -6502,7 +6506,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T21:28:23.000Z
+              latest_tweet_date: 2022-04-10T15:00:12.000Z
           - item:
             name: Pinterest (Member)
             homepage_url: https://github.com/pinterest
@@ -6647,7 +6651,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 285899786
+              market_cap: 276167031
               effective_ticker: 688316.SS
             image_data:
               fileName: qingcloud-member.svg
@@ -6911,7 +6915,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T19:32:01.000Z
+              latest_tweet_date: 2022-04-10T16:57:00.000Z
           - item:
             name: Rochester Institute of Technology (Member)
             homepage_url: https://www.rit.edu/about-rit
@@ -7146,7 +7150,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:00:07.000Z
+              latest_tweet_date: 2022-04-10T23:00:05.000Z
           - item:
             name: Samsung (Member)
             homepage_url: https://blogs.s-osg.org/
@@ -7420,7 +7424,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T09:00:01.000Z
+              latest_tweet_date: 2022-04-11T09:00:01.000Z
           - item:
             name: Seagate (Member)
             homepage_url: https://github.com/seagate
@@ -7693,7 +7697,7 @@ landscape:
                 - Medical
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 11819090201
+              market_cap: 11727762901
               effective_ticker: SIEMENS.NS
             image_data:
               fileName: siemens-member.svg
@@ -7940,7 +7944,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T22:20:22.000Z
+              latest_tweet_date: 2022-04-11T07:16:41.000Z
           - item:
             name: Target (Member)
             homepage_url: https://github.com/target
@@ -8092,7 +8096,7 @@ landscape:
                 - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 452974980533
+              market_cap: 433393321060
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent-member.svg
@@ -8147,7 +8151,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-06T04:42:42.000Z
+              latest_tweet_date: 2022-04-11T04:29:14.000Z
           - item:
             name: Twitter (Member)
             homepage_url: https://blog.twitter.com/engineering/en_us
@@ -8384,7 +8388,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T16:39:27.000Z
+              latest_tweet_date: 2022-04-10T15:12:24.000Z
           - item:
             name: University of Santa Cruz (Member)
             homepage_url: https://cross.ucsc.edu
@@ -8610,7 +8614,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T06:20:02.000Z
+              latest_tweet_date: 2022-04-11T06:45:02.000Z
           - item:
             name: WalmartLabs (Member)
             homepage_url: https://code.walmartlabs.com
@@ -8747,7 +8751,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14908231625
+              market_cap: 14644392478
               effective_ticker: WDC.F
             image_data:
               fileName: western-digital-member.svg
@@ -8756,7 +8760,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T20:00:01.000Z
+              latest_tweet_date: 2022-04-10T19:01:00.000Z
           - item:
             name: Wipro (Member)
             homepage_url: https://github.com/WiproOpenSourcePractice
@@ -8881,7 +8885,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 42036951193
+              market_cap: 41126268658
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro-member.svg
@@ -8953,7 +8957,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 48938911776
+              market_cap: 49109830758
               effective_ticker: XLNX.VI
             image_data:
               fileName: xilinx-member.svg
@@ -9006,7 +9010,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: LF Energy (Associate)
             homepage_url: https://www.lfenergy.org/projects-new
@@ -9062,7 +9066,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: OpenChain (Associate)
             homepage_url: https://www.openchainproject.org/
@@ -9100,7 +9104,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
       - subcategory:
         name: OSPO Adopter
         items:
@@ -9273,7 +9277,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T06:00:06.000Z
+              latest_tweet_date: 2022-04-10T23:00:52.000Z
           - item:
             name: Aiven (Adopter)
             homepage_url: https://github.com/aiven/
@@ -9308,7 +9312,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T12:20:00.000Z
+              latest_tweet_date: 2022-04-11T08:10:03.000Z
           - item:
             name: Alibaba (Adopter)
             homepage_url: https://www.alibaba.com/
@@ -9419,7 +9423,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 284684665456
+              market_cap: 270165966908
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -9852,7 +9856,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-06T20:15:01.000Z
+              latest_tweet_date: 2022-04-11T09:12:42.000Z
           - item:
             name: Autodesk (Adopter)
             homepage_url: https://www.autodesk.com
@@ -10211,7 +10215,7 @@ landscape:
                 - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 47711929332
+              market_cap: 45211078123
               effective_ticker: 9888.HK
             image_data:
               fileName: baidu-adopter.svg
@@ -10430,7 +10434,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T09:30:02.000Z
+              latest_tweet_date: 2022-04-11T10:00:02.000Z
           - item:
             name: Boeing (Adopter)
             homepage_url: https://www.boeing.com/
@@ -10605,7 +10609,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T06:05:02.000Z
+              latest_tweet_date: 2022-04-11T08:45:30.000Z
           - item:
             name: Box (Adopter)
             homepage_url: http://opensource.box.com/
@@ -10709,7 +10713,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T15:10:02.000Z
+              latest_tweet_date: 2022-04-11T10:39:01.000Z
           - item:
             name: Capital One (Adopter)
             homepage_url: http://www.capitalone.io/
@@ -10899,7 +10903,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T21:31:01.000Z
+              latest_tweet_date: 2022-04-08T18:23:00.000Z
           - item:
             name: China  Mobile (Adopter)
             homepage_url: https://www.chinamobileltd.com/en/global/home.php
@@ -10933,7 +10937,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 151271541668
+              market_cap: 149569396190
               effective_ticker: 600941.SS
             image_data:
               fileName: china-mobile-adopter.svg
@@ -11587,7 +11591,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T17:08:13.000Z
+              latest_tweet_date: 2022-04-11T08:08:04.000Z
           - item:
             name: Comcast (Adopter)
             homepage_url: https://comcast.github.io/
@@ -11705,7 +11709,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T21:34:17.000Z
+              latest_tweet_date: 2022-04-10T16:27:57.000Z
           - item:
             name: Datadog (Adopter)
             homepage_url: https://github.com/DataDog
@@ -11833,7 +11837,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T11:11:44.000Z
+              latest_tweet_date: 2022-04-11T10:44:59.000Z
           - item:
             name: Didi (Adopter)
             homepage_url: https://github.com/didi
@@ -11906,7 +11910,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T14:47:18.000Z
+              latest_tweet_date: 2022-04-10T20:25:56.000Z
           - item:
             name: Dropbox (Adopter)
             homepage_url: https://opensource.dropbox.com/
@@ -12047,7 +12051,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T19:44:01.000Z
+              latest_tweet_date: 2022-04-11T07:15:01.000Z
           - item:
             name: eBay (Adopter)
             homepage_url: https://ebay.github.io
@@ -12524,7 +12528,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T15:37:58.000Z
+              latest_tweet_date: 2022-04-11T07:36:54.000Z
           - item:
             name: ESRI (Adopter)
             homepage_url: http://esri.github.io
@@ -12572,7 +12576,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T14:01:34.000Z
+              latest_tweet_date: 2022-04-10T16:00:13.000Z
           - item:
             name: F5 (Adopter)
             homepage_url: https://devcentral.f5.com/s
@@ -12829,7 +12833,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T08:05:00.000Z
+              latest_tweet_date: 2022-04-10T21:06:00.000Z
           - item:
             name: Goldman Sachs (Adopter)
             homepage_url: https://www.goldmansachs.com/careers/blog/posts/open-source.html
@@ -12883,6 +12887,8 @@ landscape:
                   acquiree: Final
                 - date: '2018-03-12'
                   acquiree: Global Consumer Products
+                - date: '2018-04-15'
+                  acquiree: Clarity Money
                 - date: '2018-04-24'
                   acquiree: CityFibre
                   price: 752884541
@@ -13446,6 +13452,8 @@ landscape:
                 - date: '2018-02-15'
                   acquiree: Xively
                   price: 50000000
+                - date: '2018-03-10'
+                  acquiree: Banter
                 - date: '2018-03-27'
                   acquiree: Tenor Inc
                 - date: '2018-05-09'
@@ -13523,7 +13531,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T10:17:45.000Z
+              latest_tweet_date: 2022-04-11T11:00:08.000Z
           - item:
             name: HCL Software (Adopter)
             homepage_url: https://opensource.hcltechsw.com
@@ -13557,7 +13565,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T17:25:01.000Z
+              latest_tweet_date: 2022-04-11T10:00:01.000Z
           - item:
             name: Here Technologies (Adopter)
             homepage_url: https://github.com/heremaps
@@ -13603,7 +13611,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T00:20:00.000Z
+              latest_tweet_date: 2022-04-11T10:54:00.000Z
           - item:
             name: HPE (Adopter)
             homepage_url: https://github.com/HewlettPackard
@@ -13740,7 +13748,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T10:47:35.000Z
+              latest_tweet_date: 2022-04-11T09:29:57.000Z
           - item:
             name: IBM (Adopter)
             homepage_url: http://ibm.github.io/
@@ -14216,7 +14224,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T08:22:53.000Z
+              latest_tweet_date: 2022-04-11T10:39:49.000Z
           - item:
             name: Indeed (Adopter)
             homepage_url: https://github.com/indeedeng
@@ -15781,7 +15789,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T01:20:52.000Z
+              latest_tweet_date: 2022-04-10T19:18:41.000Z
           - item:
             name: Netflix (Adopter)
             homepage_url: https://netflix.github.io/
@@ -15835,7 +15843,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T19:01:10.000Z
+              latest_tweet_date: 2022-04-11T00:15:58.000Z
           - item:
             name: New Relic (Adopter)
             homepage_url: https://opensource.newrelic.com
@@ -16183,7 +16191,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T21:28:23.000Z
+              latest_tweet_date: 2022-04-10T15:00:12.000Z
           - item:
             name: Pinterest (Adopter)
             homepage_url: https://github.com/pinterest
@@ -16328,7 +16336,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 285899786
+              market_cap: 276167031
               effective_ticker: 688316.SS
             image_data:
               fileName: qingcloud-adopter.svg
@@ -16592,7 +16600,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T19:32:01.000Z
+              latest_tweet_date: 2022-04-10T16:57:00.000Z
           - item:
             name: Rochester Institute of Technology (Adopter)
             homepage_url: https://www.rit.edu/about-rit
@@ -16827,7 +16835,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:00:07.000Z
+              latest_tweet_date: 2022-04-10T23:00:05.000Z
           - item:
             name: Samsung (Adopter)
             homepage_url: https://blogs.s-osg.org/
@@ -17101,7 +17109,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T09:00:01.000Z
+              latest_tweet_date: 2022-04-11T09:00:01.000Z
           - item:
             name: Seagate (Adopter)
             homepage_url: https://github.com/seagate
@@ -17374,7 +17382,7 @@ landscape:
                 - Medical
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 11819090201
+              market_cap: 11727762901
               effective_ticker: SIEMENS.NS
             image_data:
               fileName: siemens-adopter.svg
@@ -17438,7 +17446,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-08T23:59:52.000Z
+              latest_tweet_date: 2022-04-11T06:30:20.000Z
           - item:
             name: Spotify (Adopter)
             homepage_url: https://github.com/spotify
@@ -17676,7 +17684,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T22:20:22.000Z
+              latest_tweet_date: 2022-04-11T07:16:41.000Z
           - item:
             name: Target (Adopter)
             homepage_url: https://github.com/target
@@ -17828,7 +17836,7 @@ landscape:
                 - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 452974980533
+              market_cap: 433393321060
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent-adopter.svg
@@ -17883,7 +17891,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-06T04:42:42.000Z
+              latest_tweet_date: 2022-04-11T04:29:14.000Z
           - item:
             name: Trinity College Dublin (Adopter)
             homepage_url: https://www.tcd.ie/innovation/OSPO/
@@ -17916,7 +17924,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T17:13:05.000Z
+              latest_tweet_date: 2022-04-11T09:36:37.000Z
           - item:
             name: Twitter (Adopter)
             homepage_url: https://blog.twitter.com/engineering/en_us
@@ -18185,7 +18193,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T16:39:27.000Z
+              latest_tweet_date: 2022-04-10T15:12:24.000Z
           - item:
             name: University of Santa Cruz (Adopter)
             homepage_url: https://cross.ucsc.edu
@@ -18453,7 +18461,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T06:20:02.000Z
+              latest_tweet_date: 2022-04-11T06:45:02.000Z
           - item:
             name: WalmartLabs (Adopter)
             homepage_url: https://code.walmartlabs.com
@@ -18576,7 +18584,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T19:23:34.000Z
+              latest_tweet_date: 2022-04-10T19:17:58.000Z
           - item:
             name: Western Digital (Adopter)
             homepage_url: https://github.com/westerndigitalcorporation
@@ -18637,7 +18645,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14908231625
+              market_cap: 14644392478
               effective_ticker: WDC.F
             image_data:
               fileName: western-digital-adopter.svg
@@ -18646,7 +18654,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T20:00:01.000Z
+              latest_tweet_date: 2022-04-10T19:01:00.000Z
           - item:
             name: Windriver (Adopter)
             homepage_url: https://github.com/WindRiver-OpenSourceLabs
@@ -18822,7 +18830,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 42036951193
+              market_cap: 41126268658
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro-adopter.svg
@@ -18894,7 +18902,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 48938911776
+              market_cap: 49109830758
               effective_ticker: XLNX.VI
             image_data:
               fileName: xilinx-adopter.svg
@@ -18947,7 +18955,7 @@ landscape:
                 - Lifestyle
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12886390429
+              market_cap: 12424834340
               effective_ticker: ZAL.DE
             image_data:
               fileName: zalando-adopter.svg
@@ -19079,20 +19087,20 @@ landscape:
                   value: 698
                   color: '#012456'
               contributions: >-
-                230;287;266;218;135;247;205;205;197;245;193;211;248;217;178;159;178;200;247;185;157;196;276;195;246;276;239;210;301;83;369;296;264;279;243;254;252;218;242;356;439;327;262;309;414;388;443;243;293;255;223;204
+                237;277;272;219;130;249;202;210;192;245;191;211;253;211;179;161;181;194;250;191;167;194;259;209;236;275;245;208;302;75;370;301;265;305;212;259;249;215;248;364;433;330;254;326;399;392;437;247;290;253;224;202
               firstWeek: 2021-04-18Z
-              stars: 15961
+              stars: 15974
               license: Apache License 2.0
               description: Backstage is an open platform for building developer portals
-              latest_commit_date: '2022-04-09T13:40:55Z'
-              latest_commit_link: /backstage/backstage/commit/e9b48b20c96142010aafe7dd23bbc3edc298896b
+              latest_commit_date: '2022-04-11T08:12:39Z'
+              latest_commit_link: /backstage/backstage/commit/f7154d786b217567920711e8eb444350f6f6375c
               release_date: '2022-04-08T11:12:34Z'
               release_link: https://github.com/backstage/backstage/releases
               contributors_count: 799
               contributors_link: https://github.com/backstage/backstage/graphs/contributors
             repos:
               - url: https://github.com/backstage/backstage
-                stars: 15961
+                stars: 15974
             github_start_commit_data:
               start_commit_link: /backstage/backstage/commit/1a19a01c4beee7d869765a43d1b57b1b450017a7
               start_date: '2020-01-25T08:16:32Z'
@@ -19622,6 +19630,8 @@ landscape:
                 - date: '2018-02-15'
                   acquiree: Xively
                   price: 50000000
+                - date: '2018-03-10'
+                  acquiree: Banter
                 - date: '2018-03-27'
                   acquiree: Tenor Inc
                 - date: '2018-05-09'
@@ -19695,27 +19705,27 @@ landscape:
                   value: 82473
                   color: '#f1e05a'
                 - name: HTML
-                  value: 69204
+                  value: 69202
                   color: '#e34c26'
                 - name: SCSS
                   value: 38046
                 - name: CSS
                   value: 4515
                   color: '#563d7c'
-              contributions: 31;5;5;13;36;31;37;3;7;29;2;2;4;7;2;3;2;4;17;6;8;1;4;9;0;11;8;14;13;29;4;22;3;15;6;3;2;1;3;8;8;2;2;4;5;4;3;1;3;2;4;12
+              contributions: 29;5;6;12;42;25;37;4;7;29;1;2;4;8;2;2;2;4;17;9;5;1;4;9;0;11;8;14;13;29;5;21;3;15;6;3;2;1;3;8;8;2;2;4;5;4;3;1;3;2;4;12
               firstWeek: 2021-04-18Z
-              stars: 1633
+              stars: 1636
               license: Apache License 2.0
               description: A set of Hugo doc templates for launching open source content.
-              latest_commit_date: '2022-04-09T21:43:55Z'
-              latest_commit_link: /google/docsy/commit/7905e805c7e7a35c1556622284f5fa4eac2eec4e
+              latest_commit_date: '2022-04-11T10:15:20Z'
+              latest_commit_link: /google/docsy/commit/83d618fd4bc646809760faa1e714c3aaca65dafc
               release_date: '2022-04-07T15:02:57Z'
               release_link: https://github.com/google/docsy/releases
               contributors_count: 133
               contributors_link: https://github.com/google/docsy/graphs/contributors
             repos:
               - url: https://github.com/google/docsy
-                stars: 1633
+                stars: 1636
             github_start_commit_data:
               start_commit_link: /google/docsy/commit/91dcacf6f187c2542c629aa946cad26a4d6ee40d
               start_date: '2018-06-25T08:03:24Z'
@@ -19729,7 +19739,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-01-26T14:11:05.000Z
+              latest_tweet_date: 2022-04-11T11:01:13.000Z
           - item:
             name: Docusaurus
             homepage_url: https://docusaurus.io/
@@ -19967,7 +19977,7 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 1770026
+                  value: 1769622
                   color: '#2b7489'
                 - name: JavaScript
                   value: 85704
@@ -19978,20 +19988,20 @@ landscape:
                 - name: EJS
                   value: 553
               contributions: >-
-                31;14;13;20;19;19;13;29;19;41;28;20;15;30;14;24;25;27;22;14;30;7;5;27;13;19;20;26;33;24;26;25;17;11;29;17;37;23;29;42;44;53;40;20;30;31;38;35;28;48;32;31
+                28;14;13;20;19;19;13;29;20;41;27;20;15;30;15;23;25;28;23;12;30;7;8;24;15;18;19;26;35;26;25;24;15;13;27;19;38;22;30;45;46;48;37;21;33;30;42;31;26;54;26;32
               firstWeek: 2021-04-18Z
-              stars: 32199
+              stars: 32236
               license: Other
               description: Easy to maintain open source documentation websites.
-              latest_commit_date: '2022-04-09T12:19:17Z'
-              latest_commit_link: /facebook/docusaurus/commit/b50def3ac0359e9bac97a1b15fb93bdc6848540e
+              latest_commit_date: '2022-04-11T02:59:19Z'
+              latest_commit_link: /facebook/docusaurus/commit/0abf4d706cfe11a23c11edf549cd7403159b3328
               release_date: '2022-03-25T15:14:20Z'
               release_link: https://github.com/facebook/docusaurus/releases
-              contributors_count: 870
+              contributors_count: 871
               contributors_link: https://github.com/facebook/docusaurus/graphs/contributors
             repos:
               - url: https://github.com/facebook/docusaurus
-                stars: 32199
+                stars: 32236
             github_start_commit_data:
               start_commit_link: /facebook/docusaurus/commit/e3139eea2f8e59ffa9566ae8e9438500f9fbdfa1
               start_date: '2017-07-07T17:28:29Z'
@@ -20512,7 +20522,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-07T23:29:52.000Z
+              latest_tweet_date: 2022-04-11T03:21:00.000Z
           - item:
             name: FOSSA Security Management
             homepage_url: https://fossa.com/product/open-source-security-management
@@ -20548,7 +20558,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-07T23:29:52.000Z
+              latest_tweet_date: 2022-04-11T03:21:00.000Z
           - item:
             name: FossID
             homepage_url: https://fossid.com
@@ -20623,7 +20633,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 4734232
+                  value: 4734858
                   color: '#b07219'
                 - name: JavaScript
                   value: 2139112
@@ -20643,13 +20653,13 @@ landscape:
                 - name: Dockerfile
                   value: 756
                   color: '#384d54'
-              contributions: 0;0;16;7;4;0;1;3;25;9;2;8;3;6;9;24;20;29;34;18;29;10;26;11;20;29;26;19;15;12;23;23;23;24;15;15;14;19;14;14;14;14;6;15;18;20;16;3;23;27;6;16
+              contributions: 0;0;16;7;4;0;1;8;23;6;2;8;3;6;9;27;20;27;34;22;24;10;27;11;22;31;22;18;15;12;23;23;24;23;15;15;14;19;14;14;15;13;7;14;18;20;16;3;26;24;7;15
               firstWeek: 2021-04-18Z
               stars: 81
               license: GNU Affero General Public License v3.0
               description: 'FOSSLight Hub : Integrated management web-service for Open Source Compliance Process'
-              latest_commit_date: '2022-04-09T02:01:41Z'
-              latest_commit_link: /fosslight/fosslight/commit/7c137e329105c18f18049b0cae0b647d6cb25f6c
+              latest_commit_date: '2022-04-11T10:21:34Z'
+              latest_commit_link: /fosslight/fosslight/commit/40188f503aeb8fc36a9d3ee33b97bf602c0312e6
               release_date: '2022-04-09T02:01:20Z'
               release_link: https://github.com/fosslight/fosslight/releases
               contributors_count: 68
@@ -20661,7 +20671,7 @@ landscape:
               start_commit_link: /fosslight/fosslight/commit/d0ea0aa55c892b424908182f3d04c4714eb6f361
               start_date: '2021-04-29T09:49:48Z'
             yahoo_finance_data:
-              market_cap: 17056505993
+              market_cap: 17365401414
               effective_ticker: 066570.KS
             image_data:
               fileName: foss-light.svg
@@ -20670,7 +20680,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T10:19:40.000Z
+              latest_tweet_date: 2022-04-10T22:47:47.000Z
           - item:
             name: GitHub Security
             homepage_url: https://github.com/security
@@ -20781,7 +20791,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-10T08:05:00.000Z
+              latest_tweet_date: 2022-04-10T21:06:00.000Z
           - item:
             name: JiHu(GitLab) Secure
             homepage_url: https://about.gitlab.cn/stages-devops-lifecycle/secure/
@@ -20844,7 +20854,7 @@ landscape:
             github_data:
               languages:
                 - name: Kotlin
-                  value: 4088381
+                  value: 4088573
                   color: '#F18E33'
                 - name: JavaScript
                   value: 291650
@@ -20901,18 +20911,18 @@ landscape:
                   value: 191
                   color: '#c065db'
               contributions: >-
-                68;57;54;62;43;70;26;42;49;46;56;31;33;18;4;27;31;33;24;52;40;49;33;57;68;65;43;20;42;62;28;65;77;98;86;72;26;13;47;67;38;30;14;47;45;52;41;26;47;32;50;47
+                71;57;53;60;45;69;26;41;51;44;56;34;30;18;4;27;31;33;24;52;40;49;44;46;68;69;41;18;43;61;28;66;78;105;77;74;27;10;47;68;41;27;17;43;55;46;38;26;47;32;50;53
               firstWeek: 2021-04-18Z
-              stars: 728
+              stars: 729
               license: Apache License 2.0
               description: A suite of tools to assist with reviewing Open Source Software dependencies.
-              latest_commit_date: '2022-04-08T17:16:40Z'
-              latest_commit_link: /oss-review-toolkit/ort/commit/62c9273719c84fa93733420bde40e48f1ee13811
+              latest_commit_date: '2022-04-11T06:52:19Z'
+              latest_commit_link: /oss-review-toolkit/ort/commit/616d9d5558c29a90df19291cde68df7b86790dcf
               contributors_count: 59
               contributors_link: https://github.com/oss-review-toolkit/ort/graphs/contributors
             repos:
               - url: https://github.com/oss-review-toolkit/ort
-                stars: 728
+                stars: 729
             github_start_commit_data:
               start_commit_link: /oss-review-toolkit/ort/commit/0b17041c9e6c38fb7af1d3d51232de2869610ac7
               start_date: '2017-03-27T12:54:50Z'
@@ -20923,7 +20933,7 @@ landscape:
               badge: 4618
               percentage: 73
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: Snyk Open Source License Compliance Management
             homepage_url: https://snyk.io/product/open-source-license-compliance
@@ -21063,7 +21073,7 @@ landscape:
                 - name: Python
                   value: 5905
                   color: '#3572A5'
-              contributions: 1;0;1;1;0;0;0;2;0;0;2;0;0;0;0;0;0;0;6;0;1;5;24;7;3;0;1;0;6;8;1;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3;4;1;0;0
+              contributions: 1;0;1;1;0;0;0;2;0;1;1;0;0;0;0;0;0;0;6;0;5;1;24;8;2;0;1;0;6;8;1;1;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;3;4;1;0;0
               firstWeek: 2021-04-18Z
               stars: 153
               license: Other
@@ -21087,7 +21097,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: Tern
             homepage_url: https://github.com/tern-tools/tern
@@ -21129,7 +21139,7 @@ landscape:
                 - name: Dockerfile
                   value: 2073
                   color: '#384d54'
-              contributions: 6;2;1;3;3;4;6;3;0;1;0;1;2;9;2;0;1;0;1;0;3;0;0;4;11;0;0;1;4;0;2;5;2;3;6;5;0;0;0;2;4;0;2;3;8;4;0;0;0;3;1;0
+              contributions: 6;2;1;3;3;4;6;3;0;1;0;1;2;9;2;0;1;0;1;0;3;0;0;4;11;0;0;1;4;0;2;6;1;3;6;5;0;0;0;2;4;0;2;3;8;4;0;0;2;1;1;0
               firstWeek: 2021-04-18Z
               stars: 684
               license: Other
@@ -21156,7 +21166,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: Vigiles
             description: >-
@@ -21328,9 +21338,9 @@ landscape:
                   value: 645
                   color: '#563d7c'
               contributions: >-
-                12;26;11;28;12;80;24;53;26;28;85;55;41;31;33;68;50;88;66;29;52;20;222;82;91;76;75;39;55;13;25;44;9;58;41;58;35;6;15;66;37;25;47;8;5;10;33;73;9;33;19;36
+                13;27;13;23;16;76;24;53;28;49;63;54;41;31;34;70;47;92;62;29;52;26;218;83;89;75;75;46;48;13;25;52;12;47;53;46;36;5;15;66;37;25;47;9;4;10;33;73;15;28;18;36
               firstWeek: 2021-04-18Z
-              stars: 439
+              stars: 440
               license: MIT License
               description: Python library and web service for Open Source Software Health and Sustainability metrics & data collection.
               latest_commit_date: '2022-04-07T17:28:29Z'
@@ -21341,7 +21351,7 @@ landscape:
               contributors_link: https://github.com/chaoss/augur/graphs/contributors
             repos:
               - url: https://github.com/chaoss/augur
-                stars: 439
+                stars: 440
             github_start_commit_data:
               start_commit_link: /chaoss/augur/commit/c1c780958deb790fd40520873fdf8eee8e9988d9
               start_date: '2017-01-05T17:34:55Z'
@@ -21352,7 +21362,7 @@ landscape:
               badge: 2788
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: Bitergia Analytics
             homepage_url: https://bitergia.com/bitergia-analytics
@@ -21470,7 +21480,7 @@ landscape:
                 - Open Source
             github_data:
               languages: []
-              contributions: 1;1;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;1;3;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;2;1;0;0
+              contributions: 1;1;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;1;3;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;2;1;0;0
               firstWeek: 2021-04-18Z
               stars: 180
               license: MIT License
@@ -21492,7 +21502,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: DevStats
             homepage_url: https://devstats.cncf.io/
@@ -21553,9 +21563,9 @@ landscape:
                 - name: Vim script
                   value: 456
                   color: '#199f4b'
-              contributions: 36;6;39;38;7;20;3;5;16;15;33;1;5;32;2;7;12;7;15;12;9;19;49;7;4;8;38;19;13;6;3;64;8;12;6;5;5;0;4;47;5;7;1;0;9;12;31;6;27;5;23;26
+              contributions: 36;6;39;38;7;20;3;5;16;15;34;1;4;32;2;7;12;7;15;12;9;19;49;7;4;8;38;19;13;6;3;64;8;12;6;5;5;0;4;47;5;7;1;0;9;12;31;6;27;5;23;26
               firstWeek: 2021-04-18Z
-              stars: 376
+              stars: 377
               license: Apache License 2.0
               description: 📈CNCF-created tool for analyzing and graphing developer contributions
               latest_commit_date: '2022-04-09T03:48:20Z'
@@ -21566,7 +21576,7 @@ landscape:
               contributors_link: https://github.com/cncf/devstats/graphs/contributors
             repos:
               - url: https://github.com/cncf/devstats
-                stars: 376
+                stars: 377
             github_start_commit_data:
               start_commit_link: /cncf/devstats/commit/2d505a4549e54f16e8f80525aaed8c453cce0c98
               start_date: '2017-07-30T05:59:47Z'
@@ -21644,7 +21654,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: LFX Insights
             homepage_url: https://lfx.linuxfoundation.org/tools/insights
@@ -21681,7 +21691,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: Ovio
             homepage_url: https://ovio.org
@@ -21776,7 +21786,7 @@ landscape:
                   color: '#563d7c'
                 - name: Procfile
                   value: 91
-              contributions: 8;10;8;1;2;2;2;1;4;2;6;0;0;2;0;0;0;3;0;3;5;11;20;22;7;0;3;3;3;1;2;0;5;2;1;0;38;0;5;0;17;5;17;2;0;2;5;4;13;0;1;0
+              contributions: 10;4;8;1;2;2;2;1;4;2;6;0;0;2;0;0;0;3;0;3;5;11;20;22;7;0;3;3;3;1;2;0;5;3;0;0;38;0;5;0;17;15;7;2;0;3;4;4;13;0;1;0
               firstWeek: 2021-04-18Z
               stars: 1012
               license: MIT License
@@ -21798,7 +21808,7 @@ landscape:
               badge: 1
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-04-09T23:51:00.000Z
+              latest_tweet_date: 2022-04-11T08:15:11.000Z
           - item:
             name: Code Climate
             homepage_url: https://codeclimate.com
@@ -21937,4 +21947,4 @@ landscape:
 twitter_options:
   count: 11
   since_id: '1478373150282952714'
-updated_at: 2022-04-10T11:19:51.760Z
+updated_at: 2022-04-11T11:06:56.723Z

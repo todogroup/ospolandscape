@@ -1002,6 +1002,13 @@ landscape:
             logo: docusaurus.svg
             twitter: https://twitter.com/docusaurus
             crunchbase: https://www.crunchbase.com/organization/facebook
+          - item:
+            name: Markdoc
+            homepage_url: https://markdoc.io
+            repo_url: https://github.com/markdoc/markdoc
+            logo: markdoc.svg
+            twitter: https://twitter.com/StripeDev
+            crunchbase: https://www.crunchbase.com/organization/stripe
       - subcategory:
         name: SCA
         items:

@@ -443,6 +443,12 @@ landscape:
         name: OSPO Associate
         items:
           - item:
+            name: ESOP (Associate)
+            homepage_url: https://esop.pt
+            logo: esop.svg
+            crunchbase: https://www.crunchbase.com/organization/associa%C3%A7%C3%A3o-de-empresas-de-software-open-source-portuguesas-esop
+            allow_duplicate_repo: true
+          - item:
             name: FINOS (Associate)
             homepage_url: https://www.finos.org/
             logo: finos.svg

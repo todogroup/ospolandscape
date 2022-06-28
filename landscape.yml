@@ -467,6 +467,12 @@ landscape:
             logo: openchain.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true
+          - item:
+            name: OpenSSF (Associate)
+            homepage_url: https://openssf.org/
+            logo: openssf.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
       - subcategory:
         name: OSPO Adоpter
         items:

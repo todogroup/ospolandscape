@@ -94,7 +94,7 @@ big_picture:
         left: 0
         color: rgb(103,66,18)
         fit_width: true
-      - type: Vertical Category
+      - type: VerticalCategory
         category: OSPO Tools
         width: 250
         height: 330

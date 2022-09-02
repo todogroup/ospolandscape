@@ -16,6 +16,11 @@ landscape:
             logo: aiven.svg
             crunchbase: https://www.crunchbase.com/organization/aiven
           - item:
+            name: AMD Xilinx (Member)
+            homepage_url: https://www.xilinx.com/
+            logo: amd-xilinx.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+          - item:
             name: Apple (Member)
             homepage_url: https://opensource.apple.com/
             logo: apple.svg
@@ -442,11 +447,6 @@ landscape:
             homepage_url: https://github.com/WiproOpenSourcePractice
             logo: wipro.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
-          - item:
-            name: Xilinx (Member)
-            homepage_url: https://www.xilinx.com/
-            logo: xilinx.svg
-            crunchbase: https://www.crunchbase.com/organization/xilinx
   - category:
     name: OSPO Adopter
     subcategories:
@@ -507,6 +507,11 @@ landscape:
             homepage_url: https://www.alliander.com/en/old-browser
             logo: alliander.svg
             crunchbase: https://www.crunchbase.com/organization/alliander
+          - item:
+            name: AMD Xilinx (Adopter)
+            homepage_url: https://www.xilinx.com/
+            logo: amd-xilinx.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx
           - item:
             name: Apple (Adopter)
             homepage_url: https://opensource.apple.com/
@@ -994,11 +999,6 @@ landscape:
             homepage_url: https://github.com/WiproOpenSourcePractice
             logo: wipro.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
-          - item:
-            name: Xilinx (Adopter)
-            homepage_url: https://www.xilinx.com/community.html
-            logo: xilinx.svg
-            crunchbase: https://www.crunchbase.com/organization/xilinx
           - item:
             name: Zalando (Adopter)
             homepage_url: https://opensource.zalando.com

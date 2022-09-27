@@ -231,6 +231,11 @@ landscape:
             logo: indeed.svg
             crunchbase: https://www.crunchbase.com/organization/indeed
           - item:
+            name: Infosys (Member)
+            homepage_url: https://www.infosys.com
+            logo: infosys-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/infosys
+          - item:
             name: Intel (Member)
             homepage_url: https://01.org/
             logo: intel.svg
@@ -742,6 +747,11 @@ landscape:
             homepage_url: https://github.com/indeedeng
             logo: indeed.svg
             crunchbase: https://www.crunchbase.com/organization/indeed
+          - item:
+            name: Infosys (Adopter)
+            homepage_url: https://www.infosys.com
+            logo: infosys-logo.svg  
+            crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
             name: Intel (Adopter)
             homepage_url: https://01.org/

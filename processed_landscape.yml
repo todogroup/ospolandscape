@@ -218,6 +218,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-12-06T09:00:42.000Z
           - item:
+            name: Alliander (Member)
+            homepage_url: https://www.alliander.com/en/open-source/projects/
+            logo: alliander.svg
+            crunchbase: https://www.crunchbase.com/organization/alliander
+            crunchbase_data:
+              name: Alliander
+              description: Alliander is an energy network company.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.alliander.com
+              city: Arnhem
+              region: Gelderland
+              country: The Netherlands
+              twitter: https://twitter.com/alliander
+              linkedin: https://www.linkedin.com/company/alliander
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electrical Distribution
+                - Energy
+                - Infrastructure
+            image_data:
+              fileName: alliander-member.svg
+              hash: MXf+9hQRlUokbnntlr7fOxwkodlCORUF3kblkHnLhJI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-11-28T09:24:20.000Z
+          - item:
             name: AMD Xilinx (Member)
             homepage_url: https://www.xilinx.com/
             logo: amd-xilinx.svg
@@ -7074,6 +7106,41 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-12-06T17:08:44.000Z
           - item:
+            name: Postman (Member)
+            homepage_url: https://www.postman.com/
+            logo: postman.svg
+            crunchbase: https://www.crunchbase.com/organization/postman
+            crunchbase_data:
+              name: Postman
+              description: Postman is the collaboration platform for API development.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.postman.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/getpostman
+              linkedin: https://www.linkedin.com/company/postman-platform
+              acquisitions: []
+              parents: []
+              funding: 433000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer APIs
+                - Developer Tools
+                - Enterprise Software
+                - SaaS
+              kind: funding
+            image_data:
+              fileName: postman-member.svg
+              hash: 5h+8mNC1zMM6a1pPADbePcOJFVpDpQXdwU4Xz6cRn6Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-12-22T18:00:29.000Z
+          - item:
             name: Qingcloud (Member)
             homepage_url: https://www.qingcloud.com
             logo: qingcloud.svg
@@ -9501,6 +9568,7 @@ landscape:
           - item:
             name: CHAOSS (Associate)
             homepage_url: https://chaoss.community/
+            repo_url: https://github.com/chaoss/community
             logo: chaoss.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true
@@ -9528,6 +9596,27 @@ landscape:
                 - Linux
                 - Non Profit
                 - Open Source
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;6;2;9;27;3;3;11;13;2;17;46;5;17;1;2;2;2;4;0;0;0;5;1;20;13;13;6;4;1;3;16;15;29;3;0;0;0;1;20;13;15;7;31;0;8;10
+              firstWeek: 2021-12-26Z
+              stars: 68
+              license: MIT License
+              description: >-
+                This is the main CHAOSS community repository. Feel free to open an issue to discuss a topic of community interest! This repository also holds
+                governance, mentorship, and other community-related documentation
+              latest_commit_date: '2022-12-22T10:34:53Z'
+              latest_commit_link: /chaoss/community/commit/976e0ebc0749c05bf060c8ee1d578089ab22c83a
+              release_date: '2022-04-13T14:10:22Z'
+              release_link: https://github.com/chaoss/community/releases
+              contributors_count: 115
+              contributors_link: https://github.com/chaoss/community/graphs/contributors
+            repos:
+              - url: https://github.com/chaoss/community
+                stars: 68
+            github_start_commit_data:
+              start_commit_link: /chaoss/community/commit/61e2846329b4da27698a985de6125a1a942a371e
+              start_date: '2017-10-03T19:46:53Z'
             image_data:
               fileName: chaoss-associate.svg
               hash: Zle5D4PbWIg0FwPfI6JyNSuVT/l9R1q9HfIKt7qG7C8=
@@ -10071,7 +10160,7 @@ landscape:
               latest_tweet_date: 2022-11-28T09:40:49.000Z
           - item:
             name: Alliander (Adopter)
-            homepage_url: https://www.alliander.com/en/old-browser
+            homepage_url: https://www.alliander.com/en/open-source/projects/
             logo: alliander.svg
             crunchbase: https://www.crunchbase.com/organization/alliander
             crunchbase_data:
@@ -15679,6 +15768,68 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-12-05T17:36:08.000Z
           - item:
+            name: Line Corporation (Adopter)
+            homepage_url: https://github.com/line
+            logo: line.svg
+            crunchbase: https://www.crunchbase.com/organization/line-corporation
+            crunchbase_data:
+              name: Line
+              description: LINE develops calling and messaging applications for mobile phones in Japan and internationally.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://linecorp.com/ja/
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/line_global
+              linkedin: https://www.linkedin.com/company/line-
+              acquisitions:
+                - date: '2014-12-01'
+                  acquiree: MixRadio
+                - date: '2015-02-10'
+                  acquiree: WebPay
+                - date: '2015-06-29'
+                  acquiree: Wit studio
+                - date: '2017-03-05'
+                  acquiree: vinclu Inc.
+                - date: '2017-07-10'
+                  acquiree: Next Floor
+                - date: '2017-07-14'
+                  acquiree: DGM59
+                - date: '2017-11-23'
+                  acquiree: TemanJalan
+                - date: '2017-12-04'
+                  acquiree: FIVE Inc.
+                - date: '2018-10-01'
+                  acquiree: CHOCOLABS
+                - date: '2018-12-12'
+                  acquiree: GrayHash
+                - date: '2018-12-19'
+                  acquiree: Sellsuki
+              parents:
+                - https://www.crunchbase.com/organization/naver-corporation
+              ticker: 035420.KS
+              funding: 1331056152
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Apps
+                - Messaging
+                - Mobile
+                - Mobile Apps
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 21462806268
+              effective_ticker: 035420.KS
+            image_data:
+              fileName: line-corporation-adopter.svg
+              hash: V/ASqTaG8asjVs7uVf53jc33GROO96bHXyHKl7GlsAE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-12-20T09:00:01.000Z
+          - item:
             name: Meta (Adopter)
             homepage_url: https://opensource.fb.com
             logo: meta.svg
@@ -17353,6 +17504,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-12-06T17:08:44.000Z
+          - item:
+            name: Postman (Adopter)
+            homepage_url: https://www.postman.com/
+            logo: postman.svg
+            crunchbase: https://www.crunchbase.com/organization/postman
+            crunchbase_data:
+              name: Postman
+              description: Postman is the collaboration platform for API development.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.postman.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/getpostman
+              linkedin: https://www.linkedin.com/company/postman-platform
+              acquisitions: []
+              parents: []
+              funding: 433000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer APIs
+                - Developer Tools
+                - Enterprise Software
+                - SaaS
+              kind: funding
+            image_data:
+              fileName: postman-adopter.svg
+              hash: 5h+8mNC1zMM6a1pPADbePcOJFVpDpQXdwU4Xz6cRn6Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-12-22T18:00:29.000Z
           - item:
             name: Qingcloud (Adopter)
             homepage_url: https://www.qingcloud.com

@@ -86,6 +86,11 @@ landscape:
             logo: box.svg
             crunchbase: https://www.crunchbase.com/organization/box
           - item:
+            name: ByteDance (Member)
+            homepage_url: https://github.com/bytedance
+            logo: bytedance.svg
+            crunchbase: https://www.crunchbase.com/organization/bytedance
+          - item:
             name: Camunda (Member)
             homepage_url: https://github.com/camunda
             logo: camunda.svg
@@ -599,6 +604,11 @@ landscape:
             homepage_url: http://opensource.box.com/
             logo: box.svg
             crunchbase: https://www.crunchbase.com/organization/box
+          - item:
+            name: ByteDance (Adopter)
+            homepage_url: https://github.com/bytedance
+            logo: bytedance.svg
+            crunchbase: https://www.crunchbase.com/organization/bytedance
           - item:
             name: Camunda (Adopter)
             homepage_url: https://github.com/camunda

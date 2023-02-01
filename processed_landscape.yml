@@ -170,7 +170,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 168474984448
+              market_cap: 169221193728
               effective_ticker: ADBE
             image_data:
               fileName: adobe-member.svg
@@ -179,7 +179,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-29T21:58:04.000Z
+              latest_tweet_date: 2023-01-31T17:04:50.000Z
           - item:
             name: Aiven (Member)
             homepage_url: https://github.com/aiven/
@@ -216,7 +216,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T07:54:16.000Z
+              latest_tweet_date: 2023-02-01T13:00:27.000Z
           - item:
             name: Alliander (Member)
             homepage_url: https://www.alliander.com/en/open-source/projects/
@@ -316,7 +316,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T05:56:22.000Z
+              latest_tweet_date: 2023-02-01T17:01:15.000Z
           - item:
             name: Apple (Member)
             homepage_url: https://opensource.apple.com/
@@ -628,7 +628,7 @@ landscape:
                 - Wearables
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2268060450816
+              market_cap: 2248344600576
               effective_ticker: AAPL
             image_data:
               fileName: apple-member.svg
@@ -906,7 +906,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 45992894464
+              market_cap: 46169825280
               effective_ticker: ADSK
             image_data:
               fileName: autodesk-member.svg
@@ -966,7 +966,7 @@ landscape:
                 - Professional Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1829760532480
+              market_cap: 1838618640384
               effective_ticker: MSFT
             image_data:
               fileName: avanade-member.svg
@@ -975,7 +975,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T17:24:24.000Z
+              latest_tweet_date: 2023-02-01T14:00:04.000Z
           - item:
             name: AWS (Member)
             homepage_url: https://twitter.com/AWSOpen
@@ -1072,7 +1072,7 @@ landscape:
                 - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 46693444781
+              market_cap: 50872886564
               effective_ticker: 9888.HK
             image_data:
               fileName: baidu-member.svg
@@ -1202,7 +1202,7 @@ landscape:
                 - Real Estate Investment
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112332718080
+              market_cap: 112249610240
               effective_ticker: BLK
             image_data:
               fileName: black-rock-member.svg
@@ -1211,7 +1211,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T20:54:22.000Z
+              latest_tweet_date: 2023-02-01T15:23:07.000Z
           - item:
             name: Bloomberg (Member)
             homepage_url: https://github.com/bloomberg
@@ -1265,7 +1265,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T15:00:09.000Z
+              latest_tweet_date: 2023-02-01T14:30:21.000Z
           - item:
             name: BMW (Member)
             homepage_url: https://github.com/bmwcarit
@@ -1307,7 +1307,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T13:30:03.000Z
+              latest_tweet_date: 2023-02-01T09:00:03.000Z
           - item:
             name: Bosch (Member)
             homepage_url: https://www.bosch.com/
@@ -1374,7 +1374,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T11:15:47.000Z
+              latest_tweet_date: 2023-02-01T15:42:06.000Z
           - item:
             name: Box (Member)
             homepage_url: http://opensource.box.com/
@@ -1434,7 +1434,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4594002944
+              market_cap: 4654027264
               effective_ticker: BOX
             image_data:
               fileName: box-member.svg
@@ -1443,7 +1443,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T21:59:09.000Z
+              latest_tweet_date: 2023-01-31T21:54:02.000Z
           - item:
             name: ByteDance (Member)
             homepage_url: https://github.com/bytedance
@@ -1547,7 +1547,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:27:01.000Z
+              latest_tweet_date: 2023-02-01T13:57:48.000Z
           - item:
             name: Capital One (Member)
             homepage_url: http://www.capitalone.io/
@@ -1633,7 +1633,7 @@ landscape:
                 - Financial Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 44837064704
+              market_cap: 43982954496
               effective_ticker: COF
             image_data:
               fileName: capital-one-member.svg
@@ -1734,7 +1734,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 159784096934
+              market_cap: 161981001664
               effective_ticker: 600941.SS
             image_data:
               fileName: china-mobile-member.svg
@@ -1849,10 +1849,10 @@ landscape:
                   price: 125000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 2000000000
+                  price: 200000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 200000000
+                  price: 2000000000
                 - date: '1999-04-28'
                   acquiree: Amteva Technologies
                   price: 170000000
@@ -2382,7 +2382,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 197928271872
+              market_cap: 196736909312
               effective_ticker: CSCO
             image_data:
               fileName: cisco-member.svg
@@ -2391,7 +2391,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:08:30.000Z
+              latest_tweet_date: 2023-02-01T01:18:00.000Z
           - item:
             name: Comcast (Member)
             homepage_url: https://comcast.github.io/
@@ -2503,7 +2503,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 169456058368
+              market_cap: 170018095104
               effective_ticker: CMCSA
             image_data:
               fileName: comcast-member.svg
@@ -2512,7 +2512,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:33:09.000Z
+              latest_tweet_date: 2023-02-01T16:57:45.000Z
           - item:
             name: Datadog (Member)
             homepage_url: https://github.com/DataDog
@@ -2566,7 +2566,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 23670923264
+              market_cap: 24156788736
               effective_ticker: DDOG
             image_data:
               fileName: datadog-member.svg
@@ -2575,7 +2575,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:50:55.000Z
+              latest_tweet_date: 2023-02-01T15:05:14.000Z
           - item:
             name: Dell Technologies (Member)
             homepage_url: https://github.com/dell
@@ -2607,7 +2607,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-26T16:00:04.000Z
+              latest_tweet_date: 2023-02-01T17:00:00.000Z
           - item:
             name: Deutsche Bahn (Member)
             homepage_url: https://www.dbsystel.de/dbsystel-en
@@ -2643,7 +2643,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:59:48.000Z
+              latest_tweet_date: 2023-02-01T17:02:02.000Z
           - item:
             name: Didi (Member)
             homepage_url: https://github.com/didi
@@ -2710,7 +2710,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2824393984
+              market_cap: 2811875584
               effective_ticker: DOCN
             image_data:
               fileName: digital-ocean-member.svg
@@ -2719,7 +2719,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:05:02.000Z
+              latest_tweet_date: 2023-02-01T15:14:29.000Z
           - item:
             name: Dropbox (Member)
             homepage_url: https://opensource.dropbox.com/
@@ -2812,7 +2812,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8402779648
+              market_cap: 8466258432
               effective_ticker: DBX
             image_data:
               fileName: dropbox-member.svg
@@ -2821,7 +2821,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T02:04:17.000Z
+              latest_tweet_date: 2023-02-01T00:00:00.000Z
           - item:
             name: Dynatrace (Member)
             homepage_url: https://engineering.dynatrace.com/open-source/
@@ -2856,7 +2856,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 10955684864
+              market_cap: 12387752960
               effective_ticker: DT
             image_data:
               fileName: dynatrace-member.svg
@@ -2865,7 +2865,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:44:09.000Z
+              latest_tweet_date: 2023-02-01T14:22:02.000Z
           - item:
             name: eBay (Member)
             homepage_url: https://opensource.ebay.com
@@ -3052,7 +3052,7 @@ landscape:
                 - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26655410176
+              market_cap: 26541451264
               effective_ticker: EBAY
             image_data:
               fileName: e-bay-member.svg
@@ -3061,7 +3061,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T18:57:53.000Z
+              latest_tweet_date: 2023-01-31T23:00:31.000Z
           - item:
             name: Elastic (Member)
             homepage_url: https://www.elastic.co
@@ -3116,7 +3116,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 5621113344
+              market_cap: 5701899776
               effective_ticker: ESTC
             image_data:
               fileName: elastic-member.svg
@@ -3125,7 +3125,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:05:23.000Z
+              latest_tweet_date: 2023-02-01T15:40:01.000Z
           - item:
             name: EPAM (Member)
             homepage_url: https://www.epam.com/
@@ -3212,7 +3212,7 @@ landscape:
                 - Software Engineering
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19144230912
+              market_cap: 19540752384
               effective_ticker: EPAM
             image_data:
               fileName: epam-member.svg
@@ -3221,7 +3221,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:05:54.000Z
+              latest_tweet_date: 2023-02-01T15:01:02.000Z
           - item:
             name: Equinix (Member)
             homepage_url: https://www.equinix.nl/
@@ -3294,7 +3294,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 67974782976
+              market_cap: 67486183424
               effective_ticker: EQIX
             image_data:
               fileName: equinix-member.svg
@@ -3303,7 +3303,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T17:10:10.000Z
+              latest_tweet_date: 2023-02-01T16:10:09.000Z
           - item:
             name: Ericsson (Member)
             homepage_url: https://github.com/Ericsson
@@ -3423,7 +3423,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19721459712
+              market_cap: 19901997056
               effective_ticker: ERIC
             image_data:
               fileName: ericsson-member.svg
@@ -3497,7 +3497,7 @@ landscape:
                 - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8842096640
+              market_cap: 8955718656
               effective_ticker: FFIV
             image_data:
               fileName: f5-member.svg
@@ -3534,7 +3534,7 @@ landscape:
                 - Real Estate
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 541279680
+              market_cap: 547892352
               effective_ticker: FNMA
             image_data:
               fileName: fannie-mae-member.svg
@@ -3571,7 +3571,7 @@ landscape:
                 - Risk Management
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 303139264
+              market_cap: 309591072
               effective_ticker: FMCC
             image_data:
               fileName: freddie-mac-member.svg
@@ -3628,7 +3628,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1829760532480
+              market_cap: 1838618640384
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-member.svg
@@ -3637,7 +3637,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T13:47:27.000Z
+              latest_tweet_date: 2023-02-01T16:03:30.000Z
           - item:
             name: GitLab (Member)
             homepage_url: https://about.gitlab.com
@@ -3681,7 +3681,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7485000192
+              market_cap: 7461047808
               effective_ticker: GTLB
             image_data:
               fileName: git-lab-member.svg
@@ -3690,7 +3690,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:05:04.000Z
+              latest_tweet_date: 2023-02-01T12:02:21.000Z
           - item:
             name: Goldman Sachs (Member)
             homepage_url: https://www.goldmansachs.com/careers/blog/posts/open-source.html
@@ -3786,7 +3786,7 @@ landscape:
                 - Venture Capital
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 120579809280
+              market_cap: 121641492480
               effective_ticker: GS
             image_data:
               fileName: goldman-sachs-member.svg
@@ -3795,7 +3795,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:00:11.000Z
+              latest_tweet_date: 2023-01-31T21:31:37.000Z
           - item:
             name: Google (Member)
             homepage_url: https://opensource.google
@@ -4391,7 +4391,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1270625992704
+              market_cap: 1275773583360
               effective_ticker: GOOG
             image_data:
               fileName: google-member.svg
@@ -4400,7 +4400,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:41:34.000Z
+              latest_tweet_date: 2023-02-01T16:58:05.000Z
           - item:
             name: Here Technologies (Member)
             homepage_url: https://github.com/heremaps
@@ -4446,7 +4446,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T16:22:01.000Z
+              latest_tweet_date: 2023-02-01T08:20:00.000Z
           - item:
             name: HPE (Member)
             homepage_url: https://github.com/HewlettPackard
@@ -4521,7 +4521,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 20618074112
+              market_cap: 20486688768
               effective_ticker: HPE
             image_data:
               fileName: hpe-member.svg
@@ -4530,7 +4530,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T19:05:19.000Z
+              latest_tweet_date: 2023-02-01T09:23:08.000Z
           - item:
             name: Huawei (Member)
             homepage_url: http://www1.huawei.com/en/about-huawei/Partner/openathuawei/index.htm
@@ -4585,7 +4585,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T10:19:29.000Z
+              latest_tweet_date: 2023-02-01T14:36:26.000Z
           - item:
             name: IBM (Member)
             homepage_url: http://ibm.github.io/
@@ -5061,7 +5061,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 120106876928
+              market_cap: 119873839104
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -5070,7 +5070,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T09:14:48.000Z
+              latest_tweet_date: 2023-02-01T15:30:43.000Z
           - item:
             name: Indeed (Member)
             homepage_url: https://github.com/indeedeng
@@ -5203,7 +5203,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 78696923136
+              market_cap: 79834103808
               effective_ticker: INFY
             image_data:
               fileName: infosys-member.svg
@@ -5212,7 +5212,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:30:01.000Z
+              latest_tweet_date: 2023-02-01T12:30:02.000Z
           - item:
             name: Intel (Member)
             homepage_url: https://01.org/
@@ -5499,7 +5499,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115753254912
+              market_cap: 117139152896
               effective_ticker: INTC
             image_data:
               fileName: intel-member.svg
@@ -5508,7 +5508,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T23:42:35.000Z
+              latest_tweet_date: 2023-02-01T00:30:01.000Z
           - item:
             name: ITRenew (Member)
             homepage_url: https://www.itrenew.com/
@@ -5893,7 +5893,7 @@ landscape:
                 - Virtual Reality
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 388256071680
+              market_cap: 390052249600
               effective_ticker: META
             image_data:
               fileName: meta-member.svg
@@ -6484,7 +6484,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1829760532480
+              market_cap: 1838618640384
               effective_ticker: MSFT
             image_data:
               fileName: microsoft-member.svg
@@ -6493,7 +6493,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T17:58:08.000Z
+              latest_tweet_date: 2023-01-31T17:51:21.000Z
           - item:
             name: National Instruments (Member)
             homepage_url: https://github.com/ni
@@ -6559,7 +6559,7 @@ landscape:
                 - Test and Measurement
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7078145536
+              market_cap: 7042891776
               effective_ticker: NATI
             image_data:
               fileName: national-instruments-member.svg
@@ -6568,7 +6568,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:30:52.000Z
+              latest_tweet_date: 2023-02-01T16:21:38.000Z
           - item:
             name: Netapp (Member)
             homepage_url: https://netapp.com
@@ -6657,7 +6657,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14038114304
+              market_cap: 14236440576
               effective_ticker: NTAP
             image_data:
               fileName: netapp-member.svg
@@ -6715,7 +6715,7 @@ landscape:
                 - Video Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 157318823936
+              market_cap: 159077957632
               effective_ticker: NFLX
             image_data:
               fileName: netflix-member.svg
@@ -6724,7 +6724,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:00:02.000Z
+              latest_tweet_date: 2023-02-01T17:00:00.000Z
           - item:
             name: NGINX (Member)
             homepage_url: https://www.nginx.org
@@ -6762,7 +6762,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T03:22:01.000Z
+              latest_tweet_date: 2023-01-31T22:45:57.000Z
           - item:
             name: Nokia (Member)
             homepage_url: https://www.nokia.com/
@@ -6918,7 +6918,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:00:57.000Z
+              latest_tweet_date: 2023-02-01T12:50:36.000Z
           - item:
             name: Optum (Member)
             homepage_url: https://opensource.optum.com/
@@ -6980,7 +6980,7 @@ landscape:
                 - Medical
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 461830029312
+              market_cap: 466501763072
               effective_ticker: UNH
             image_data:
               fileName: optum-member.svg
@@ -7073,7 +7073,7 @@ landscape:
                 - Transaction Processing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 91840806912
+              market_cap: 92182822912
               effective_ticker: PYPL
             image_data:
               fileName: paypal-member.svg
@@ -7149,7 +7149,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18412263424
+              market_cap: 18076411904
               effective_ticker: PINS
             image_data:
               fileName: pinterest-member.svg
@@ -7233,7 +7233,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T17:01:29.000Z
+              latest_tweet_date: 2023-02-01T16:08:35.000Z
           - item:
             name: Progressive Insurance (Member)
             homepage_url: https://github.com/Progressive-Insurance
@@ -7265,7 +7265,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:26:30.000Z
+              latest_tweet_date: 2023-02-01T14:30:15.000Z
           - item:
             name: Qingcloud (Member)
             homepage_url: https://www.qingcloud.com
@@ -7296,7 +7296,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 225236005
+              market_cap: 234002321
               effective_ticker: 688316.SS
             image_data:
               fileName: qingcloud-member.svg
@@ -7452,7 +7452,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 148390756352
+              market_cap: 149971599360
               effective_ticker: QCOM
             image_data:
               fileName: qualcomm-member.svg
@@ -7461,7 +7461,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T18:10:24.000Z
+              latest_tweet_date: 2023-02-01T15:00:30.000Z
           - item:
             name: Red Hat (Member)
             homepage_url: https://www.redhat.com/en/about/our-community-contributions
@@ -7550,7 +7550,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 120106876928
+              market_cap: 119873839104
               effective_ticker: IBM
             image_data:
               fileName: red-hat-member.svg
@@ -7559,7 +7559,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:31:39.000Z
+              latest_tweet_date: 2023-02-01T15:10:24.000Z
           - item:
             name: Rochester Institute of Technology (Member)
             homepage_url: https://www.rit.edu/about-rit
@@ -7595,7 +7595,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T23:30:04.000Z
+              latest_tweet_date: 2023-01-31T21:40:29.000Z
           - item:
             name: Salesforce (Member)
             homepage_url: https://opensource.salesforce.com/
@@ -7790,7 +7790,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 166200000512
+              market_cap: 168300003328
               effective_ticker: CRM
             image_data:
               fileName: salesforce-member.svg
@@ -7799,7 +7799,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:31:22.000Z
+              latest_tweet_date: 2023-02-01T17:01:01.000Z
           - item:
             name: Samsung (Member)
             homepage_url: https://blogs.s-osg.org/
@@ -7978,7 +7978,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 137568354304
+              market_cap: 139451416576
               effective_ticker: SAP
             image_data:
               fileName: sap-member.svg
@@ -7987,7 +7987,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:00:01.000Z
+              latest_tweet_date: 2023-01-31T18:55:54.000Z
           - item:
             name: Sauce Labs (Member)
             homepage_url: https://github.com/saucelabs
@@ -8035,7 +8035,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T13:27:45.000Z
+              latest_tweet_date: 2023-02-01T14:03:24.000Z
           - item:
             name: Scania (Member)
             homepage_url: https://github.com/scania
@@ -8143,7 +8143,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13825136640
+              market_cap: 14158607360
               effective_ticker: STX
             image_data:
               fileName: seagate-member.svg
@@ -8152,7 +8152,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:15:50.000Z
+              latest_tweet_date: 2023-02-01T16:45:42.000Z
           - item:
             name: Siemens (Member)
             homepage_url: https://github.com/siemens
@@ -8353,7 +8353,7 @@ landscape:
                 - Insurance
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 122962724925
+              market_cap: 123733910576
               effective_ticker: SIE.DE
             image_data:
               fileName: siemens-member.svg
@@ -8362,7 +8362,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T11:00:01.000Z
+              latest_tweet_date: 2023-02-01T14:00:01.000Z
           - item:
             name: Spotify (Member)
             homepage_url: https://github.com/spotify
@@ -8449,7 +8449,7 @@ landscape:
                 - Music Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21630560256
+              market_cap: 21880662016
               effective_ticker: SPOT
             image_data:
               fileName: spotify-member.svg
@@ -8458,7 +8458,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:42:36.000Z
+              latest_tweet_date: 2023-02-01T17:00:33.000Z
           - item:
             name: Square (Member)
             homepage_url: http://corner.squareup.com
@@ -8537,7 +8537,7 @@ landscape:
                 - Retail Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 48790630400
+              market_cap: 48186576896
               effective_ticker: SQ
             image_data:
               fileName: square-member.svg
@@ -8546,7 +8546,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T16:58:01.000Z
+              latest_tweet_date: 2023-01-31T23:57:23.000Z
           - item:
             name: Stripe (Member)
             homepage_url: https://github.com/stripe
@@ -8608,7 +8608,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-26T16:53:05.000Z
+              latest_tweet_date: 2023-02-01T16:34:56.000Z
           - item:
             name: Target (Member)
             homepage_url: https://github.com/target
@@ -8661,7 +8661,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 78457544704
+              market_cap: 78915551232
               effective_ticker: TGT
             image_data:
               fileName: target-member.svg
@@ -8670,7 +8670,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-01T16:59:52.000Z
+              latest_tweet_date: 2023-01-31T20:05:48.000Z
           - item:
             name: Tencent (Member)
             homepage_url: https://github.com/tencent
@@ -8760,7 +8760,7 @@ landscape:
                 - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 466056782938
+              market_cap: 469311266379
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent-member.svg
@@ -8769,7 +8769,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-24T15:52:04.000Z
+              latest_tweet_date: 2023-02-01T13:55:04.000Z
           - item:
             name: TomTom (Member)
             homepage_url: https://opensource.tomtom.com
@@ -8864,7 +8864,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 202374021120
+              market_cap: 203450892288
               effective_ticker: TM
             image_data:
               fileName: toyota-member.svg
@@ -9119,7 +9119,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 60969111552
+              market_cap: 61377966080
               effective_ticker: UBER
             image_data:
               fileName: uber-member.svg
@@ -9128,7 +9128,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:20:25.000Z
+              latest_tweet_date: 2023-02-01T15:04:26.000Z
           - item:
             name: University of Santa Cruz (Member)
             homepage_url: https://cross.ucsc.edu
@@ -9196,7 +9196,7 @@ landscape:
                 - Media and Entertainment
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 173263585280
+              market_cap: 175117795328
               effective_ticker: VZ
             image_data:
               fileName: verizon-media-member.svg
@@ -9347,7 +9347,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 52276469760
+              market_cap: 51978670080
               effective_ticker: VMW
             image_data:
               fileName: vm-ware-member.svg
@@ -9356,7 +9356,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T21:35:11.000Z
+              latest_tweet_date: 2023-02-01T13:10:12.000Z
           - item:
             name: WalmartLabs (Member)
             homepage_url: https://code.walmartlabs.com
@@ -9423,7 +9423,7 @@ landscape:
                 - Retail Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 383484952576
+              market_cap: 387557130240
               effective_ticker: WMT
             image_data:
               fileName: walmart-labs-member.svg
@@ -9470,7 +9470,7 @@ landscape:
                 - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 6357155328
+              market_cap: 6547296768
               effective_ticker: W
             image_data:
               fileName: wayfair-member.svg
@@ -9479,7 +9479,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:18:30.000Z
+              latest_tweet_date: 2023-02-01T15:36:02.000Z
           - item:
             name: Western Digital (Member)
             homepage_url: https://github.com/westerndigitalcorporation
@@ -9538,7 +9538,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14258666070
+              market_cap: 13766678583
               effective_ticker: WDC.F
             image_data:
               fileName: western-digital-member.svg
@@ -9547,7 +9547,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T17:00:29.000Z
+              latest_tweet_date: 2023-02-01T17:01:07.000Z
           - item:
             name: Wipro (Member)
             homepage_url: https://github.com/WiproOpenSourcePractice
@@ -9672,7 +9672,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26732347385
+              market_cap: 26957081999
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro-member.svg
@@ -9721,7 +9721,7 @@ landscape:
                 - Open Source
             github_data:
               languages: []
-              contributions: 6;2;1;34;4;1;12;14;1;16;31;22;6;11;3;0;4;4;0;0;0;5;1;17;6;18;11;4;1;3;2;19;11;31;0;0;0;0;19;2;21;9;30;6;2;14;9;0;2;2;14;3
+              contributions: 6;2;1;34;4;1;12;14;1;16;48;5;10;7;3;2;2;4;0;0;0;5;1;20;5;16;11;4;1;3;14;7;31;11;0;0;0;0;21;6;18;9;33;0;2;16;7;1;1;2;14;3
               firstWeek: 2022-02-06Z
               stars: 69
               license: MIT License
@@ -9747,7 +9747,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: ESOP (Associate)
             homepage_url: https://esop.pt
@@ -9814,7 +9814,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: LF Energy (Associate)
             homepage_url: https://www.lfenergy.org/projects-new
@@ -9848,7 +9848,7 @@ landscape:
                 - Open Source
             github_data:
               languages: []
-              contributions: 0;0;1;0;1;0;0;1;0;8;0;1;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;1;0;2;1;1;0;0;0;1;0
+              contributions: 0;1;0;0;1;0;1;0;0;8;0;1;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;1;0;2;1;0;1;0;0;1;0;0
               firstWeek: 2022-02-06Z
               stars: 5
               license: Unknown License
@@ -9870,7 +9870,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: OpenChain (Associate)
             homepage_url: https://www.openchainproject.org/
@@ -9908,7 +9908,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: OpenSSF (Associate)
             homepage_url: https://openssf.org/
@@ -9946,7 +9946,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
       - subcategory:
         name: OSPO Adоpter
         items:
@@ -10114,7 +10114,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 168474984448
+              market_cap: 169221193728
               effective_ticker: ADBE
             image_data:
               fileName: adobe-adopter.svg
@@ -10123,7 +10123,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-29T21:58:04.000Z
+              latest_tweet_date: 2023-01-31T17:04:50.000Z
           - item:
             name: Aiven (Adopter)
             homepage_url: https://github.com/aiven/
@@ -10160,7 +10160,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T07:54:16.000Z
+              latest_tweet_date: 2023-02-01T13:00:27.000Z
           - item:
             name: Alibaba (Adopter)
             homepage_url: https://www.alibaba.com/
@@ -10271,7 +10271,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 290744433785
+              market_cap: 297128215484
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -10380,7 +10380,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T05:56:22.000Z
+              latest_tweet_date: 2023-02-01T17:01:15.000Z
           - item:
             name: Apple (Adopter)
             homepage_url: https://opensource.apple.com/
@@ -10692,7 +10692,7 @@ landscape:
                 - Wearables
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2268060450816
+              market_cap: 2248344600576
               effective_ticker: AAPL
             image_data:
               fileName: apple-adopter.svg
@@ -10970,7 +10970,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 45992894464
+              market_cap: 46169825280
               effective_ticker: ADSK
             image_data:
               fileName: autodesk-adopter.svg
@@ -11030,7 +11030,7 @@ landscape:
                 - Professional Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1829760532480
+              market_cap: 1838618640384
               effective_ticker: MSFT
             image_data:
               fileName: avanade-adopter.svg
@@ -11039,7 +11039,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T17:24:24.000Z
+              latest_tweet_date: 2023-02-01T14:00:04.000Z
           - item:
             name: AWS (Adopter)
             homepage_url: https://twitter.com/AWSOpen
@@ -11136,7 +11136,7 @@ landscape:
                 - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 46693444781
+              market_cap: 50872886564
               effective_ticker: 9888.HK
             image_data:
               fileName: baidu-adopter.svg
@@ -11266,7 +11266,7 @@ landscape:
                 - Real Estate Investment
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112332718080
+              market_cap: 112249610240
               effective_ticker: BLK
             image_data:
               fileName: black-rock-adopter.svg
@@ -11275,7 +11275,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T20:54:22.000Z
+              latest_tweet_date: 2023-02-01T15:23:07.000Z
           - item:
             name: Bloomberg (Adopter)
             homepage_url: https://github.com/bloomberg
@@ -11329,7 +11329,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T15:00:09.000Z
+              latest_tweet_date: 2023-02-01T14:30:21.000Z
           - item:
             name: BMW (Adopter)
             homepage_url: https://github.com/bmwcarit
@@ -11371,7 +11371,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T13:30:03.000Z
+              latest_tweet_date: 2023-02-01T09:00:03.000Z
           - item:
             name: Boeing (Adopter)
             homepage_url: https://www.boeing.com/
@@ -11474,7 +11474,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 126605533184
+              market_cap: 128412278784
               effective_ticker: BA
             image_data:
               fileName: boeing-adopter.svg
@@ -11483,7 +11483,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:20:49.000Z
+              latest_tweet_date: 2023-02-01T01:34:12.000Z
           - item:
             name: Bosch (Adopter)
             homepage_url: https://www.bosch.com/
@@ -11550,7 +11550,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T11:15:47.000Z
+              latest_tweet_date: 2023-02-01T15:42:06.000Z
           - item:
             name: Box (Adopter)
             homepage_url: http://opensource.box.com/
@@ -11610,7 +11610,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4594002944
+              market_cap: 4654027264
               effective_ticker: BOX
             image_data:
               fileName: box-adopter.svg
@@ -11619,7 +11619,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T21:59:09.000Z
+              latest_tweet_date: 2023-01-31T21:54:02.000Z
           - item:
             name: ByteDance (Adopter)
             homepage_url: https://github.com/bytedance
@@ -11723,7 +11723,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:27:01.000Z
+              latest_tweet_date: 2023-02-01T13:57:48.000Z
           - item:
             name: Capital One (Adopter)
             homepage_url: http://www.capitalone.io/
@@ -11809,7 +11809,7 @@ landscape:
                 - Financial Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 44837064704
+              market_cap: 43982954496
               effective_ticker: COF
             image_data:
               fileName: capital-one-adopter.svg
@@ -11913,7 +11913,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-23T16:54:08.000Z
+              latest_tweet_date: 2023-02-01T00:02:05.000Z
           - item:
             name: China  Mobile (Adopter)
             homepage_url: https://www.chinamobileltd.com/en/global/home.php
@@ -11950,7 +11950,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 159784096934
+              market_cap: 161981001664
               effective_ticker: 600941.SS
             image_data:
               fileName: china-mobile-adopter.svg
@@ -12065,10 +12065,10 @@ landscape:
                   price: 125000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 2000000000
+                  price: 200000000
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                  price: 200000000
+                  price: 2000000000
                 - date: '1999-04-28'
                   acquiree: Amteva Technologies
                   price: 170000000
@@ -12598,7 +12598,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 197928271872
+              market_cap: 196736909312
               effective_ticker: CSCO
             image_data:
               fileName: cisco-adopter.svg
@@ -12607,7 +12607,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:08:30.000Z
+              latest_tweet_date: 2023-02-01T01:18:00.000Z
           - item:
             name: Comcast (Adopter)
             homepage_url: https://comcast.github.io/
@@ -12719,7 +12719,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 169456058368
+              market_cap: 170018095104
               effective_ticker: CMCSA
             image_data:
               fileName: comcast-adopter.svg
@@ -12728,7 +12728,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:33:09.000Z
+              latest_tweet_date: 2023-02-01T16:57:45.000Z
           - item:
             name: Datadog (Adopter)
             homepage_url: https://github.com/DataDog
@@ -12782,7 +12782,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 23670923264
+              market_cap: 24156788736
               effective_ticker: DDOG
             image_data:
               fileName: datadog-adopter.svg
@@ -12791,7 +12791,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:50:55.000Z
+              latest_tweet_date: 2023-02-01T15:05:14.000Z
           - item:
             name: Dell Technologies (Adopter)
             homepage_url: https://github.com/dell
@@ -12823,7 +12823,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-26T16:00:04.000Z
+              latest_tweet_date: 2023-02-01T17:00:00.000Z
           - item:
             name: Deutsche Bahn (Adopter)
             homepage_url: https://www.dbsystel.de/dbsystel-en
@@ -12859,7 +12859,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:59:48.000Z
+              latest_tweet_date: 2023-02-01T17:02:02.000Z
           - item:
             name: Didi (Adopter)
             homepage_url: https://github.com/didi
@@ -12926,7 +12926,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2824393984
+              market_cap: 2811875584
               effective_ticker: DOCN
             image_data:
               fileName: digital-ocean-adopter.svg
@@ -12935,7 +12935,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:05:02.000Z
+              latest_tweet_date: 2023-02-01T15:14:29.000Z
           - item:
             name: Dropbox (Adopter)
             homepage_url: https://opensource.dropbox.com/
@@ -13028,7 +13028,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8402779648
+              market_cap: 8466258432
               effective_ticker: DBX
             image_data:
               fileName: dropbox-adopter.svg
@@ -13037,7 +13037,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T02:04:17.000Z
+              latest_tweet_date: 2023-02-01T00:00:00.000Z
           - item:
             name: Dynatrace (Adopter)
             homepage_url: https://engineering.dynatrace.com/open-source/
@@ -13072,7 +13072,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 10955684864
+              market_cap: 12387752960
               effective_ticker: DT
             image_data:
               fileName: dynatrace-adopter.svg
@@ -13081,7 +13081,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:44:09.000Z
+              latest_tweet_date: 2023-02-01T14:22:02.000Z
           - item:
             name: eBay (Adopter)
             homepage_url: https://opensource.ebay.com
@@ -13268,7 +13268,7 @@ landscape:
                 - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26655410176
+              market_cap: 26541451264
               effective_ticker: EBAY
             image_data:
               fileName: e-bay-adopter.svg
@@ -13277,7 +13277,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T18:57:53.000Z
+              latest_tweet_date: 2023-01-31T23:00:31.000Z
           - item:
             name: Elastic (Adopter)
             homepage_url: https://www.elastic.co
@@ -13332,7 +13332,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 5621113344
+              market_cap: 5701899776
               effective_ticker: ESTC
             image_data:
               fileName: elastic-adopter.svg
@@ -13341,7 +13341,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:05:23.000Z
+              latest_tweet_date: 2023-02-01T15:40:01.000Z
           - item:
             name: EPAM (Adopter)
             homepage_url: https://www.epam.com/
@@ -13428,7 +13428,7 @@ landscape:
                 - Software Engineering
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19144230912
+              market_cap: 19540752384
               effective_ticker: EPAM
             image_data:
               fileName: epam-adopter.svg
@@ -13437,7 +13437,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:05:54.000Z
+              latest_tweet_date: 2023-02-01T15:01:02.000Z
           - item:
             name: Equinix (Adopter)
             homepage_url: https://www.equinix.nl/
@@ -13510,7 +13510,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 67974782976
+              market_cap: 67486183424
               effective_ticker: EQIX
             image_data:
               fileName: equinix-adopter.svg
@@ -13519,7 +13519,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T17:10:10.000Z
+              latest_tweet_date: 2023-02-01T16:10:09.000Z
           - item:
             name: Ericsson (Adopter)
             homepage_url: https://github.com/Ericsson
@@ -13639,7 +13639,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19721459712
+              market_cap: 19901997056
               effective_ticker: ERIC
             image_data:
               fileName: ericsson-adopter.svg
@@ -13696,7 +13696,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:00:55.000Z
+              latest_tweet_date: 2023-02-01T16:04:57.000Z
           - item:
             name: F5 (Adopter)
             homepage_url: https://devcentral.f5.com/s
@@ -13761,7 +13761,7 @@ landscape:
                 - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8842096640
+              market_cap: 8955718656
               effective_ticker: FFIV
             image_data:
               fileName: f5-adopter.svg
@@ -13798,7 +13798,7 @@ landscape:
                 - Real Estate
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 541279680
+              market_cap: 547892352
               effective_ticker: FNMA
             image_data:
               fileName: fannie-mae-adopter.svg
@@ -13835,7 +13835,7 @@ landscape:
                 - Risk Management
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 303139264
+              market_cap: 309591072
               effective_ticker: FMCC
             image_data:
               fileName: freddie-mac-adopter.svg
@@ -13892,7 +13892,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1829760532480
+              market_cap: 1838618640384
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-adopter.svg
@@ -13901,7 +13901,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T13:47:27.000Z
+              latest_tweet_date: 2023-02-01T16:03:30.000Z
           - item:
             name: GitLab (Adopter)
             homepage_url: https://about.gitlab.com
@@ -13945,7 +13945,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7485000192
+              market_cap: 7461047808
               effective_ticker: GTLB
             image_data:
               fileName: git-lab-adopter.svg
@@ -13954,7 +13954,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:05:04.000Z
+              latest_tweet_date: 2023-02-01T12:02:21.000Z
           - item:
             name: Goldman Sachs (Adopter)
             homepage_url: https://www.goldmansachs.com/careers/blog/posts/open-source.html
@@ -14050,7 +14050,7 @@ landscape:
                 - Venture Capital
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 120579809280
+              market_cap: 121641492480
               effective_ticker: GS
             image_data:
               fileName: goldman-sachs-adopter.svg
@@ -14059,7 +14059,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:00:11.000Z
+              latest_tweet_date: 2023-01-31T21:31:37.000Z
           - item:
             name: Google (Adopter)
             homepage_url: https://opensource.google
@@ -14655,7 +14655,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1270625992704
+              market_cap: 1275773583360
               effective_ticker: GOOG
             image_data:
               fileName: google-adopter.svg
@@ -14664,7 +14664,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:41:34.000Z
+              latest_tweet_date: 2023-02-01T16:58:05.000Z
           - item:
             name: HCL Software (Adopter)
             homepage_url: https://opensource.hcltechsw.com
@@ -14698,7 +14698,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:03:02.000Z
+              latest_tweet_date: 2023-02-01T16:00:31.000Z
           - item:
             name: Here Technologies (Adopter)
             homepage_url: https://github.com/heremaps
@@ -14744,7 +14744,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T16:22:01.000Z
+              latest_tweet_date: 2023-02-01T08:20:00.000Z
           - item:
             name: HPE (Adopter)
             homepage_url: https://github.com/HewlettPackard
@@ -14819,7 +14819,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 20618074112
+              market_cap: 20486688768
               effective_ticker: HPE
             image_data:
               fileName: hpe-adopter.svg
@@ -14828,7 +14828,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T19:05:19.000Z
+              latest_tweet_date: 2023-02-01T09:23:08.000Z
           - item:
             name: Huawei (Adopter)
             homepage_url: http://www1.huawei.com/en/about-huawei/Partner/openathuawei/index.htm
@@ -14883,7 +14883,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T10:19:29.000Z
+              latest_tweet_date: 2023-02-01T14:36:26.000Z
           - item:
             name: IBM (Adopter)
             homepage_url: http://ibm.github.io/
@@ -15359,7 +15359,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 120106876928
+              market_cap: 119873839104
               effective_ticker: IBM
             image_data:
               fileName: ibm-adopter.svg
@@ -15368,7 +15368,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T09:14:48.000Z
+              latest_tweet_date: 2023-02-01T15:30:43.000Z
           - item:
             name: Indeed (Adopter)
             homepage_url: https://github.com/indeedeng
@@ -15501,7 +15501,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 78696923136
+              market_cap: 79834103808
               effective_ticker: INFY
             image_data:
               fileName: infosys-adopter.svg
@@ -15510,7 +15510,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:30:01.000Z
+              latest_tweet_date: 2023-02-01T12:30:02.000Z
           - item:
             name: Intel (Adopter)
             homepage_url: https://01.org/
@@ -15797,7 +15797,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115753254912
+              market_cap: 117139152896
               effective_ticker: INTC
             image_data:
               fileName: intel-adopter.svg
@@ -15806,7 +15806,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T23:42:35.000Z
+              latest_tweet_date: 2023-02-01T00:30:01.000Z
           - item:
             name: ITRenew (Adopter)
             homepage_url: https://www.itrenew.com/
@@ -16027,7 +16027,7 @@ landscape:
                 - Mobile Apps
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24655970889
+              market_cap: 25118988692
               effective_ticker: 035420.KS
             image_data:
               fileName: line-corporation-adopter.svg
@@ -16284,7 +16284,7 @@ landscape:
                 - Virtual Reality
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 388256071680
+              market_cap: 390052249600
               effective_ticker: META
             image_data:
               fileName: meta-adopter.svg
@@ -16875,7 +16875,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1829760532480
+              market_cap: 1838618640384
               effective_ticker: MSFT
             image_data:
               fileName: microsoft-adopter.svg
@@ -16884,7 +16884,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T17:58:08.000Z
+              latest_tweet_date: 2023-01-31T17:51:21.000Z
           - item:
             name: Morgan Stanley (Adopter)
             homepage_url: https://morgan-stanley.github.io/
@@ -16947,7 +16947,7 @@ landscape:
                 - Lending
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 161285750784
+              market_cap: 163915513856
               effective_ticker: MS
             image_data:
               fileName: morgan-stanley-adopter.svg
@@ -16956,7 +16956,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-28T14:06:24.000Z
+              latest_tweet_date: 2023-02-01T16:00:32.000Z
           - item:
             name: National Instruments (Adopter)
             homepage_url: https://github.com/ni
@@ -17022,7 +17022,7 @@ landscape:
                 - Test and Measurement
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7078145536
+              market_cap: 7042891776
               effective_ticker: NATI
             image_data:
               fileName: national-instruments-adopter.svg
@@ -17031,7 +17031,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:30:52.000Z
+              latest_tweet_date: 2023-02-01T16:21:38.000Z
           - item:
             name: Netapp (Adopter)
             homepage_url: https://netapp.com
@@ -17120,7 +17120,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14038114304
+              market_cap: 14236440576
               effective_ticker: NTAP
             image_data:
               fileName: netapp-adopter.svg
@@ -17178,7 +17178,7 @@ landscape:
                 - Video Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 157318823936
+              market_cap: 159077957632
               effective_ticker: NFLX
             image_data:
               fileName: netflix-adopter.svg
@@ -17187,7 +17187,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:00:02.000Z
+              latest_tweet_date: 2023-02-01T17:00:00.000Z
           - item:
             name: New Relic (Adopter)
             homepage_url: https://opensource.newrelic.com
@@ -17237,7 +17237,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4247896064
+              market_cap: 4209626624
               effective_ticker: NEWR
             image_data:
               fileName: new-relic-adopter.svg
@@ -17246,7 +17246,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T18:16:43.000Z
+              latest_tweet_date: 2023-02-01T15:30:22.000Z
           - item:
             name: NGINX (Adopter)
             homepage_url: https://www.nginx.org
@@ -17284,7 +17284,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T03:22:01.000Z
+              latest_tweet_date: 2023-01-31T22:45:57.000Z
           - item:
             name: Nokia (Adopter)
             homepage_url: https://www.nokia.com/
@@ -17440,7 +17440,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:00:57.000Z
+              latest_tweet_date: 2023-02-01T12:50:36.000Z
           - item:
             name: Optum (Adopter)
             homepage_url: https://opensource.optum.com/
@@ -17502,7 +17502,7 @@ landscape:
                 - Medical
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 461830029312
+              market_cap: 466501763072
               effective_ticker: UNH
             image_data:
               fileName: optum-adopter.svg
@@ -17595,7 +17595,7 @@ landscape:
                 - Transaction Processing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 91840806912
+              market_cap: 92182822912
               effective_ticker: PYPL
             image_data:
               fileName: paypal-adopter.svg
@@ -17671,7 +17671,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18412263424
+              market_cap: 18076411904
               effective_ticker: PINS
             image_data:
               fileName: pinterest-adopter.svg
@@ -17755,7 +17755,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T17:01:29.000Z
+              latest_tweet_date: 2023-02-01T16:08:35.000Z
           - item:
             name: Progressive Insurance (Adopter)
             homepage_url: https://github.com/Progressive-Insurance
@@ -17787,7 +17787,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:26:30.000Z
+              latest_tweet_date: 2023-02-01T14:30:15.000Z
           - item:
             name: Qingcloud (Adopter)
             homepage_url: https://www.qingcloud.com
@@ -17818,7 +17818,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 225236005
+              market_cap: 234002321
               effective_ticker: 688316.SS
             image_data:
               fileName: qingcloud-adopter.svg
@@ -17974,7 +17974,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 148390756352
+              market_cap: 149971599360
               effective_ticker: QCOM
             image_data:
               fileName: qualcomm-adopter.svg
@@ -17983,7 +17983,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T18:10:24.000Z
+              latest_tweet_date: 2023-02-01T15:00:30.000Z
           - item:
             name: Red Hat (Adopter)
             homepage_url: https://www.redhat.com/en/about/our-community-contributions
@@ -18072,7 +18072,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 120106876928
+              market_cap: 119873839104
               effective_ticker: IBM
             image_data:
               fileName: red-hat-adopter.svg
@@ -18081,7 +18081,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:31:39.000Z
+              latest_tweet_date: 2023-02-01T15:10:24.000Z
           - item:
             name: Rochester Institute of Technology (Adopter)
             homepage_url: https://www.rit.edu/about-rit
@@ -18117,7 +18117,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T23:30:04.000Z
+              latest_tweet_date: 2023-01-31T21:40:29.000Z
           - item:
             name: Salesforce (Adopter)
             homepage_url: https://opensource.salesforce.com/
@@ -18312,7 +18312,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 166200000512
+              market_cap: 168300003328
               effective_ticker: CRM
             image_data:
               fileName: salesforce-adopter.svg
@@ -18321,7 +18321,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:31:22.000Z
+              latest_tweet_date: 2023-02-01T17:01:01.000Z
           - item:
             name: Samsung (Adopter)
             homepage_url: https://blogs.s-osg.org/
@@ -18500,7 +18500,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 137568354304
+              market_cap: 139451416576
               effective_ticker: SAP
             image_data:
               fileName: sap-adopter.svg
@@ -18509,7 +18509,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:00:01.000Z
+              latest_tweet_date: 2023-01-31T18:55:54.000Z
           - item:
             name: Sauce Labs (Adopter)
             homepage_url: https://github.com/saucelabs
@@ -18557,7 +18557,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T13:27:45.000Z
+              latest_tweet_date: 2023-02-01T14:03:24.000Z
           - item:
             name: Scania (Adopter)
             homepage_url: https://github.com/scania
@@ -18665,7 +18665,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13825136640
+              market_cap: 14158607360
               effective_ticker: STX
             image_data:
               fileName: seagate-adopter.svg
@@ -18674,7 +18674,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:15:50.000Z
+              latest_tweet_date: 2023-02-01T16:45:42.000Z
           - item:
             name: Siemens (Adopter)
             homepage_url: https://github.com/siemens
@@ -18875,7 +18875,7 @@ landscape:
                 - Insurance
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 122962724925
+              market_cap: 123733910576
               effective_ticker: SIE.DE
             image_data:
               fileName: siemens-adopter.svg
@@ -18884,7 +18884,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T11:00:01.000Z
+              latest_tweet_date: 2023-02-01T14:00:01.000Z
           - item:
             name: Slack (Adopter)
             homepage_url: https://github.com/slackhq
@@ -18936,7 +18936,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T17:01:06.000Z
+              latest_tweet_date: 2023-02-01T17:03:24.000Z
           - item:
             name: Spotify (Adopter)
             homepage_url: https://github.com/spotify
@@ -19023,7 +19023,7 @@ landscape:
                 - Music Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21630560256
+              market_cap: 21880662016
               effective_ticker: SPOT
             image_data:
               fileName: spotify-adopter.svg
@@ -19032,7 +19032,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:42:36.000Z
+              latest_tweet_date: 2023-02-01T17:00:33.000Z
           - item:
             name: Square (Adopter)
             homepage_url: http://corner.squareup.com
@@ -19111,7 +19111,7 @@ landscape:
                 - Retail Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 48790630400
+              market_cap: 48186576896
               effective_ticker: SQ
             image_data:
               fileName: square-adopter.svg
@@ -19120,7 +19120,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T16:58:01.000Z
+              latest_tweet_date: 2023-01-31T23:57:23.000Z
           - item:
             name: Stripe (Adopter)
             homepage_url: https://github.com/stripe
@@ -19182,7 +19182,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-26T16:53:05.000Z
+              latest_tweet_date: 2023-02-01T16:34:56.000Z
           - item:
             name: Target (Adopter)
             homepage_url: https://github.com/target
@@ -19235,7 +19235,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 78457544704
+              market_cap: 78915551232
               effective_ticker: TGT
             image_data:
               fileName: target-adopter.svg
@@ -19244,7 +19244,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-11-01T16:59:52.000Z
+              latest_tweet_date: 2023-01-31T20:05:48.000Z
           - item:
             name: Tencent (Adopter)
             homepage_url: https://github.com/tencent
@@ -19334,7 +19334,7 @@ landscape:
                 - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 466056782938
+              market_cap: 469311266379
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent-adopter.svg
@@ -19343,7 +19343,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-24T15:52:04.000Z
+              latest_tweet_date: 2023-02-01T13:55:04.000Z
           - item:
             name: TomTom (Adopter)
             homepage_url: https://opensource.tomtom.com
@@ -19438,7 +19438,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 202374021120
+              market_cap: 203450892288
               effective_ticker: TM
             image_data:
               fileName: toyota-adopter.svg
@@ -19480,7 +19480,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:10:23.000Z
+              latest_tweet_date: 2023-02-01T14:52:09.000Z
           - item:
             name: Twitter (Adopter)
             homepage_url: https://blog.twitter.com/engineering/en_us
@@ -19760,7 +19760,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 60969111552
+              market_cap: 61377966080
               effective_ticker: UBER
             image_data:
               fileName: uber-adopter.svg
@@ -19769,7 +19769,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:20:25.000Z
+              latest_tweet_date: 2023-02-01T15:04:26.000Z
           - item:
             name: University of Santa Cruz (Adopter)
             homepage_url: https://cross.ucsc.edu
@@ -19836,7 +19836,7 @@ landscape:
                 - Financial Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 75156643840
+              market_cap: 75769192448
               effective_ticker: USB
             image_data:
               fileName: us-bank-adopter.svg
@@ -19845,7 +19845,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T15:03:00.000Z
+              latest_tweet_date: 2023-02-01T14:07:03.000Z
           - item:
             name: Verizon Media (Adopter)
             homepage_url: https://developer.yahoo.com/opensource
@@ -19879,7 +19879,7 @@ landscape:
                 - Media and Entertainment
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 173263585280
+              market_cap: 175117795328
               effective_ticker: VZ
             image_data:
               fileName: verizon-media-adopter.svg
@@ -20030,7 +20030,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 52276469760
+              market_cap: 51978670080
               effective_ticker: VMW
             image_data:
               fileName: vm-ware-adopter.svg
@@ -20039,7 +20039,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T21:35:11.000Z
+              latest_tweet_date: 2023-02-01T13:10:12.000Z
           - item:
             name: WalmartLabs (Adopter)
             homepage_url: https://code.walmartlabs.com
@@ -20106,7 +20106,7 @@ landscape:
                 - Retail Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 383484952576
+              market_cap: 387557130240
               effective_ticker: WMT
             image_data:
               fileName: walmart-labs-adopter.svg
@@ -20153,7 +20153,7 @@ landscape:
                 - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 6357155328
+              market_cap: 6547296768
               effective_ticker: W
             image_data:
               fileName: wayfair-adopter.svg
@@ -20162,7 +20162,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:18:30.000Z
+              latest_tweet_date: 2023-02-01T15:36:02.000Z
           - item:
             name: Western Digital (Adopter)
             homepage_url: https://github.com/westerndigitalcorporation
@@ -20221,7 +20221,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14258666070
+              market_cap: 13766678583
               effective_ticker: WDC.F
             image_data:
               fileName: western-digital-adopter.svg
@@ -20230,7 +20230,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T17:00:29.000Z
+              latest_tweet_date: 2023-02-01T17:01:07.000Z
           - item:
             name: Windriver (Adopter)
             homepage_url: https://github.com/WindRiver-OpenSourceLabs
@@ -20281,7 +20281,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:04:27.000Z
+              latest_tweet_date: 2023-02-01T16:01:01.000Z
           - item:
             name: Wipro (Adopter)
             homepage_url: https://github.com/WiproOpenSourcePractice
@@ -20406,7 +20406,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26732347385
+              market_cap: 26957081999
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro-adopter.svg
@@ -20462,7 +20462,7 @@ landscape:
                 - Lifestyle
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12010144179
+              market_cap: 12079851695
               effective_ticker: ZAL.DE
             image_data:
               fileName: zalando-adopter.svg
@@ -20471,7 +20471,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T10:10:30.000Z
+              latest_tweet_date: 2023-02-01T10:00:11.000Z
   - category:
     name: OSPO Tools
     subcategories:
@@ -20568,10 +20568,10 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 15930725
+                  value: 15950908
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 398437
+                  value: 398591
                   color: '#f1e05a'
                 - name: Handlebars
                   value: 29866
@@ -20600,25 +20600,25 @@ landscape:
                   value: 698
                   color: '#012456'
               contributions: >-
-                276;307;424;365;452;287;293;304;273;282;147;345;348;320;225;229;129;337;267;304;249;320;425;290;212;192;175;260;347;281;331;238;170;255;296;241;192;279;235;196;243;326;327;292;361;266;255;183;235;326;217;221
+                298;305;429;387;427;299;286;280;269;303;172;309;398;266;211;216;179;315;256;349;216;365;363;307;191;214;161;269;381;262;335;219;194;254;278;242;202;277;195;220;284;351;305;271;387;260;216;197;258;315;204;242
               firstWeek: 2022-02-06Z
-              stars: 20553
+              stars: 20567
               license: Apache License 2.0
               description: Backstage is an open platform for building developer portals
-              latest_commit_date: '2023-01-31T15:16:57Z'
-              latest_commit_link: /backstage/backstage/commit/d24064d2f863e34c434bfefc7511915d237bcea3
+              latest_commit_date: '2023-02-01T14:22:26Z'
+              latest_commit_link: /backstage/backstage/commit/422e6b050c1de0ca7d25309825c49edee5c52c74
               release_date: '2023-01-31T16:17:03Z'
               release_link: https://github.com/backstage/backstage/releases
               contributors_count: 1272
               contributors_link: https://github.com/backstage/backstage/graphs/contributors
             repos:
               - url: https://github.com/backstage/backstage
-                stars: 20553
+                stars: 20567
             github_start_commit_data:
               start_commit_link: /backstage/backstage/commit/1a19a01c4beee7d869765a43d1b57b1b450017a7
               start_date: '2020-01-25T08:16:32Z'
             yahoo_finance_data:
-              market_cap: 21630560256
+              market_cap: 21880662016
               effective_ticker: SPOT
             image_data:
               fileName: backstage.svg
@@ -20627,7 +20627,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T17:00:52.000Z
+              latest_tweet_date: 2023-02-01T16:48:05.000Z
           - item:
             name: Docsy
             homepage_url: https://www.docsy.dev/
@@ -21233,32 +21233,32 @@ landscape:
                   value: 84508
                   color: '#f1e05a'
                 - name: SCSS
-                  value: 41902
+                  value: 41516
                 - name: Makefile
                   value: 586
                   color: '#427819'
                 - name: Dockerfile
                   value: 439
                   color: '#384d54'
-              contributions: 2;6;5;2;4;4;2;2;3;12;0;2;4;2;3;5;2;2;6;5;8;13;3;4;1;14;2;11;13;5;6;3;1;0;3;17;9;3;2;3;2;7;2;2;1;1;0;0;4;1;3;12
+              contributions: 2;6;6;1;4;4;2;3;3;11;0;2;4;2;4;4;2;3;5;5;8;13;3;4;4;11;2;13;11;6;5;3;1;0;7;13;9;3;2;4;1;7;2;2;1;1;0;0;4;1;9;7
               firstWeek: 2022-02-06Z
-              stars: 2052
+              stars: 2051
               license: Apache License 2.0
               description: A set of Hugo doc templates for launching open source content.
-              latest_commit_date: '2023-01-28T08:10:03Z'
-              latest_commit_link: /google/docsy/commit/dc94be3e13e2090ff6cd1c50edd650ab7ebd968b
+              latest_commit_date: '2023-02-01T16:53:21Z'
+              latest_commit_link: /google/docsy/commit/60127972f1ada92732d4ca8b16563ed02bd750c9
               release_date: '2022-12-05T18:34:46Z'
               release_link: https://github.com/google/docsy/releases
               contributors_count: 157
               contributors_link: https://github.com/google/docsy/graphs/contributors
             repos:
               - url: https://github.com/google/docsy
-                stars: 2052
+                stars: 2051
             github_start_commit_data:
               start_commit_link: /google/docsy/commit/91dcacf6f187c2542c629aa946cad26a4d6ee40d
               start_date: '2018-06-25T08:03:24Z'
             yahoo_finance_data:
-              market_cap: 1270625992704
+              market_cap: 1275773583360
               effective_ticker: GOOG
             image_data:
               fileName: docsy.svg
@@ -21519,7 +21519,7 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 2042506
+                  value: 2042560
                   color: '#2b7489'
                 - name: CSS
                   value: 40047
@@ -21529,25 +21529,25 @@ landscape:
                   color: '#f1e05a'
                 - name: EJS
                   value: 478
-              contributions: 37;23;31;28;45;33;26;55;20;33;25;26;33;56;22;26;34;25;12;21;23;12;24;19;10;13;11;10;12;5;14;15;2;1;8;12;8;10;13;6;8;10;8;6;15;10;6;9;11;2;9;6
+              contributions: 37;27;26;28;50;30;28;56;15;34;27;25;37;51;29;21;30;28;11;21;24;10;27;19;6;17;12;8;9;6;13;15;2;1;8;12;12;9;10;6;8;10;8;6;15;10;7;8;13;1;8;7
               firstWeek: 2022-02-06Z
-              stars: 41728
+              stars: 41751
               license: MIT License
               description: Easy to maintain open source documentation websites.
-              latest_commit_date: '2023-01-27T17:20:52Z'
-              latest_commit_link: /facebook/docusaurus/commit/d184e84739c479c04fb120aaf28431405f5a89a2
+              latest_commit_date: '2023-02-01T15:41:28Z'
+              latest_commit_link: /facebook/docusaurus/commit/58b3044306c8113515e60c7a98588700298bf870
               release_date: '2023-01-27T16:10:23Z'
               release_link: https://github.com/facebook/docusaurus/releases
               contributors_count: 1040
               contributors_link: https://github.com/facebook/docusaurus/graphs/contributors
             repos:
               - url: https://github.com/facebook/docusaurus
-                stars: 41728
+                stars: 41751
             github_start_commit_data:
               start_commit_link: /facebook/docusaurus/commit/e3139eea2f8e59ffa9566ae8e9438500f9fbdfa1
               start_date: '2017-07-07T17:28:29Z'
             yahoo_finance_data:
-              market_cap: 388256071680
+              market_cap: 390052249600
               effective_ticker: META
             image_data:
               fileName: docusaurus.svg
@@ -21623,9 +21623,9 @@ landscape:
                 - name: JavaScript
                   value: 421
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;1;11;8;3;1;1;3;4;1;1;3;1;1;3;7;4;2;2;0;4;11;10;1;3;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;4;10;6;3;1;1;3;5;0;1;4;0;1;3;8;4;3;0;0;5;10;10;2;3;1;5;3;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2022-02-06Z
-              stars: 5885
+              stars: 5898
               license: MIT License
               description: A powerful, flexible, Markdown-based authoring framework.
               latest_commit_date: '2022-11-04T16:26:16Z'
@@ -21636,7 +21636,7 @@ landscape:
               contributors_link: https://github.com/markdoc/markdoc/graphs/contributors
             repos:
               - url: https://github.com/markdoc/markdoc
-                stars: 5885
+                stars: 5898
             github_start_commit_data:
               start_commit_link: /markdoc/markdoc/commit/cd571c76a14eb5a09998d6e44014f5c76ec3976e
               start_date: '2022-05-09T17:53:11Z'
@@ -21647,7 +21647,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-25T21:49:47.000Z
+              latest_tweet_date: 2023-01-31T19:00:01.000Z
       - subcategory:
         name: SCA
         items:
@@ -21869,7 +21869,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 53921701888
+              market_cap: 54076026880
               effective_ticker: SNPS
             image_data:
               fileName: black-duck.svg
@@ -22084,7 +22084,7 @@ landscape:
                 - name: Groovy
                   value: 2878
                   color: '#e69f56'
-              contributions: 2;5;0;0;10;4;0;4;12;0;0;10;1;2;4;1;0;2;1;0;0;0;2;0;1;0;3;1;0;0;0;0;22;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 2;5;0;0;11;3;0;4;12;0;0;11;0;2;4;1;0;2;1;0;0;0;2;1;0;1;3;0;0;0;0;0;30;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2022-02-06Z
               stars: 482
               license: Apache License 2.0
@@ -22110,7 +22110,7 @@ landscape:
               badge: 4202
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:53:15.000Z
+              latest_tweet_date: 2023-02-01T16:05:01.000Z
           - item:
             name: FOSSA License Compliance
             homepage_url: https://fossa.com/product/open-source-license-compliance
@@ -22146,7 +22146,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T20:27:36.000Z
+              latest_tweet_date: 2023-01-31T19:59:11.000Z
           - item:
             name: FOSSA Security Management
             homepage_url: https://fossa.com/product/open-source-security-management
@@ -22182,7 +22182,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T20:27:36.000Z
+              latest_tweet_date: 2023-01-31T19:59:11.000Z
           - item:
             name: FossID
             homepage_url: https://fossid.com
@@ -22259,13 +22259,13 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 5243111
+                  value: 5243213
                   color: '#b07219'
                 - name: JavaScript
                   value: 2141531
                   color: '#f1e05a'
                 - name: HTML
-                  value: 429710
+                  value: 430098
                   color: '#e34c26'
                 - name: CSS
                   value: 194547
@@ -22279,25 +22279,25 @@ landscape:
                 - name: Dockerfile
                   value: 917
                   color: '#384d54'
-              contributions: 9;14;21;15;16;4;31;18;10;18;4;19;19;7;17;8;15;10;8;10;13;12;18;15;18;17;16;11;16;27;20;9;13;20;17;13;6;16;16;24;18;8;14;5;10;8;17;6;6;10;3;4
+              contributions: 9;19;18;13;16;10;28;17;10;17;8;15;21;4;19;12;10;9;11;10;12;17;15;16;16;14;18;10;24;22;21;7;11;21;18;13;6;14;19;23;17;6;14;5;12;7;16;6;10;8;1;5
               firstWeek: 2022-02-06Z
-              stars: 117
+              stars: 116
               license: GNU Affero General Public License v3.0
               description: 'FOSSLight Hub : Integrated management web-service for Open Source Compliance Process'
-              latest_commit_date: '2023-01-31T05:31:20Z'
-              latest_commit_link: /fosslight/fosslight/commit/0cc5eb99799a3d6ccb3b617b0cf65303001e11e7
+              latest_commit_date: '2023-02-01T06:37:34Z'
+              latest_commit_link: /fosslight/fosslight/commit/b89481d0113e808fb75abaf2b6d029063d686263
               release_date: '2022-12-23T05:01:58Z'
               release_link: https://github.com/fosslight/fosslight/releases
               contributors_count: 102
               contributors_link: https://github.com/fosslight/fosslight/graphs/contributors
             repos:
               - url: https://github.com/fosslight/fosslight
-                stars: 117
+                stars: 116
             github_start_commit_data:
               start_commit_link: /fosslight/fosslight/commit/d0ea0aa55c892b424908182f3d04c4714eb6f361
               start_date: '2021-04-29T09:49:48Z'
             yahoo_finance_data:
-              market_cap: 13863777425
+              market_cap: 13781878647
               effective_ticker: 066570.KS
             image_data:
               fileName: foss-light.svg
@@ -22306,7 +22306,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T15:01:15.000Z
+              latest_tweet_date: 2023-02-01T15:00:03.000Z
           - item:
             name: GitHub Security
             homepage_url: https://github.com/security
@@ -22354,7 +22354,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1829760532480
+              market_cap: 1838618640384
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-security.svg
@@ -22363,7 +22363,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T13:47:27.000Z
+              latest_tweet_date: 2023-02-01T16:03:30.000Z
           - item:
             name: GitLab Secure
             homepage_url: https://about.gitlab.com/stages-devops-lifecycle/secure/
@@ -22407,7 +22407,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7485000192
+              market_cap: 7461047808
               effective_ticker: GTLB
             image_data:
               fileName: git-lab-secure.svg
@@ -22416,7 +22416,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T16:05:04.000Z
+              latest_tweet_date: 2023-02-01T12:02:21.000Z
           - item:
             name: JiHu(GitLab) Secure
             homepage_url: https://about.gitlab.cn/stages-devops-lifecycle/secure/
@@ -22479,7 +22479,7 @@ landscape:
             github_data:
               languages:
                 - name: Kotlin
-                  value: 4481328
+                  value: 4481434
                   color: '#F18E33'
                 - name: JavaScript
                   value: 297830
@@ -22533,18 +22533,18 @@ landscape:
                   value: 191
                   color: '#c065db'
               contributions: >-
-                19;50;48;55;26;36;47;36;46;54;32;37;42;35;38;25;62;22;56;71;71;20;39;51;58;27;31;20;51;80;48;63;108;71;83;73;54;53;49;34;55;32;63;73;65;52;35;53;49;49;52;48
+                20;55;53;52;23;36;46;39;49;54;29;40;35;33;39;39;46;20;74;59;70;20;40;58;46;27;30;24;63;75;46;79;100;70;84;82;37;45;55;32;55;31;69;83;60;50;42;49;41;54;63;45
               firstWeek: 2022-02-06Z
-              stars: 1038
+              stars: 1041
               license: Apache License 2.0
               description: A suite of tools to assist with reviewing Open Source Software dependencies.
-              latest_commit_date: '2023-01-31T16:03:49Z'
-              latest_commit_link: /oss-review-toolkit/ort/commit/0f38bb793212d357968d703bff3007cae8c81666
+              latest_commit_date: '2023-02-01T16:31:07Z'
+              latest_commit_link: /oss-review-toolkit/ort/commit/77555b8772046360f4cfcb03932cf1a228ded15d
               contributors_count: 72
               contributors_link: https://github.com/oss-review-toolkit/ort/graphs/contributors
             repos:
               - url: https://github.com/oss-review-toolkit/ort
-                stars: 1038
+                stars: 1041
             github_start_commit_data:
               start_commit_link: /oss-review-toolkit/ort/commit/0b17041c9e6c38fb7af1d3d51232de2869610ac7
               start_date: '2017-03-27T12:54:50Z'
@@ -22555,7 +22555,7 @@ landscape:
               badge: 4618
               percentage: 73
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: Snyk Open Source License Compliance Management
             homepage_url: https://snyk.io/product/open-source-license-compliance
@@ -22603,7 +22603,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T22:28:14.000Z
+              latest_tweet_date: 2023-02-01T16:14:11.000Z
           - item:
             name: Snyk Open Source Security Management
             homepage_url: https://snyk.io/product/open-source-security-management
@@ -22651,7 +22651,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T22:28:14.000Z
+              latest_tweet_date: 2023-02-01T16:14:11.000Z
           - item:
             name: SPDX
             homepage_url: https://spdx.dev
@@ -22693,7 +22693,7 @@ landscape:
                 - name: Python
                   value: 5903
                   color: '#3572A5'
-              contributions: 0;1;1;0;0;4;8;2;0;0;0;4;3;2;5;5;4;8;6;9;4;1;3;5;28;10;1;10;0;0;0;0;1;0;3;2;2;0;1;0;0;0;0;0;0;0;0;0;0;1;1;0
+              contributions: 1;0;1;0;2;9;1;2;0;0;2;5;1;4;3;5;4;9;7;6;4;1;3;14;20;9;1;10;0;0;0;1;0;0;3;2;2;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0
               firstWeek: 2022-02-06Z
               stars: 209
               license: Other
@@ -22717,7 +22717,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: Tern
             homepage_url: https://github.com/tern-tools/tern
@@ -22759,7 +22759,7 @@ landscape:
                 - name: Dockerfile
                   value: 2073
                   color: '#384d54'
-              contributions: 2;3;8;4;0;0;3;0;1;0;8;2;0;2;3;1;0;1;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;5;2;0;0;1;0;0;0
+              contributions: 2;7;4;4;0;0;3;1;0;1;7;2;2;0;3;1;0;1;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;5;2;0;0;1;0;0;0
               firstWeek: 2022-02-06Z
               stars: 817
               license: BSD 2-Clause "Simplified" License
@@ -22786,7 +22786,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: Vigiles
             description: >-
@@ -22827,7 +22827,7 @@ landscape:
                 - name: Shell
                   value: 973
                   color: '#89e051'
-              contributions: 2;0;0;0;0;0;0;0;0;1;2;1;1;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 1;0;0;0;0;0;0;0;0;2;1;1;1;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2022-02-06Z
               stars: 17
               license: Unknown License
@@ -22888,7 +22888,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T19:01:30.000Z
+              latest_tweet_date: 2023-02-01T15:02:51.000Z
       - subcategory:
         name: Metrics
         items:
@@ -22960,9 +22960,9 @@ landscape:
                 - name: Mako
                   value: 494
               contributions: >-
-                50;8;0;25;94;51;22;55;51;132;118;70;25;2;7;6;17;27;118;52;136;74;89;74;79;99;78;110;71;32;67;51;21;13;19;67;49;22;59;26;43;28;20;35;15;14;15;0;0;14;0;3
+                39;6;4;60;59;49;28;47;53;159;95;69;20;2;9;4;17;45;111;62;129;69;106;74;77;86;82;104;68;42;60;53;10;14;18;89;29;22;61;22;47;24;39;20;12;20;8;0;0;14;1;2
               firstWeek: 2022-02-06Z
-              stars: 501
+              stars: 502
               license: MIT License
               description: >-
                 Python library and web service for Open Source Software Health and Sustainability metrics & data collection. You can find our documentation and
@@ -22975,7 +22975,7 @@ landscape:
               contributors_link: https://github.com/chaoss/augur/graphs/contributors
             repos:
               - url: https://github.com/chaoss/augur
-                stars: 501
+                stars: 502
             github_start_commit_data:
               start_commit_link: /chaoss/augur/commit/c1c780958deb790fd40520873fdf8eee8e9988d9
               start_date: '2017-01-05T17:34:55Z'
@@ -22986,7 +22986,7 @@ landscape:
               badge: 2788
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: Bitergia Analytics
             homepage_url: https://bitergia.com/bitergia-analytics
@@ -23019,7 +23019,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:00:00.000Z
+              latest_tweet_date: 2023-02-01T14:02:24.000Z
           - item:
             name: Cauldron
             homepage_url: https://cauldron.io/
@@ -23070,7 +23070,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:00:00.000Z
+              latest_tweet_date: 2023-02-01T14:02:24.000Z
           - item:
             name: CHAOSS Metrics
             homepage_url: https://chaoss.community/cgi-sys/suspendedpage.cgi
@@ -23126,7 +23126,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: DevStats
             homepage_url: https://devstats.cncf.io/
@@ -23186,13 +23186,13 @@ landscape:
                   color: '#ecdebe'
                 - name: Vim Script
                   value: 456
-              contributions: 1;3;7;13;31;24;8;7;21;25;10;5;30;7;5;4;6;2;5;22;14;11;8;13;12;15;36;15;9;13;12;12;28;22;11;30;3;12;3;6;3;8;9;13;4;62;8;2;5;15;10;25
+              contributions: 1;4;9;12;29;28;5;7;21;25;11;5;29;7;4;9;2;2;5;26;9;12;8;15;9;35;17;16;8;17;12;8;35;16;11;28;5;10;3;6;3;10;8;12;4;63;7;4;5;13;11;26
               firstWeek: 2022-02-06Z
               stars: 438
               license: Apache License 2.0
               description: 📈CNCF-created tool for analyzing and graphing developer contributions
-              latest_commit_date: '2023-01-31T09:46:57Z'
-              latest_commit_link: /cncf/devstats/commit/90b13782c2322ae5d49f382fa984f9dc401527e3
+              latest_commit_date: '2023-02-01T13:37:08Z'
+              latest_commit_link: /cncf/devstats/commit/0a1f8823d0da5f1747ff603976d5100eb4af9577
               release_date: '2019-05-13T13:36:12Z'
               release_link: https://github.com/cncf/devstats/releases
               contributors_count: 31
@@ -23210,7 +23210,7 @@ landscape:
               badge: 1357
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:36:32.000Z
+              latest_tweet_date: 2023-02-01T17:01:07.000Z
           - item:
             name: GrimoireLab
             homepage_url: https://chaoss.github.io/grimoirelab
@@ -23247,22 +23247,22 @@ landscape:
                   value: 27169
                   color: '#ecdebe'
                 - name: Python
-                  value: 16820
+                  value: 16815
                   color: '#3572A5'
                 - name: Shell
                   value: 9138
                   color: '#89e051'
                 - name: Dockerfile
-                  value: 2611
+                  value: 2606
                   color: '#384d54'
-              contributions: 1;0;1;1;0;0;3;0;2;2;0;1;0;1;0;0;3;0;5;0;0;7;1;0;13;0;0;0;0;1;0;8;0;6;14;8;10;3;8;1;0;0;0;0;0;2;0;0;0;6;12;0
+              contributions: 1;0;2;0;0;0;3;0;3;1;1;0;0;1;0;0;3;5;0;0;0;7;1;1;12;0;0;0;1;0;2;6;0;15;6;9;8;5;6;1;0;0;0;0;0;2;0;0;6;0;12;0
               firstWeek: 2022-02-06Z
               stars: 393
               license: GNU General Public License v3.0
               description: 'GrimoireLab: toolset for software development analytics'
-              latest_commit_date: '2023-01-23T13:18:29Z'
-              latest_commit_link: /chaoss/grimoirelab/commit/4b32daf88aae3ff3c59222f1db26e5d0c0ed3211
-              release_date: '2023-01-23T13:21:14Z'
+              latest_commit_date: '2023-02-01T13:42:27Z'
+              latest_commit_link: /chaoss/grimoirelab/commit/dd6477f5c5fe9ab3321667dea4b80a27f2d7aada
+              release_date: '2023-02-01T10:12:41Z'
               release_link: https://github.com/chaoss/grimoirelab/releases
               contributors_count: 39
               contributors_link: https://github.com/chaoss/grimoirelab/graphs/contributors
@@ -23279,7 +23279,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: LFX Insights
             homepage_url: https://lfx.linuxfoundation.org/tools/insights
@@ -23316,7 +23316,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: Ovio
             homepage_url: https://ovio.org
@@ -23411,7 +23411,7 @@ landscape:
                   color: '#563d7c'
                 - name: Procfile
                   value: 91
-              contributions: 7;0;0;3;4;4;13;0;1;0;1;0;1;0;0;0;3;0;0;0;1;32;6;7;0;0;4;6;0;1;3;0;0;0;0;0;0;0;1;6;3;0;0;0;0;0;5;12;10;0;2;1
+              contributions: 7;0;0;3;4;8;9;0;1;0;1;0;1;0;0;0;3;0;0;0;3;31;5;7;0;0;4;6;0;1;3;0;0;0;0;0;0;1;0;6;3;0;0;0;0;4;1;17;5;0;2;1
               firstWeek: 2022-02-06Z
               stars: 1083
               license: MIT License
@@ -23433,7 +23433,7 @@ landscape:
               badge: 1
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2023-01-31T14:21:50.000Z
+              latest_tweet_date: 2023-02-01T14:19:05.000Z
           - item:
             name: Code Climate
             homepage_url: https://codeclimate.com
@@ -23478,9 +23478,9 @@ landscape:
                 - name: Dockerfile
                   value: 914
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;4;0;0;0;0;2;0;2;0;2;0;0;0;1;0;0;0;0;0;0;0;1;0;7;1;1;0;4;3;1;0;1;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;3;2;0;0;0;2;0;0;2;1;1;0;0;0;1;0;0;0;0;0;0;0;1;4;4;0;1;0;4;3;1;0;1;0;0
               firstWeek: 2022-02-06Z
-              stars: 2365
+              stars: 2366
               license: GNU Affero General Public License v3.0
               description: Code Climate CLI
               latest_commit_date: '2023-01-12T17:07:19Z'
@@ -23491,7 +23491,7 @@ landscape:
               contributors_link: https://github.com/codeclimate/codeclimate/graphs/contributors
             repos:
               - url: https://github.com/codeclimate/codeclimate
-                stars: 2365
+                stars: 2366
             github_start_commit_data:
               start_commit_link: /codeclimate/codeclimate/commit/9becedb4cb619e6235aef4c96340f8b156ba07ac
               start_date: '2015-06-19T13:54:33Z'
@@ -23542,7 +23542,7 @@ landscape:
                 - name: Batchfile
                   value: 19
                   color: '#C1F12E'
-              contributions: 0;0;0;0;1;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2;7;0;0;0;0;0;10;11;1;2;4;0;2;2;0;0;1;2;0;0;2;0;0;0;0
+              contributions: 0;0;0;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2;7;0;0;0;0;0;10;11;3;0;4;0;2;2;0;0;1;2;0;0;2;0;0;0;0
               firstWeek: 2022-02-06Z
               stars: 357
               license: Apache License 2.0
@@ -23566,8 +23566,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-30T22:15:55.000Z
+              latest_tweet_date: 2023-01-31T17:12:51.000Z
 twitter_options:
   count: 11
   since_id: '1478373150282952714'
-updated_at: 2023-01-31T17:06:24.098Z
+updated_at: 2023-02-01T17:10:38.344Z

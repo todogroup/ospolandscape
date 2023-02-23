@@ -361,11 +361,6 @@ landscape:
             logo: salesforce.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
           - item:
-            name: SAS (Member)
-            homepage_url: https://github.com/sassoftware/
-            logo: sas.svg
-            crunchbase: https://www.crunchbase.com/organization/sas
-          - item:
             name: Samsung (Member)
             homepage_url: https://blogs.s-osg.org/
             logo: samsung.svg
@@ -376,6 +371,11 @@ landscape:
             logo: sap.svg
             twitter: https://twitter.com/sapopensource
             crunchbase: https://www.crunchbase.com/organization/sap
+          - item:
+            name: SAS (Member)
+            homepage_url: https://github.com/sassoftware/
+            logo: sas.svg
+            crunchbase: https://www.crunchbase.com/organization/sas
           - item:
             name: Sauce Labs (Member)
             homepage_url: https://github.com/saucelabs
@@ -930,16 +930,16 @@ landscape:
             logo: samsung.svg
             crunchbase: https://www.crunchbase.com/organization/samsung
           - item:
-            name: SAS (Adopter)
-            homepage_url: https://github.com/sassoftware/
-            logo: sas.svg
-            crunchbase: https://www.crunchbase.com/organization/sas
-          - item:
             name: SAP (Adopter)
             homepage_url: https://github.com/sap
             logo: sap.svg
             twitter: https://twitter.com/sapopensource
             crunchbase: https://www.crunchbase.com/organization/sap
+          - item:
+            name: SAS (Adopter)
+            homepage_url: https://github.com/sassoftware/
+            logo: sas.svg
+            crunchbase: https://www.crunchbase.com/organization/sas
           - item:
             name: Sauce Labs (Adopter)
             homepage_url: https://github.com/saucelabs

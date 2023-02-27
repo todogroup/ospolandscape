@@ -1217,6 +1217,12 @@ landscape:
             logo: tern.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
+            name: Thanks.dev
+            homepage_url: https://thanks.dev
+            repo_url: https://github.com/thnxdev
+            logo: thanksdev.svg
+            crunchbase: https://www.crunchbase.com/organization/thanks-dev
+          - item:
             name: Vigiles
             description: >-
               Vigiles enables you to detect, filter, triage, and remediate vulnerabilities with the industry’s first Software Composition Analysis (SCA) and CVE

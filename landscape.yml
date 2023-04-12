@@ -397,6 +397,11 @@ landscape:
             logo: siemens.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
+            name: Sony (Member)
+            homepage_url: https://github.com/sony
+            logo: sony.svg
+            crunchbase: https://www.crunchbase.com/organization/sony
+          - item:
             name: Spotify (Member)
             homepage_url: https://github.com/spotify
             logo: spotify.svg
@@ -970,6 +975,11 @@ landscape:
             homepage_url: https://github.com/slackhq
             logo: slack.svg
             crunchbase: https://www.crunchbase.com/organization/slack
+          - item:
+            name: Sony (Adopter)
+            homepage_url: https://github.com/sony
+            logo: sony.svg
+            crunchbase: https://www.crunchbase.com/organization/sony
           - item:
             name: Spotify (Adopter)
             homepage_url: https://github.com/spotify

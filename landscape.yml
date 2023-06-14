@@ -16,6 +16,16 @@ landscape:
             logo: aiven.svg
             crunchbase: https://www.crunchbase.com/organization/aiven
           - item:
+            name: Alliander (Member)
+            homepage_url: https://www.alliander.com/en/open-source/projects/
+            logo: alliander.svg
+            crunchbase: https://www.crunchbase.com/organization/alliander
+          - item:
+            name: AMD Xilinx (Member)
+            homepage_url: https://www.xilinx.com/
+            logo: amd-xilinx.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx
+          - item:
             name: Apple (Member)
             homepage_url: https://opensource.apple.com/
             logo: apple.svg
@@ -39,7 +49,7 @@ landscape:
             name: AWS (Member)
             homepage_url: https://twitter.com/AWSOpen
             logo: aws.svg
-            crunchbase: https://www.crunchbase.com/organization/aws
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: Baidu (Member)
             homepage_url: https://github.com/baidu
@@ -75,6 +85,11 @@ landscape:
             homepage_url: http://opensource.box.com/
             logo: box.svg
             crunchbase: https://www.crunchbase.com/organization/box
+          - item:
+            name: ByteDance (Member)
+            homepage_url: https://github.com/bytedance
+            logo: bytedance.svg
+            crunchbase: https://www.crunchbase.com/organization/bytedance
           - item:
             name: Camunda (Member)
             homepage_url: https://github.com/camunda
@@ -171,6 +186,11 @@ landscape:
             logo: f5.svg
             crunchbase: https://www.crunchbase.com/organization/f5-networks
           - item:
+            name: Fannie Mae (Member)
+            homepage_url: https://www.fanniemae.com
+            logo: fannie-mae.svg
+            crunchbase: https://www.crunchbase.com/organization/fannie-mae
+          - item:
             name: Freddie Mac (Member)
             homepage_url: https://www.freddiemac.com
             logo: freddie-mac.svg
@@ -220,6 +240,11 @@ landscape:
             homepage_url: https://github.com/indeedeng
             logo: indeed.svg
             crunchbase: https://www.crunchbase.com/organization/indeed
+          - item:
+            name: Infosys (Member)
+            homepage_url: https://www.infosys.com
+            logo: infosys-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
             name: Intel (Member)
             homepage_url: https://01.org/
@@ -301,6 +326,16 @@ landscape:
             logo: porsche.svg
             crunchbase: https://www.crunchbase.com/organization/porsche
           - item:
+            name: Postman (Member)
+            homepage_url: https://www.postman.com/
+            logo: postman.svg
+            crunchbase: https://www.crunchbase.com/organization/postman
+          - item:
+            name: Progressive Insurance (Member)
+            homepage_url: https://github.com/Progressive-Insurance
+            logo: progressive.svg
+            crunchbase: https://www.crunchbase.com/organization/progressive-commercial
+          - item:
             name: Qingcloud (Member)
             homepage_url: https://www.qingcloud.com
             logo: qingcloud.svg
@@ -337,6 +372,11 @@ landscape:
             twitter: https://twitter.com/sapopensource
             crunchbase: https://www.crunchbase.com/organization/sap
           - item:
+            name: SAS (Member)
+            homepage_url: https://github.com/sassoftware/
+            logo: sas.svg
+            crunchbase: https://www.crunchbase.com/organization/sas
+          - item:
             name: Sauce Labs (Member)
             homepage_url: https://github.com/saucelabs
             logo: sauce-labs.svg
@@ -356,6 +396,11 @@ landscape:
             homepage_url: https://github.com/siemens
             logo: siemens.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
+          - item:
+            name: Sony (Member)
+            homepage_url: https://github.com/sony
+            logo: sony.svg
+            crunchbase: https://www.crunchbase.com/organization/sony
           - item:
             name: Spotify (Member)
             homepage_url: https://github.com/spotify
@@ -382,6 +427,12 @@ landscape:
             logo: tencent.svg
             crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
+            name: TomTom (Member)
+            homepage_url: https://opensource.tomtom.com
+            logo: tomtom.svg
+            twitter: https://twitter.com/TomTomDevs
+            crunchbase: https://www.crunchbase.com/organization/tomtom-international
+          - item:
             name: Toyota (Member)
             homepage_url: https://www.toyota.com
             logo: toyota.svg
@@ -407,6 +458,11 @@ landscape:
             logo: verizon-media.svg
             crunchbase: https://www.crunchbase.com/organization/verizon-media
           - item:
+            name: Vivo (Member)
+            homepage_url: https://opensource.vivo.com
+            logo: vivo.svg
+            crunchbase: https://www.crunchbase.com/organization/vivo-communication-technology
+          - item:
             name: VMWare (Member)
             homepage_url: https://www.vmware.com/opensource.html
             logo: vmware.svg
@@ -431,17 +487,19 @@ landscape:
             homepage_url: https://github.com/WiproOpenSourcePractice
             logo: wipro.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
-          - item:
-            name: Xilinx (Member)
-            homepage_url: https://www.xilinx.com/
-            logo: xilinx.svg
-            crunchbase: https://www.crunchbase.com/organization/xilinx
   - category:
     name: OSPO Adopter
     subcategories:
       - subcategory:
         name: OSPO Associate
         items:
+          - item:
+            name: CHAOSS (Associate)
+            homepage_url: https://chaoss.community/
+            repo_url: https://github.com/chaoss/community
+            logo: chaoss.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            allow_duplicate_repo: true
           - item:
             name: ESOP (Associate)
             homepage_url: https://esop.pt
@@ -493,9 +551,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/alibaba
           - item:
             name: Alliander (Adopter)
-            homepage_url: https://www.alliander.com/en/old-browser
+            homepage_url: https://www.alliander.com/en/open-source/projects/
             logo: alliander.svg
             crunchbase: https://www.crunchbase.com/organization/alliander
+          - item:
+            name: AMD Xilinx (Adopter)
+            homepage_url: https://www.xilinx.com/
+            logo: amd-xilinx.svg
+            crunchbase: https://www.crunchbase.com/organization/xilinx
           - item:
             name: Apple (Adopter)
             homepage_url: https://opensource.apple.com/
@@ -561,6 +624,11 @@ landscape:
             homepage_url: http://opensource.box.com/
             logo: box.svg
             crunchbase: https://www.crunchbase.com/organization/box
+          - item:
+            name: ByteDance (Adopter)
+            homepage_url: https://github.com/bytedance
+            logo: bytedance.svg
+            crunchbase: https://www.crunchbase.com/organization/bytedance
           - item:
             name: Camunda (Adopter)
             homepage_url: https://github.com/camunda
@@ -727,6 +795,11 @@ landscape:
             logo: indeed.svg
             crunchbase: https://www.crunchbase.com/organization/indeed
           - item:
+            name: Infosys (Adopter)
+            homepage_url: https://www.infosys.com
+            logo: infosys-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/infosys
+          - item:
             name: Intel (Adopter)
             homepage_url: https://01.org/
             logo: intel.svg
@@ -756,6 +829,10 @@ landscape:
             homepage_url: https://www.khanacademy.org/
             logo: khan-academy.svg
             crunchbase: https://www.crunchbase.com/organization/khan-academy
+            name: Line Corporation (Adopter)
+            homepage_url: https://github.com/line
+            logo: line.svg
+            crunchbase: https://www.crunchbase.com/organization/line-corporation
           - item:
             name: Mercado Libre (Adopter)
             homepage_url: https://github.com/mercadolibre
@@ -827,6 +904,16 @@ landscape:
             logo: porsche.svg
             crunchbase: https://www.crunchbase.com/organization/porsche
           - item:
+            name: Postman (Adopter)
+            homepage_url: https://www.postman.com/
+            logo: postman.svg
+            crunchbase: https://www.crunchbase.com/organization/postman
+          - item:
+            name: Progressive Insurance (Adopter)
+            homepage_url: https://github.com/Progressive-Insurance
+            logo: progressive.svg
+            crunchbase: https://www.crunchbase.com/organization/progressive-commercial
+          - item:
             name: Qingcloud (Adopter)
             homepage_url: https://www.qingcloud.com
             logo: qingcloud.svg
@@ -863,6 +950,11 @@ landscape:
             twitter: https://twitter.com/sapopensource
             crunchbase: https://www.crunchbase.com/organization/sap
           - item:
+            name: SAS (Adopter)
+            homepage_url: https://github.com/sassoftware/
+            logo: sas.svg
+            crunchbase: https://www.crunchbase.com/organization/sas
+          - item:
             name: Sauce Labs (Adopter)
             homepage_url: https://github.com/saucelabs
             logo: sauce-labs.svg
@@ -888,6 +980,11 @@ landscape:
             logo: slack.svg
             crunchbase: https://www.crunchbase.com/organization/slack
           - item:
+            name: Sony (Adopter)
+            homepage_url: https://github.com/sony
+            logo: sony.svg
+            crunchbase: https://www.crunchbase.com/organization/sony
+          - item:
             name: Spotify (Adopter)
             homepage_url: https://github.com/spotify
             logo: spotify.svg
@@ -912,6 +1009,12 @@ landscape:
             homepage_url: https://github.com/tencent
             logo: tencent.svg
             crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: TomTom (Adopter)
+            homepage_url: https://opensource.tomtom.com
+            logo: tomtom.svg
+            twitter: https://twitter.com/TomTomDevs
+            crunchbase: https://www.crunchbase.com/organization/tomtom-international
           - item:
             name: Toyota (Adopter)
             homepage_url: https://www.toyota.com
@@ -953,6 +1056,11 @@ landscape:
             logo: verizon-media.svg
             crunchbase: https://www.crunchbase.com/organization/verizon-media
           - item:
+            name: Vivo (Adopter)
+            homepage_url: https://opensource.vivo.com
+            logo: vivo.svg
+            crunchbase: https://www.crunchbase.com/organization/vivo-communication-technology
+          - item:
             name: VMWare (Adopter)
             homepage_url: https://www.vmware.com/opensource.html
             logo: vmware.svg
@@ -982,11 +1090,6 @@ landscape:
             homepage_url: https://github.com/WiproOpenSourcePractice
             logo: wipro.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
-          - item:
-            name: Xilinx (Adopter)
-            homepage_url: https://www.xilinx.com/community.html
-            logo: xilinx.svg
-            crunchbase: https://www.crunchbase.com/organization/xilinx
           - item:
             name: Zalando (Adopter)
             homepage_url: https://opensource.zalando.com
@@ -1137,6 +1240,15 @@ landscape:
             repo_url: https://github.com/tern-tools/tern
             logo: tern.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: Thanks.dev
+            description: >-
+              Thanks.dev offers a streamlined experience for companies looking to sponsor maintainers. The platform crawls your code dependencies via a GitHub
+              integration, and distribute money algorithmically. Helping to support the open source code we all depend on.
+            homepage_url: https://thanks.dev
+            repo_url: https://github.com/thnxdev/happy
+            logo: thanksdev.svg
+            crunchbase: https://www.crunchbase.com/organization/thanks-dev
           - item:
             name: Vigiles
             description: >-

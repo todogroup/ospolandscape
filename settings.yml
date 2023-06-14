@@ -88,7 +88,7 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: TODO Group Member
-        width: 680
+        width: 735
         height: 200
         top: 360
         left: 0
@@ -96,7 +96,7 @@ big_picture:
         fit_width: true
       - type: VerticalCategory
         category: OSPO Tools
-        width: 250
+        width: 310
         height: 330
         top: 20
         left: 755
@@ -106,7 +106,7 @@ big_picture:
         width: 310
         height: 200
         top: 360
-        left: 695
+        left: 755
         children:
           - type: text
             text: |

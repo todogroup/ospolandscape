@@ -32,14 +32,18 @@ Please see [landscape.todogroup.org](https://landscape.todogroup.org).
 
 ## New Entries
 
-* OSPOs must have a public facing site (e.g., https://opensource.microsoft.com or https://opensource.google or https://twitter.github.io)
-* Projects must be open source and hosted on or mirrored to GitHub.
-* Projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
-* We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
-* Your project or company needs a logo and the logo needs to include the name.
-* Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
+We welcome contributors who are willing to include new entries of organizations that have an OSPO (Open Source Program Office) or a similar open source initiative in the *OSPO Adopter* category, as well as open source projects that assist OSPOs in the *Tools* category. 
 
-If you think your project should be included, please open a pull request to add it to [landscape.yml](landscape.yml). For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+> An OSPO does NOT need to be a TODO Member to be in the OSPO Landscape as an OSPO Adopter, every organization with an OSPO (governments, companies, academic institutions) can apply.
+
+To submit a new entry, please take note of the following guidelines:
+
+* Organizations with an OSPO or open source initiative must have a public facing site (e.g., https://opensource.google, https://ospo.ucsc.edu/ or https://github.com/aiven)
+* Projects must be open source and hosted in a source code management system, like GitLab, GitHub, etc.
+* The project or organization needs a logo and the logo needs to include the name.
+* We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
+
+If you think your organization or project should be included, please open a pull request to add it to [landscape.yml](landscape.yml). For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
 
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
 

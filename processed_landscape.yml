@@ -2339,6 +2339,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T17:37:22.000Z
           - item:
+            name: Cuemby (Member)
+            homepage_url: https://www.cuemby.com/
+            logo: cuemby.svg
+            crunchbase: https://www.crunchbase.com/organization/cuemby
+            crunchbase_data:
+              name: Cuemby
+              description: Simplify distributed cloud infrastructure
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cuemby.com
+              city: Delray Beach
+              region: Florida
+              country: United States
+              twitter: https://twitter.com/cuemby
+              linkedin: https://www.linkedin.com/company/cuemby
+              acquisitions: []
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Management
+                - Developer Platform
+                - Developer Tools
+                - Enterprise Software
+                - PaaS
+            image_data:
+              fileName: cuemby-member.svg
+              hash: eIPSJ2Q4mT/aOdVn1ucS0ri7rf2s6DUgQWJ10UXqQak=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Datadog (Member)
             homepage_url: https://github.com/DataDog
             logo: datadog.svg
@@ -7293,28 +7326,111 @@ landscape:
               latest_tweet_date: 2023-04-21T17:01:49.000Z
           - item:
             name: Samsung (Member)
-            homepage_url: https://blogs.s-osg.org/
+            homepage_url: https://opensource.samsung.com/main
             logo: samsung.svg
-            crunchbase: https://www.crunchbase.com/organization/samsung
+            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
             crunchbase_data:
               name: Samsung Electronics
               description: Samsung Electronics is an electronics company that engages in consumer electronics, IT and mobile communications, and device solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.samsung.com/
+              homepage: http://www.samsung.com
               city: Seoul
               region: Seoul-t'ukpyolsi
               country: South Korea
               twitter: https://www.twitter.com/samsung
               linkedin: https://www.linkedin.com/company/samsung-electronics
-              acquisitions: []
+              acquisitions:
+                - date: '2007-08-09'
+                  acquiree: Genoa Color Technologies
+                - date: '2008-03-01'
+                  acquiree: Clairvoyante, Inc.
+                - date: '2011-01-19'
+                  acquiree: Liquavista
+                - date: '2011-08-01'
+                  acquiree: Grandis
+                - date: '2011-11-15'
+                  acquiree: Nexus Dx
+                - date: '2011-12-01'
+                  acquiree: ZigZag Software
+                - date: '2012-05-09'
+                  acquiree: mSpot
+                - date: '2012-06-01'
+                  acquiree: Nanoradio
+                - date: '2012-12-15'
+                  acquiree: NVELO
+                - date: '2013-01-29'
+                  acquiree: NeuroLogica
+                - date: '2013-05-06'
+                  acquiree: MOVL
+                - date: '2013-07-03'
+                  acquiree: Boxee
+                - date: '2013-08-09'
+                  acquiree: Novaled
+                - date: '2014-06-05'
+                  acquiree: Shelby.tv
+                - date: '2014-07-14'
+                  acquiree: SmartThings
+                - date: '2014-09-02'
+                  acquiree: PrinterOn
+                - date: '2014-11-02'
+                  acquiree: Proximal Data
+                - date: '2015-01-30'
+                  acquiree: Simpress
+                - date: '2015-02-18'
+                  acquiree: LoopPay
+                - date: '2015-03-17'
+                  acquiree: YESCO Electronics
+                - date: '2016-06-16'
+                  acquiree: AdGear
+                - date: '2016-06-16'
+                  acquiree: Joyent
+                - date: '2016-08-10'
+                  acquiree: DACOR
+                - date: '2016-10-05'
+                  acquiree: Viv
+                - date: '2016-10-27'
+                  acquiree: Tachyon
+                - date: '2016-11-14'
+                  acquiree: Harman International
+                - date: '2016-11-15'
+                  acquiree: NewNet Communication Technologies
+                - date: '2016-11-23'
+                  acquiree: QD Vision
+                - date: '2017-02-03'
+                  acquiree: Perch
+                - date: '2017-02-15'
+                  acquiree: Melaud
+                - date: '2017-06-16'
+                  acquiree: VRB
+                - date: '2017-07-10'
+                  acquiree: innoetics
+                - date: '2017-11-28'
+                  acquiree: Fluenty
+                - date: '2018-03-06'
+                  acquiree: Kngine
+                - date: '2018-10-17'
+                  acquiree: Zhilabs
+                - date: '2019-01-28'
+                  acquiree: Corephotonics
+                - date: '2020-01-13'
+                  acquiree: TeleWorld Solutions
+                - date: '2022-06-28'
+                  acquiree: Cynora
               parents: []
-              stockExchange: null
+              ticker: 005930.KS
+              funding: 0
+              stockExchange: krx
               company_type: For Profit
               industries:
-                - Mobile Apps
+                - Consumer Electronics
+                - Electronics
+                - Manufacturing
+                - Mobile
                 - Mobile Devices
-                - Mobile Payments
+                - Software
+            yahoo_finance_data:
+              effective_ticker: 005930.KS
             image_data:
               fileName: samsung-member.svg
               hash: eyiIeWWxz/IsmjlsL7vTBJEo1jxqg8dpbrtm/QuETcQ=
@@ -12068,6 +12184,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T17:37:22.000Z
+          - item:
+            name: Cuemby (Adopter)
+            homepage_url: https://www.cuemby.com/
+            logo: cuemby.svg
+            crunchbase: https://www.crunchbase.com/organization/cuemby
+            crunchbase_data:
+              name: Cuemby
+              description: Simplify distributed cloud infrastructure
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cuemby.com
+              city: Delray Beach
+              region: Florida
+              country: United States
+              twitter: https://twitter.com/cuemby
+              linkedin: https://www.linkedin.com/company/cuemby
+              acquisitions: []
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Management
+                - Developer Platform
+                - Developer Tools
+                - Enterprise Software
+                - PaaS
+            image_data:
+              fileName: cuemby-adopter.svg
+              hash: eIPSJ2Q4mT/aOdVn1ucS0ri7rf2s6DUgQWJ10UXqQak=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Datadog (Adopter)
             homepage_url: https://github.com/DataDog
@@ -17317,28 +17466,111 @@ landscape:
               latest_tweet_date: 2023-04-21T17:01:49.000Z
           - item:
             name: Samsung (Adopter)
-            homepage_url: https://blogs.s-osg.org/
+            homepage_url: https://opensource.samsung.com/main
             logo: samsung.svg
-            crunchbase: https://www.crunchbase.com/organization/samsung
+            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
             crunchbase_data:
               name: Samsung Electronics
               description: Samsung Electronics is an electronics company that engages in consumer electronics, IT and mobile communications, and device solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.samsung.com/
+              homepage: http://www.samsung.com
               city: Seoul
               region: Seoul-t'ukpyolsi
               country: South Korea
               twitter: https://www.twitter.com/samsung
               linkedin: https://www.linkedin.com/company/samsung-electronics
-              acquisitions: []
+              acquisitions:
+                - date: '2007-08-09'
+                  acquiree: Genoa Color Technologies
+                - date: '2008-03-01'
+                  acquiree: Clairvoyante, Inc.
+                - date: '2011-01-19'
+                  acquiree: Liquavista
+                - date: '2011-08-01'
+                  acquiree: Grandis
+                - date: '2011-11-15'
+                  acquiree: Nexus Dx
+                - date: '2011-12-01'
+                  acquiree: ZigZag Software
+                - date: '2012-05-09'
+                  acquiree: mSpot
+                - date: '2012-06-01'
+                  acquiree: Nanoradio
+                - date: '2012-12-15'
+                  acquiree: NVELO
+                - date: '2013-01-29'
+                  acquiree: NeuroLogica
+                - date: '2013-05-06'
+                  acquiree: MOVL
+                - date: '2013-07-03'
+                  acquiree: Boxee
+                - date: '2013-08-09'
+                  acquiree: Novaled
+                - date: '2014-06-05'
+                  acquiree: Shelby.tv
+                - date: '2014-07-14'
+                  acquiree: SmartThings
+                - date: '2014-09-02'
+                  acquiree: PrinterOn
+                - date: '2014-11-02'
+                  acquiree: Proximal Data
+                - date: '2015-01-30'
+                  acquiree: Simpress
+                - date: '2015-02-18'
+                  acquiree: LoopPay
+                - date: '2015-03-17'
+                  acquiree: YESCO Electronics
+                - date: '2016-06-16'
+                  acquiree: AdGear
+                - date: '2016-06-16'
+                  acquiree: Joyent
+                - date: '2016-08-10'
+                  acquiree: DACOR
+                - date: '2016-10-05'
+                  acquiree: Viv
+                - date: '2016-10-27'
+                  acquiree: Tachyon
+                - date: '2016-11-14'
+                  acquiree: Harman International
+                - date: '2016-11-15'
+                  acquiree: NewNet Communication Technologies
+                - date: '2016-11-23'
+                  acquiree: QD Vision
+                - date: '2017-02-03'
+                  acquiree: Perch
+                - date: '2017-02-15'
+                  acquiree: Melaud
+                - date: '2017-06-16'
+                  acquiree: VRB
+                - date: '2017-07-10'
+                  acquiree: innoetics
+                - date: '2017-11-28'
+                  acquiree: Fluenty
+                - date: '2018-03-06'
+                  acquiree: Kngine
+                - date: '2018-10-17'
+                  acquiree: Zhilabs
+                - date: '2019-01-28'
+                  acquiree: Corephotonics
+                - date: '2020-01-13'
+                  acquiree: TeleWorld Solutions
+                - date: '2022-06-28'
+                  acquiree: Cynora
               parents: []
-              stockExchange: null
+              ticker: 005930.KS
+              funding: 0
+              stockExchange: krx
               company_type: For Profit
               industries:
-                - Mobile Apps
+                - Consumer Electronics
+                - Electronics
+                - Manufacturing
+                - Mobile
                 - Mobile Devices
-                - Mobile Payments
+                - Software
+            yahoo_finance_data:
+              effective_ticker: 005930.KS
             image_data:
               fileName: samsung-adopter.svg
               hash: eyiIeWWxz/IsmjlsL7vTBJEo1jxqg8dpbrtm/QuETcQ=

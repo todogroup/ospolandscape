@@ -121,6 +121,11 @@ landscape:
             logo: comcast.svg
             crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
+            name: Cuemby (Member)
+            homepage_url: https://www.cuemby.com/
+            logo: cuemby.svg
+            crunchbase: https://www.crunchbase.com/organization/cuemby
+          - item:
             name: Datadog (Member)
             homepage_url: https://github.com/DataDog
             logo: datadog.svg
@@ -664,6 +669,11 @@ landscape:
             homepage_url: https://comcast.github.io/
             logo: comcast.svg
             crunchbase: https://www.crunchbase.com/organization/comcast
+          - item:
+            name: Cuemby (Adopter)
+            homepage_url: https://www.cuemby.com/
+            logo: cuemby.svg
+            crunchbase: https://www.crunchbase.com/organization/cuemby
           - item:
             name: Datadog (Adopter)
             homepage_url: https://github.com/DataDog

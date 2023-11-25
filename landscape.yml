@@ -506,13 +506,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true
           - item:
-            name: InnerSource Commons (Associate)
-            homepage_url: https://innersourcecommons.org/
-            repo_url: https://github.com/InnerSourceCommons/innersourcecommons.org
-            logo: innersourcecommons.svg
-            crunchbase: https://www.crunchbase.com/organization/innersource-commons-foundation
-            allow_duplicate_repo: true
-          - item:
             name: ESOP (Associate)
             homepage_url: https://esop.pt
             logo: esop.svg

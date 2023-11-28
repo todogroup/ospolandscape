@@ -525,6 +525,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true
           - item:
+            name: LF Europe (Associate)
+            homepage_url: https://linuxfoundation.eu/
+            repo_url: https://github.com/servo/servo
+            logo: lf-europe.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
             name: OpenChain (Associate)
             homepage_url: https://www.openchainproject.org/
             logo: openchain.svg

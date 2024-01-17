@@ -91,10 +91,10 @@ landscape:
             logo: bytedance.svg
             crunchbase: https://www.crunchbase.com/organization/bytedance
           - item:
-            name: Camunda (Member)
-            homepage_url: https://github.com/camunda
-            logo: camunda.svg
-            crunchbase: https://www.crunchbase.com/organization/camunda
+            name: China Academy for Information and Communications Technology (Member)
+            homepage_url: http://www.caict.ac.cn/
+            logo: caict.svg
+            crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: Capital One (Member)
             homepage_url: http://www.capitalone.io/
@@ -640,6 +640,11 @@ landscape:
             homepage_url: https://github.com/bytedance
             logo: bytedance.svg
             crunchbase: https://www.crunchbase.com/organization/bytedance
+          - item:
+            name: China Academy for Information and Communications Technology (Adopter)
+            homepage_url: http://www.caict.ac.cn/
+            logo: caict.svg
+            crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: Camunda (Adopter)
             homepage_url: https://github.com/camunda

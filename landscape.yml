@@ -869,7 +869,10 @@ landscape:
             name: Morgan Stanley (Adopter)
             homepage_url: https://morgan-stanley.github.io/
             logo: morganstanley.svg
-            crunchbase: https://www.crunchbase.com/organization/morgan-stanley
+          - item:
+            name: City of Munich (Adopter)
+            homepage_url: https://opensource.muenchen.de/
+            logo: itm-logo.svg
           - item:
             name: National Instruments (Adopter)
             homepage_url: https://github.com/ni

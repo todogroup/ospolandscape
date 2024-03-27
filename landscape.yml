@@ -671,6 +671,10 @@ landscape:
             logo: chinamobile.svg
             crunchbase: https://www.crunchbase.com/organization/china-mobile
           - item:
+            name: City of Munich (Adopter)
+            homepage_url: https://opensource.muenchen.de/
+            logo: itm-logo.svg
+          - item:
             name: Cisco (Adopter)
             homepage_url: https://developer.cisco.com/site/opensource/
             logo: cisco.svg
@@ -869,7 +873,6 @@ landscape:
             name: Morgan Stanley (Adopter)
             homepage_url: https://morgan-stanley.github.io/
             logo: morganstanley.svg
-            crunchbase: https://www.crunchbase.com/organization/morgan-stanley
           - item:
             name: National Instruments (Adopter)
             homepage_url: https://github.com/ni

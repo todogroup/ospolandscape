@@ -671,6 +671,10 @@ landscape:
             logo: chinamobile.svg
             crunchbase: https://www.crunchbase.com/organization/china-mobile
           - item:
+            name: City of Munich (Adopter)
+            homepage_url: https://opensource.muenchen.de/
+            logo: itm-logo.svg
+          - item:
             name: Cisco (Adopter)
             homepage_url: https://developer.cisco.com/site/opensource/
             logo: cisco.svg
@@ -869,7 +873,6 @@ landscape:
             name: Morgan Stanley (Adopter)
             homepage_url: https://morgan-stanley.github.io/
             logo: morganstanley.svg
-            crunchbase: https://www.crunchbase.com/organization/morgan-stanley
           - item:
             name: National Instruments (Adopter)
             homepage_url: https://github.com/ni
@@ -1239,6 +1242,14 @@ landscape:
             logo: oss-review-toolkit.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
+            name: Revenera
+            description: >-
+              Revenera SCA helpa you discover, assess, and manage license and security risk across all your software applications. Our mission is to support the
+              construction of a complete and accurate SBOM to manage Legal and Security risk, and deliver compliance artifacts required by your compliance programs.
+            homepage_url: https://www.revenera.com/software-composition-analysis
+            logo: revenera.svg
+            crunchbase: https://www.crunchbase.com/organization/revenera
+          - item:
             name: Snyk Open Source License Compliance Management
             homepage_url: https://snyk.io/product/open-source-license-compliance
             logo: snyk.svg
@@ -1283,6 +1294,15 @@ landscape:
             homepage_url: https://www.whitesourcesoftware.com
             logo: white-source.svg
             crunchbase: https://www.crunchbase.com/organization/white-source
+          - item:
+            name: Dependency Management Data (DMD)
+            description: >-
+              Dependency Management Data (DMD) is a set of tooling to get a better understanding of the use of dependencies across your organisation.
+              The project aims to give you a queryable interface (using SQL or GraphQL) into how Open Source and internal dependencies are used, so you can target changes across your projects and organisation more appropriately.
+              The project can also take insights from deps.dev, endoflife.date, ecosyste.ms and OpenSSF Security Scorecard to provide more insights into any potential risks or interesting uses of Open Source dependencies.
+            homepage_url: https://dmd.tanna.dev
+            repo_url: https://gitlab.com/tanna.dev/dependency-management-data
+            logo: dependency-management-data.svg
       - subcategory:
         name: Metrics
         items:

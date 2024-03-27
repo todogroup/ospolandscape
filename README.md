@@ -1,24 +1,6 @@
-[![Dependency Status](https://img.shields.io/david/todogroup/ospolandscape.svg?style=flat-square)](https://david-dm.org/ospo/ospolandscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/60e4aab5-cea5-4d23-8015-454e420d78e0/deploy-status)](https://app.netlify.com/sites/ospolandscape/deploys)
-
 # OSPO Landscape
 
 ![OSPO Landscape Logo](images/left-logo.svg)
-
-- [OSPO Landscape](#cloud-native-landscape)
-  * [Current Version](#current-version)
-  * [Interactive Version](#interactive-version)
-  * [New Entries](#new-entries)
-  * [Logos](#logos)
-  * [Proper SVGs](#proper-svgs)
-  * [Corrections](#corrections)
-  * [External Data](#external-data)
-  * [Best Practices Badge](#best-practices-badge)
-  * [Non-Updated Items](#non-updated-items)
-  * [License](#license)
-  * [Formats](#formats)
-  * [Installation](#installation)
-  * [Vulnerability reporting](#vulnerability-reporting)
-  * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
 This landscape is intended as a map to explore the OSPO Ecosystem, and also shows the member companies of the TODO Group. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
@@ -73,35 +55,7 @@ SVGs need to not rely on external fonts so that they will render correctly in an
 
 ## Corrections
 
-Please open a pull request with edits to [landscape.yml](landscape.yml). The file [processed_landscape.yml](processed_landscape.yml) is generated and so should never be edited directly.
-
-If the error is with data from [Crunchbase](https://www.crunchbase.com/) you should open an account there and edit the data. If you don't like a project description, edit it in GitHub. If your project isn't showing the license correctly, you may need to paste the unmodified text of the license into a LICENSE file at the root of your project in GitHub, in order for GitHub to serve the license information correctly.
-
-## External Data
-
-The canonical source for all data is [landscape.yml](landscape.yml). Once a day, we download data for projects and companies from the following sources:
-
-* Project info from GitHub
-* Funding info from [Crunchbase](https://www.crunchbase.com/)
-* Market cap data from Yahoo Finance
-* CII Best Practices Badge [data](https://bestpractices.coreinfrastructure.org/)
-
-The update server enhances the source data with the fetched data and saves the result in [processed_landscape.yml](processed_landscape.yml). The app loads a JSON representation of processed_landscape.yml to display data.
-
-## Best Practices Badge
-
-As explained at https://bestpractices.coreinfrastructure.org/:
->The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
-
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.todogroup.org/bestpractices=yes) and [without](https://landscape.todogroup.org/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
-
-## Non-Updated Items
-
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.todogroup.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
-
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.todogroup.org/format=card-mode&grouping=no&license=not-open-source&sort=latest-tweet
-
-Items that have been removed can apply to be re-added using the regular New Entries criteria above.
+Please open a pull request with edits to [landscape.yml](landscape.yml). 
 
 ## License
 
@@ -109,12 +63,7 @@ This repository contains data received from [Crunchbase](http://www.crunchbase.c
 
 Everything else is under the Apache License, Version 2.0, except for project and product logos, which are generally copyrighted by the company that created them, and are simply cached here for reliability. The trail map, static landscape, serverless landscape, and [landscape.yml](landscape.yml) file are alternatively available under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-## Formats
-
-The OSPO Landscape is available in these formats:
-
-* [PNG](https://landscape.todogroup.org/images/landscape.png)
-* [PDF](https://landscape.todogroup.org/images/landscape.pdf)
+# Deprecated InstalationDoc (New doc TBD)
 
 ## Installation
 

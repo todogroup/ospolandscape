@@ -2,7 +2,7 @@
 
 ![OSPO Landscape Logo](images/left-logo.svg)
 
-This landscape is intended as a map to explore the OSPO Ecosystem, and also shows the member companies of the TODO Group. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same [open source code](https://github.com/cncf/landscape2).
+This landscape is intended as a map to explore the OSPO Ecosystem (Adopters and tools), and also shows the OSPO Associates and member organizatons of the TODO Group. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same [open source code](https://github.com/cncf/landscape2).
 
 ## Current Version
 
@@ -49,6 +49,10 @@ SVGs need to not rely on external fonts so that they will render correctly in an
 1. Select SVG from the format drop down and make sure that "Use Artboards" is checked
 1. This will open a SVG options box, make sure to set Decimal to 5 (that is the highest possible, so to ensure that sufficient detail is preserved)
 1. Click Okay to export
+
+### Style and Structure
+
+Some features (e.g. brand colors, groups) are controlled from the settings file. People can find the OSPO landscape settings file [here](https://github.com/cncf/landscape2-sites/blob/main/ospo/settings.yml) and suggest changes via PR.
 
 ## Corrections
 

@@ -1261,8 +1261,6 @@ landscape:
             description: >-
               A typical software project often reuses hundreds of third-party packages. License and packages, dependencies and origin information is not always easy to 
               find and not normalized. ScanCode discovers and normalizes this data for you.
-            homepage_url: https://www.revenera.com/software-composition-analysis
-            logo: revenera.svg
             homepage_url: https://github.com/nexB/scancode-toolkit
             logo: scancode.svg
           - item:

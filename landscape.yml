@@ -26,6 +26,11 @@ landscape:
             logo: amd-xilinx.svg
             crunchbase: https://www.crunchbase.com/organization/xilinx
           - item:
+            name: Ant Group (Member)
+            homepage_url: https://www.antgroup.com/
+            logo: antgroup.svg
+            crunchbase: https://www.crunchbase.com/organization/ant-group
+          - item:
             name: Apple (Member)
             homepage_url: https://opensource.apple.com/
             logo: apple.svg
@@ -311,11 +316,6 @@ landscape:
             logo: nokia.svg
             crunchbase: https://www.crunchbase.com/organization/nokia
           - item:
-            name: Optum (Member)
-            homepage_url: https://opensource.optum.com/
-            logo: optum.svg
-            crunchbase: https://www.crunchbase.com/organization/optum
-          - item:
             name: Paypal (Member)
             homepage_url: http://paypal.github.io/
             logo: paypal.svg
@@ -416,11 +416,6 @@ landscape:
             homepage_url: http://corner.squareup.com
             logo: square.svg
             crunchbase: https://www.crunchbase.com/organization/square
-          - item:
-            name: Stripe (Member)
-            homepage_url: https://github.com/stripe
-            logo: stripe.svg
-            crunchbase: https://www.crunchbase.com/organization/stripe
           - item:
             name: Target (Member)
             homepage_url: https://github.com/target
@@ -565,6 +560,11 @@ landscape:
             homepage_url: https://www.alliander.com/en/open-source/projects/
             logo: alliander.svg
             crunchbase: https://www.crunchbase.com/organization/alliander
+          - item:
+            name: Ant Group (Adopter)
+            homepage_url: https://www.antgroup.com/
+            logo: antgroup.svg
+            crunchbase: https://www.crunchbase.com/organization/ant-group
           - item:
             name: AMD Xilinx (Adopter)
             homepage_url: https://www.xilinx.com/

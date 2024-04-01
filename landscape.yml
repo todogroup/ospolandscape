@@ -1236,6 +1236,13 @@ landscape:
             logo: jihu-gitlab.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-information-hubei-co-ltd
           - item:
+            name: Licenseclassifier
+            description: >-
+              A library and set of tools that can analyze text to determine what type of license it contains. It searches for license texts in a file and compares them to an archive of 
+              known licenses. These files could be, e.g., LICENSE files with a single or multiple licenses in it, or source code files with the license text in a comment.
+            homepage_url: https://github.com/google/licenseclassifier
+            logo: tools_template.svg
+          - item:
             name: OSS Review Toolkit
             homepage_url: https://github.com/oss-review-toolkit/ort
             repo_url: https://github.com/oss-review-toolkit/ort
@@ -1248,7 +1255,16 @@ landscape:
               construction of a complete and accurate SBOM to manage Legal and Security risk, and deliver compliance artifacts required by your compliance programs.
             homepage_url: https://www.revenera.com/software-composition-analysis
             logo: revenera.svg
-            crunchbase: https://www.crunchbase.com/organization/revenera
+            crunchbase: https://www.crunchbase.com/organization/revenera          
+          - item:
+            name: ScanCode toolkit
+            description: >-
+              A typical software project often reuses hundreds of third-party packages. License and packages, dependencies and origin information is not always easy to 
+              find and not normalized. ScanCode discovers and normalizes this data for you.
+            homepage_url: https://www.revenera.com/software-composition-analysis
+            logo: revenera.svg
+            homepage_url: https://github.com/nexB/scancode-toolkit
+            logo: scancode.svg
           - item:
             name: Snyk Open Source License Compliance Management
             homepage_url: https://snyk.io/product/open-source-license-compliance

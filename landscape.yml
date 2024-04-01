@@ -513,6 +513,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             allow_duplicate_repo: true
           - item:
+            name: Foundation for Public Code (Associate)
+            homepage_url: https://publiccode.net/
+            logo: foundationforpubliccode.svg
+            allow_duplicate_repo: true
+          - item:
+            name: InnerSource Commons (Associate)
+            homepage_url: https://innersourcecommons.org/
+            logo: isc.svg
+            allow_duplicate_repo: true
+          - item:
             name: LF Energy (Associate)
             homepage_url: https://www.lfenergy.org/projects-new
             repo_url: https://github.com/lf-energy/foundation

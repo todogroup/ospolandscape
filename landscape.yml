@@ -523,6 +523,12 @@ landscape:
             logo: isc.svg
             allow_duplicate_repo: true
           - item:
+            name: LF APAC OSPO SIG (Associate)
+            homepage_url: https://training.linuxfoundation.cn/tag/LFAPAC
+            repo_url: https://github.com/lfapac-open-source-evangelist
+            logo: lfapac-osposig.svg
+            allow_duplicate_repo: true
+          - item:
             name: LF Energy (Associate)
             homepage_url: https://www.lfenergy.org/projects-new
             repo_url: https://github.com/lf-energy/foundation

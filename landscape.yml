@@ -1372,6 +1372,13 @@ landscape:
             logo: cncf.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
+            name: OSPulse
+            description: >-
+            OSPulse is an enterprise-level analytics dashboard for monitoring open source engagement. It gathers information about individual and companywide engagement with open source platforms, solutions and projects to provide you with greater transparency and visibility to make data-driven decisions.
+            homepage_url: https://www.epam.com/services/engineering/open-source/ospulse
+            logo: epam.svg
+            crunchbase: https://www.crunchbase.com/organization/epam-systems
+          - item:
             name: GrimoireLab
             homepage_url: https://chaoss.github.io/grimoirelab
             repo_url: https://github.com/chaoss/grimoirelab

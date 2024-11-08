@@ -1285,6 +1285,12 @@ landscape:
             homepage_url: https://github.com/nexB/scancode-toolkit
             logo: scancode.svg
           - item:
+            name: SCANOSS
+            description: >-
+              Open Source Software Inventory & Intelligence platform built specifically for modern DevSecOps and supply chains.
+            homepage_url: https://www.scanoss.com/
+            logo: scanoss.svg
+          - item:
             name: Snyk Open Source License Compliance Management
             homepage_url: https://snyk.io/product/open-source-license-compliance
             logo: snyk.svg

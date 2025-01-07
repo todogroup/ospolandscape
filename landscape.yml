@@ -256,6 +256,10 @@ landscape:
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
+            name: Intersect MBO (Member)
+            homepage_url: https://github.com/IntersectMBO/Open-Source-Office
+            logo: intersectmbo.svg
+          - item:
             name: ITRenew (Member)
             homepage_url: https://www.itrenew.com/
             logo: itrenew.svg
@@ -850,6 +854,10 @@ landscape:
             homepage_url: https://01.org/
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
+            - item:
+            name: Intersect MBO (Adopter)
+            homepage_url: https://github.com/IntersectMBO/Open-Source-Office
+            logo: intersectmbo.svg
           - item:
             name: ITRenew (Adopter)
             homepage_url: https://www.itrenew.com/

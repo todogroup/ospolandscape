@@ -1183,6 +1183,14 @@ landscape:
             logo: markdoc.svg
             twitter: https://twitter.com/StripeDev
             crunchbase: https://www.crunchbase.com/organization/stripe
+          - item:
+            name: Starlight
+            description: >-
+              Starlight is a documentation website builder that generates accessible, high performance static sites.
+            homepage_url: https://starlight.astro.build/
+            repo_url: https://github.com/withastro/starlight/
+            logo: starlight.svg
+            twitter: https://twitter.com/astrodotbuild
       - subcategory:
         name: SCA
         items:

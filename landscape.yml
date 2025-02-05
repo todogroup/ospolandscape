@@ -498,6 +498,12 @@ landscape:
         name: OSPO Associate
         items:
           - item:
+            name: CURIOSS (Associate)
+            homepage_url: https://curioss.org/
+            description: >-
+              CURIOSS is a Community for University and Research Institution OSPOs
+            logo: curioss.svg
+          - item:
             name: CHAOSS (Associate)
             homepage_url: https://chaoss.community/
             repo_url: https://github.com/chaoss/community

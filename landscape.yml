@@ -496,6 +496,10 @@ landscape:
             homepage_url: https://github.com/WiproOpenSourcePractice
             logo: wipro.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
+          - item:
+            name: ZTE (Member)
+            homepage_url: https://sdnfv.zte.com.cn/en/opensources
+            logo: zte.svg
   - category:
     name: OSPO Adopter
     subcategories:
@@ -1170,6 +1174,10 @@ landscape:
             homepage_url: https://opensource.zalando.com
             logo: zalando.svg
             crunchbase: https://www.crunchbase.com/organization/zalando
+          - item:
+            name: ZTE (Adopter)
+            homepage_url: https://sdnfv.zte.com.cn/en/opensources
+            logo: zte.svg
   - category:
     name: OSPO Tools
     subcategories:

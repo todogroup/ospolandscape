@@ -231,6 +231,10 @@ landscape:
             logo: hitachi.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
+            name: Honda (Member)
+            homepage_url: https://global.honda/
+            logo: honda.svg
+          - item:
             name: HPE (Member)
             homepage_url: https://github.com/HewlettPackard
             logo: hewlett-packard-enterprise.svg
@@ -264,6 +268,10 @@ landscape:
             name: Intersect MBO (Member)
             homepage_url: https://github.com/IntersectMBO/Open-Source-Office
             logo: intersect.png
+          - item:
+            name: IT Promotion Agency Japan Government (Member)
+            homepage_url: https://www.ipa.go.jp/en/
+            logo: ipa.png
           - item:
             name: ITRenew (Member)
             homepage_url: https://www.itrenew.com/
@@ -845,6 +853,10 @@ landscape:
             logo: hitachi.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
+            name: Honda (Adopter)
+            homepage_url: https://global.honda/
+            logo: honda.svg
+          - item:
             name: HPE (Adopter)
             homepage_url: https://github.com/HewlettPackard
             logo: hewlett-packard-enterprise.svg
@@ -878,6 +890,10 @@ landscape:
             name: Intersect MBO (Adopter)
             homepage_url: https://github.com/IntersectMBO/Open-Source-Office
             logo: intersect.png
+          - item:
+            name: IT Promotion Agency Japan Government (Member)
+            homepage_url: https://www.ipa.go.jp/en/
+            logo: ipa.png
           - item:
             name: ITRenew (Adopter)
             homepage_url: https://www.itrenew.com/

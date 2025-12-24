@@ -201,6 +201,10 @@ landscape:
             logo: freddie-mac.svg
             crunchbase: https://www.crunchbase.com/organization/freddie-mac
           - item:
+            name: George Washington University (Member)
+            homepage_url: https://ospo.gwu.edu/
+            logo: gw.png
+          - item:
             name: GitHub (Member)
             homepage_url: https://github.com/github
             logo: github.svg
@@ -817,6 +821,10 @@ landscape:
             homepage_url: https://www.freddiemac.com
             logo: freddie-mac.svg
             crunchbase: https://www.crunchbase.com/organization/freddie-mac
+          - item:
+            name: George Washington University (Adopter)
+            homepage_url: https://ospo.gwu.edu/
+            logo: gw.png
           - item:
             name: GitHub (Adopter)
             homepage_url: https://github.com/github

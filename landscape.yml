@@ -1263,6 +1263,15 @@ landscape:
             twitter: https://twitter.com/sw_integrity
             crunchbase: https://www.crunchbase.com/organization/synopsys
           - item:
+            name: BomLens
+            description: >-
+              BomLens is a local-first, open source SBOM generator and open source risk assessor from SK Telecom. It produces CycloneDX SBOMs and AI ML-BOMs with
+              G7 conformance checks, NOTICE files, and security/license risk reports from source, containers, binaries, firmware, AI models, and ingested SBOMs.
+            homepage_url: https://sktelecom.github.io/sbom-tools/
+            repo_url: https://github.com/sktelecom/sbom-tools
+            logo: bomlens.svg
+            crunchbase: https://www.crunchbase.com/organization/sk-telecom
+          - item:
             name: Bytesafe License Compliance
             description: >-
               Discover when new licenses are introduced in your codebase. Automatically track license compliance issues and restrict problematic or unlicensed

@@ -281,29 +281,15 @@ landscape:
             homepage_url: https://github.com/IntersectMBO/Open-Source-Office
             logo: intersect.png
           - item:
-            name: IT Promotion Agency Japan Government (Member)
-            homepage_url: https://www.ipa.go.jp/en/
-            logo: ipa.png
-          - item:
             name: ITRenew (Member)
             homepage_url: https://www.itrenew.com/
-            logo: itrenew.svg
+            logo: itrenew.png
             crunchbase: https://www.crunchbase.com/organization/itrenew
           - item:
             name: JiHu(GitLab) (Member)
             homepage_url: https://about.gitlab.cn
             logo: jihu-gitlab.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-information-hubei-co-ltd
-          - item:
-            name: Juniper (Member)
-            homepage_url: https://github.com/juniper
-            logo: juniper.svg
-            crunchbase: https://www.crunchbase.com/organization/juniper
-          - item:
-            name: Khan Academy (Member)
-            homepage_url: https://www.khanacademy.org/
-            logo: khan-academy.svg
-            crunchbase: https://www.crunchbase.com/organization/khan-academy
           - item:
             name: Meta (Member)
             homepage_url: https://opensource.fb.com
@@ -467,11 +453,6 @@ landscape:
             logo: toyota.svg
             crunchbase: https://www.crunchbase.com/organization/toyota
           - item:
-            name: Twitter (Member)
-            homepage_url: https://blog.twitter.com/engineering/en_us
-            logo: twitter.svg
-            crunchbase: https://www.crunchbase.com/organization/twitter
-          - item:
             name: Uber (Member)
             homepage_url: https://uber.github.io
             logo: uber.svg
@@ -524,7 +505,7 @@ landscape:
     name: OSPO Adopter
     subcategories:
       - subcategory:
-        name: OSPO Associate
+        name: Associate
         items:
           - item:
             name: CURIOSS (Associate)
@@ -915,13 +896,9 @@ landscape:
             homepage_url: https://github.com/IntersectMBO/Open-Source-Office
             logo: intersect.png
           - item:
-            name: IT Promotion Agency Japan Government (Member)
-            homepage_url: https://www.ipa.go.jp/en/
-            logo: ipa.png
-          - item:
             name: ITRenew (Adopter)
             homepage_url: https://www.itrenew.com/
-            logo: itrenew.svg
+            logo: itrenew.png
             crunchbase: https://www.crunchbase.com/organization/itrenew
           - item:
             name: JiHu(GitLab) (Adopter)
@@ -933,16 +910,6 @@ landscape:
             homepage_url: https://drcc.library.jhu.edu/open-source-programs-office/
             logo: jhu.svg
             crunchbase: https://www.crunchbase.com/organization/johns-hopkins-applied-physics-lab
-          - item:
-            name: Juniper (Adopter)
-            homepage_url: https://github.com/juniper
-            logo: juniper.svg
-            crunchbase: https://www.crunchbase.com/organization/juniper
-          - item:
-            name: Khan Academy (Adopter)
-            homepage_url: https://www.khanacademy.org/
-            logo: khan-academy.svg
-            crunchbase: https://www.crunchbase.com/organization/khan-academy
           - item:
             name: Line Corporation (Adopter)
             homepage_url: https://github.com/line

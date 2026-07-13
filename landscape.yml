@@ -1260,8 +1260,8 @@ landscape:
             description: >-
               BomLens is a local-first, open source SBOM generator and open source risk assessor from SK Telecom. It produces CycloneDX SBOMs and AI ML-BOMs with
               G7 conformance checks, NOTICE files, and security/license risk reports from source, containers, binaries, firmware, AI models, and ingested SBOMs.
-            homepage_url: https://sktelecom.github.io/sbom-tools/
-            repo_url: https://github.com/sktelecom/sbom-tools
+            homepage_url: https://sktelecom.github.io/bomlens/
+            repo_url: https://github.com/sktelecom/bomlens
             logo: bomlens.svg
             crunchbase: https://www.crunchbase.com/organization/sk-telecom
           - item:

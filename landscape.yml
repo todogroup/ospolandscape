@@ -1431,6 +1431,16 @@ landscape:
             homepage_url: https://dmd.tanna.dev
             repo_url: https://gitlab.com/tanna.dev/dependency-management-data
             logo: dependency-management-data.svg
+          - item:
+            name: licensegate
+            description: >-
+              licensegate is an open source, offline license gate for npm projects. It reads the lockfile, resolves SPDX
+              expressions and LICENSE texts, judges each dependency by how the project ships (SaaS, distributed app,
+              library or internal), fails CI on the licenses that block that mode, and writes a CycloneDX SBOM and
+              third-party notices. MIT, zero dependencies, runs with npx or as a GitHub Action.
+            homepage_url: https://licensegate.org/
+            repo_url: https://github.com/agustinnb/licensegate
+            logo: licensegate.svg
       - subcategory:
         name: Metrics
         items:
